@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Kevin Zhou"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -41,78 +41,50 @@ enableGitInfo = false
   section = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+# See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
-  # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
-
-  # Font style.
-  #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  color_theme = "adjusted"
+  font = "adjusted"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-
-  # Organizations/Affiliations.
-  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  name = "Kevin Zhou"
+  role = "Physics graduate student"
+  organizations = [ { name = "Oxford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "kzhou7@gmail.com"
+  address = "New College, Holywell St, Oxford OX1 3BN, UK"
+  office_hours = ""
+  phone = "07480 495301"
+  skype = "kzhou71"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
-  #   Uncomment line below to use.
-  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+  # Uncomment line below to use.
+  discussion = { name = "Physics StackExchange", url = "https://physics.stackexchange.com/users/83398/knzhou" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = ""
 
-  # Enable/disable map in Contact widget.
-  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-  # a map provider below.
-  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `map = 2`.
-  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
+  # Disable map
   map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
-  #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -121,8 +93,7 @@ enableGitInfo = false
   section_pager = false
 
   # Enable global LaTeX math rendering?
-  #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -152,7 +123,7 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["python"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -193,7 +164,6 @@ enableGitInfo = false
   # Configuration of publication pages.
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
 
   # Configuration of project pages.
@@ -209,42 +179,28 @@ enableGitInfo = false
     publication_format = 3
 
   # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
+  # Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  # Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "mailto:kzhou7@gmail.com"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=tk0iMzwAAAAJ"
+
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=%22Kevin+Zhou%22&terms-0-field=author&classification-physics=y&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/knzhou"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -254,11 +210,7 @@ enableGitInfo = false
   #   link = "files/cv.pdf"
 
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
 [params.menus]
-  # Align the main menu to the right of the page? (true/false)
   align_right = true
 
 [[menu.main]]
@@ -268,22 +220,17 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Notes"
+  url = "#lectures"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
+  name = "Tutoring"
+  url = "#tutoring"
   weight = 5
 
 [[menu.main]]
