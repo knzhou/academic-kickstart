@@ -11,7 +11,7 @@ title = "Tutoring"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 4
 
 +++
 
@@ -25,7 +25,4 @@ The tutoring program is designed for students who are aiming for USAPhO gold med
 
 The full curriculum is about 30 weeks long, though students can choose any subset they wish. The typical time commitment is 8-12 hours per week. For more details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}full syllabus{{% /staticref %}}.
 
-Prospective students should be comfortable with the content of both AP Physics C courses and with qualifying for the USAPhO. Ideally, students should have worked through at least half of *Physics* (5th edition) by Halliday, Resnick, and Krane. If you're interested, [email me](mailto:kzhou7@gmail.com)!
-
-
-
+Prospective students should be comfortable with the content of both AP Physics C courses and with qualifying for the USAPhO. Ideally, students should have worked through at least half of *Physics* (5th edition) by Halliday, Resnick, and Krane. If you're interested, [email me](mailto:kzhou7@gmail.com).

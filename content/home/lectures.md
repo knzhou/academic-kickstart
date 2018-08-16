@@ -11,20 +11,37 @@ title = "Lecture Notes"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 55
+weight = 3
 
 +++
 
-Below are some of the notes I've taken during my time learning physics. Notes for Cambridge's Part III Maths courses contain all the material that was lectured, but also a substantial amount of extra follow-up material. The notes are generally quite terse, by design.
+These are some notes I've taken while learning physics. Nothing in them is original; the explanations (and diagrams) are aggregated from many sources. These notes are provided "as is", with no guarantee of correctness, but do tell me if you find an error!
 
-- Undergraduate Physics
-- Undergraduate Math
-- {{% staticref "notes/Geometry.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}}
-- {{% staticref "notes/Group Theory.pdf" "newtab" %}}Group Theory{{% /staticref %}}
-- {{% staticref "notes/Statistical Field Theory.pdf" "newtab" %}}Statistical Field Theory{{% /staticref %}}
-- Condensed Matter
+#### Undergraduate (MIT) 
+
+I wrote these notes to summarize foundational undergraduate material. They roughly follow both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
+
+- Undergraduate Physics [8.01--8.09]
+- Undergraduate Math [18.01--18.100]
+- {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} [summer 2016 seminar]
+
+#### Part III (Cambridge) 
+
+These notes for Part III Maths courses follow the lectures only loosely, including a substantial amount of extra material.
+
+- {{% staticref "notes/grp.pdf" "newtab" %}}Group Theory{{% /staticref %}} [SFP]
+- {{% staticref "notes/sft.pdf" "newtab" %}}Statistical Field Theory{{% /staticref %}}
 - General Relativity
-- {{% staticref "notes/Quantum Field Theory.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}}
+- {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} [QFT, AQFT]
+- {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}}
 - Supersymmetry
 
-If you find any errors or have suggestions for improvements, please [email me](mailto:kzhou7@gmail.com).
+<!-- #### MMathPhys (Oxford)
+
+These notes are a work in progress. 
+
+- Cosmology
+- Solitons
+- Condensed Matter
+- Conformal Field Theory
+- String Theory -->
