@@ -15,13 +15,13 @@ weight = 3
 
 +++
 
-These are some notes I've taken while learning physics. Nothing in them is original; the explanations (and diagrams) are aggregated from many sources. These notes are provided "as is", with no guarantee of correctness, but do tell me if you find an error!
+These are some notes I've taken while learning physics. Nothing in them is original; the explanations (and diagrams) are aggregated from many sources. These notes are very terse and provided "as is", with no guarantee of correctness, but do tell me if you find an error!
 
 #### Undergraduate (MIT) 
 
 I wrote these notes to summarize foundational undergraduate material. They roughly follow both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
 
-- Undergraduate Physics [8.01--8.09]
+- {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}} [8.01--8.09]
 - Undergraduate Math [18.01--18.100]
 - {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} [summer 2016 seminar]
 
@@ -31,17 +31,17 @@ These notes for Part III Maths courses follow the lectures only loosely, includi
 
 - {{% staticref "notes/grp.pdf" "newtab" %}}Group Theory{{% /staticref %}} [SFP]
 - {{% staticref "notes/sft.pdf" "newtab" %}}Statistical Field Theory{{% /staticref %}}
-- General Relativity
+- {{% staticref "notes/gr.pdf" "newtab" %}}General Relativity{{% /staticref %}}
 - {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} [QFT, AQFT]
 - {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}}
-- Supersymmetry
+- {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
 
 <!-- #### MMathPhys (Oxford)
 
 These notes are a work in progress. 
 
 - Cosmology
-- Solitons
+- Solitons  
 - Condensed Matter
 - Conformal Field Theory
 - String Theory -->

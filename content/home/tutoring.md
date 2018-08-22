@@ -17,12 +17,8 @@ weight = 4
 
 I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Physics Olympiad (IPhO). I competed at the IPhO in 2012 and 2013, and have taught at the US Physics Team training camp for three years. I got into the tutoring business last year, where two of my students qualified for the US Physics Team and one won a gold medal at the IPhO. 
 
-The tutoring program is designed for students who are aiming for USAPhO gold medals, or to qualify for the US Physics Team or IPhO. During the training, students receive weekly handouts and write up solutions, to be discussed at an online meeting. Detailed solutions are provided afterward. The handouts are grouped into subfields as:
+The tutoring program is designed for students who are aiming for USAPhO gold medals, or to qualify for the US Physics Team or IPhO. During the training, students receive weekly handouts containing about 30 questions and write up solutions, to be discussed at an online meeting. Detailed solutions are provided afterward. 
 
-- 2 weeks of problem solving skills
-- 8 weeks each of mechanics and electromagnetism
-- 3 weeks each of relativity, thermodynamics, waves, and modern physics
-
-The full curriculum is about 30 weeks long, though students can choose any subset they wish. The typical time commitment is 8-12 hours per week. For more details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}full syllabus{{% /staticref %}}.
+The full curriculum is about 30 weeks long, though students can choose any subset they wish. The typical time commitment is 8-15 hours per week. For more details, including a breakdown of the curriculum by subfield, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}full syllabus{{% /staticref %}}.
 
 Prospective students should be comfortable with the content of both AP Physics C courses and with qualifying for the USAPhO. Ideally, students should have worked through at least half of *Physics* (5th edition) by Halliday, Resnick, and Krane. If you're interested, [email me](mailto:kzhou7@gmail.com).
