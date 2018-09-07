@@ -15,33 +15,35 @@ weight = 3
 
 +++
 
-These are some notes I've taken while learning physics. Nothing in them is original; the explanations (and diagrams) are aggregated from many sources. These notes are very terse and provided "as is", with no guarantee of correctness, but do tell me if you find an error!
+These are some notes I've taken while learning physics. Nothing in them is original; everything is aggregated from many sources. These notes are very terse and provided "as is", with no guarantee of correctness, but do tell me if you find an error!
 
 #### Undergraduate (MIT) 
 
 I wrote these notes to summarize foundational undergraduate material. They roughly follow both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
 
 - {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}} [8.01--8.09]
-- Undergraduate Math [18.01--18.100]
+- {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}} [18.01--18.100]
 - {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} [summer 2016 seminar]
+- Solid State Physics [8.231]
 
 #### Part III (Cambridge) 
 
-These notes for Part III Maths courses follow the lectures only loosely, including a substantial amount of extra material.
+These notes for Part III Maths courses follow the lectures loosely, including a substantial amount of extra material.
 
 - {{% staticref "notes/grp.pdf" "newtab" %}}Group Theory{{% /staticref %}} [SFP]
 - {{% staticref "notes/sft.pdf" "newtab" %}}Statistical Field Theory{{% /staticref %}}
 - {{% staticref "notes/gr.pdf" "newtab" %}}General Relativity{{% /staticref %}}
 - {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} [QFT, AQFT]
-- {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}}
+- {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}} [SM, BSM]
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
 
-<!-- #### MMathPhys (Oxford)
+#### MMathPhys (Oxford)
 
-These notes are a work in progress. 
+These notes for the MMathPhys course are currently in progress. 
 
+- Topological Quantum Mechanics
 - Cosmology
-- Solitons  
-- Condensed Matter
+- Solitons
+- Condensed Matter [Advanced Quantum Theory, Quantum Matter]
 - Conformal Field Theory
-- String Theory -->
+- String Theory
