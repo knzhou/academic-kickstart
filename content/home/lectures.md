@@ -15,35 +15,29 @@ weight = 3
 
 +++
 
-These are some notes I've taken while learning physics. Nothing in them is original; everything is aggregated from many sources. These notes are very terse and provided "as is", with no guarantee of correctness, but do tell me if you find an error!
+These are some notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books.
 
 #### Undergraduate (MIT) 
 
-I wrote these notes to summarize foundational undergraduate material. They roughly follow both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
+These notes summarize undergraduate material. They roughly cover both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
 
-- {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}} [8.01--8.09]
-- {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}} [18.01--18.100]
-- {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} [summer 2016 seminar]
-- Solid State Physics [8.231]
+- {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}}
+- {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}}
+- {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} 
+- Solid State Physics 
 
-#### Part III (Cambridge) 
+#### Master's (Cambridge, Oxford)
 
-These notes for Part III Maths courses follow the lectures loosely, including a substantial amount of extra material.
+I took these notes during a two year Marshall scholarship in the UK, at Cambridge's Part III and Oxford's MMathPhys. The notes here generally blend the two together.
 
-- {{% staticref "notes/grp.pdf" "newtab" %}}Group Theory{{% /staticref %}} [SFP]
+- {{% staticref "notes/grp.pdf" "newtab" %}}Group Theory{{% /staticref %}} 
 - {{% staticref "notes/sft.pdf" "newtab" %}}Statistical Field Theory{{% /staticref %}}
 - {{% staticref "notes/gr.pdf" "newtab" %}}General Relativity{{% /staticref %}}
-- {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} [QFT, AQFT]
-- {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}} [SM, BSM]
+- {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} 
+- {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}}
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
-
-#### MMathPhys (Oxford)
-
-These notes for the MMathPhys course are currently in progress. 
-
-- Topological Quantum Mechanics
+- Topological Quantum Theory
+- Condensed Matter 
 - Cosmology
-- Solitons
-- Condensed Matter [Advanced Quantum Theory, Quantum Matter]
 - Conformal Field Theory
 - String Theory
