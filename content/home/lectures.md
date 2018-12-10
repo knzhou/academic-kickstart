@@ -24,7 +24,7 @@ These notes summarize undergraduate material. They roughly cover both the MIT un
 - {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}}
 - {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}}
 - {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} 
-- Solid State Physics 
+- {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}} 
 
 #### Master's (Cambridge, Oxford)
 
@@ -36,8 +36,8 @@ I took these notes during a two year Marshall scholarship in the UK, at Cambridg
 - {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} 
 - {{% staticref "notes/sm.pdf" "newtab" %}}Standard Model{{% /staticref %}}
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
-- Topological Quantum Theory
 - Condensed Matter 
+- Anyons
 - Cosmology
 - Conformal Field Theory
 - String Theory
