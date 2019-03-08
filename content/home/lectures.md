@@ -38,6 +38,6 @@ These notes cover material taught at Cambridge's Part III and Oxford's MMathPhys
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
 - Condensed Matter 
 - Anyons
-- Cosmology
+- {{% staticref "notes/cos.pdf" "newtab" %}}Cosmology{{% /staticref %}}
+- {{% staticref "notes/str.pdf" "newtab" %}}String Theory{{% /staticref %}}
 - Conformal Field Theory
-- String Theory
