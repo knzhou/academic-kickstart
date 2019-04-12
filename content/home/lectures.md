@@ -15,7 +15,7 @@ weight = 3
 
 +++
 
-These are the notes I've taken while learning physics in the UK. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at just over 400,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at just over 400,000 words. 
 
 #### Undergraduate (MIT) 
 
