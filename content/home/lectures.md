@@ -17,7 +17,7 @@ weight = 3
 
 These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at just over 400,000 words. 
 
-#### Undergraduate (MIT) 
+### Undergraduate (MIT) 
 
 These notes summarize undergraduate material. They roughly cover both the MIT undergraduate sequence and Part I and II of the Cambridge physics sequence. 
 
@@ -26,7 +26,7 @@ These notes summarize undergraduate material. They roughly cover both the MIT un
 - {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} 
 - {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}} 
 
-#### Master's (Cambridge, Oxford)
+### Master's (Cambridge, Oxford)
 
 These notes cover material taught at Cambridge's Part III and Oxford's MMathPhys.
 

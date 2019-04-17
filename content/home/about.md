@@ -17,6 +17,10 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD (in progress)"
+  institution = "Stanford"
+
+[[education.courses]]
   course = "MMathPhys"
   institution = "Oxford"
   year = 2019
