@@ -13,7 +13,7 @@ title = "Kevin Zhou"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -226,11 +226,16 @@ enableGitInfo = false
 [[menu.main]]
   name = "Notes"
   url = "#lectures"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Tutoring"
   url = "#tutoring"
+  weight = 4
+
+[[menu.main]]
+  name = "Writing"
+  url = "#writing"
   weight = 5
 
 [[menu.main]]
