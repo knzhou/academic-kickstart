@@ -23,4 +23,4 @@ The full curriculum is about 30 weeks long, though students can choose any subse
 
 The tutoring program is pitched at a high level; for context, see the problem sets for {{% staticref "tutoring/M4.pdf" "newtab" %}}Mechanics IV{{% /staticref %}} and {{% staticref "tutoring/E5.pdf" "newtab" %}}Electromagnetism V{{% /staticref %}}. I expect students to be comfortable with calculus-based mechanics and electromagnetism, and with qualifying for the USAPhO. Past students usually entered with USAPhO silver medals. For more introductory training, you can ask me to refer you to another tutor, or consider the [PhysicsWOOT](https://artofproblemsolving.com/school/woot-physics) program by Art of Problem Solving. Another good resource is *Physics* (5th edition) by Halliday, Resnick, and Krane.
 
-I'm currently taking students for the 2019--2020 academic year; if you're interested, [email me](mailto:kzhou7@gmail.com).
+I'm currently taking students for the 2019--2020 training, which will begin in September and end in March. For logistical details, such as how to apply, see the {{% staticref "tutoring/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}. 
