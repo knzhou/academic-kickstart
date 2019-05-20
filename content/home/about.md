@@ -21,7 +21,7 @@ weight = 1
   institution = "Stanford"
 
 [[education.courses]]
-  course = "MMathPhys"
+  course = "MSc MTP"
   institution = "Oxford"
   year = 2019
 
