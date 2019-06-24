@@ -27,5 +27,5 @@ A lot of people ask me for advice for learning physics or preparing for the F=ma
 Below are some expository works on physics, at both the popular and technical level.
 
 - {{% staticref "writing/Relaxation.pdf" "newtab" %}}Cosmological Relaxation{{% /staticref %}}. A dissertation written for the Oxford MSc in Mathematical and Theoretical Physics, covering models that "relax" the Higgs boson's mass. Also contains musings on model building and the precise meaning of naturalness and fine-tuning.
-- {{% staticref "writing/Demuth.pdf" "newtab" %}}The Meaning of Nothing{{% /staticref %}}. An essay submitted for the New College Demuth prize, on how theoretical stories map onto reality, and why philosophical flexibility is a hidden strength. 
+- {{% staticref "writing/Demuth.pdf" "newtab" %}}The Meaning of Nothing{{% /staticref %}}. The New College Demuth prize essay, on how theoretical stories map onto reality, and why a physicist's philosophical flexibility is a useful tool. 
 
