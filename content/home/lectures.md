@@ -26,11 +26,11 @@ These notes summarize foundational material. They roughly cover both the MIT und
 
 These notes give a little bit of background on a wide variety of fields, and are aimed at the late undergraduate level.
 
-- {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}}
-- {{% staticref "notes/opt.pdf" "newtab" %}}Atomic and Optical Physics{{% /staticref %}} 
 - Astrophysics
 - Quantum Computation
-- Condensed Matter 
+- {{% staticref "notes/opt.pdf" "newtab" %}}Atomic and Optical Physics{{% /staticref %}} 
+- {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}}
+- Condensed Matter
 
 ### Depth
 
