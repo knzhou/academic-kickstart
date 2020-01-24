@@ -12,7 +12,7 @@ title = "Lecture Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at about 1,500 pages and 600,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,740 pages and 640,000 words. 
 
 ### Basics
 
@@ -20,7 +20,8 @@ These notes summarize foundational material. They roughly cover both the MIT und
 
 - {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}}
 - {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}}
-- {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}} 
+- {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}}
+- {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
 
 ### Breadth
 
