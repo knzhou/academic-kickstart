@@ -12,7 +12,7 @@ title = "Lecture Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,750 pages and 650,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,770 pages and 660,000 words. 
 
 ### Basics
 
@@ -28,8 +28,8 @@ These notes summarize foundational material. They roughly cover both the MIT und
 These notes give a little bit of background on a wide variety of fields, and are aimed at the late undergraduate level.
 
 - Astrophysics
-- Quantum Computation
 - {{% staticref "notes/opt.pdf" "newtab" %}}Atomic and Optical Physics{{% /staticref %}} 
+- Quantum Computation
 - {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}}
 - Condensed Matter
 
@@ -43,7 +43,7 @@ These notes focus on my own field of particle physics, following courses taught 
 - {{% staticref "notes/qft.pdf" "newtab" %}}Quantum Field Theory{{% /staticref %}} 
 - {{% staticref "notes/sm.pdf" "newtab" %}}The Standard Model{{% /staticref %}}
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
-- Anyons
 - {{% staticref "notes/cos.pdf" "newtab" %}}Cosmology{{% /staticref %}}
 - {{% staticref "notes/str.pdf" "newtab" %}}String Theory{{% /staticref %}}
 - Conformal Field Theory
+- Topological Field Theory
