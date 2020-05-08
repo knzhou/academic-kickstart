@@ -23,7 +23,7 @@ bio: I'm a graduate student interested in particle phenomenology and physics edu
 interests:
 - Beyond the Standard Model
 - Dark matter
-- Collider physics
+- Precision experiments
 
 education:
   courses:

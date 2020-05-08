@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "382 Via Pueblo Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Varian Building", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -110,7 +110,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "kzhou71", link = "skype:kzhou71?call"},
-  {icon = "comments", icon_pack = "fas", name = "Physics StackExchange", link = "https://physics.stackexchange.com/users/83398/knzhou"},
+  #{icon = "comments", icon_pack = "fas", name = "Physics StackExchange", link = "https://physics.stackexchange.com/users/83398/knzhou"},
   ]
 
 ############################
