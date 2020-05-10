@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some answers I've written on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou), organized by prerequisites.
+Here are some answers I've written on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou).
 
 ### Conceptual 
 - [Why are muons considered to be elementary particles in the Standard Model?](https://physics.stackexchange.com/a/274942/83398)
@@ -37,3 +37,8 @@ Here are some answers I've written on [Physics StackExchange](https://physics.st
 - [Is the effective Lagrangian the bare Lagrangian?](https://physics.stackexchange.com/a/408762/83398)
 - [Why does having a representation of the Poincaré algebra imply conservation of energy, momentum and angular momentum?](https://physics.stackexchange.com/a/545152/83398)
 - [Why is the smallness of Higgs mass not technically natural?](https://physics.stackexchange.com/a/499121/83398)
+
+### Academia.SE
+- [What's an efficient way to learn simple formulas by heart without understanding?](https://academia.stackexchange.com/a/103875/49970)
+- [Do you keep your study notes publicly available?](https://academia.stackexchange.com/a/148275/49970)
+- [Is Academia a dying field?](https://academia.stackexchange.com/a/114616/49970)
