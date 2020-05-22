@@ -34,6 +34,7 @@ Here are some answers I've written on [Physics StackExchange](https://physics.st
 - [Why do we need complex representations in Grand Unified Theories?](https://physics.stackexchange.com/a/403960/83398)
 - [If turning a perfectly monochromatic laser on for a finite time gives a frequency spread, where did the other frequency photons come from?](https://physics.stackexchange.com/a/524430/83398)
 - [What are the assumptions that C, P, and T must satisfy?](https://physics.stackexchange.com/a/429516/83398)
+- [What is the analog of the Aharonov-Bohm effect for general gauge fields and for gravity?](https://physics.stackexchange.com/a/552373/83398)
 - [Is the effective Lagrangian the bare Lagrangian?](https://physics.stackexchange.com/a/408762/83398)
 - [Why does having a representation of the Poincaré algebra imply conservation of energy, momentum and angular momentum?](https://physics.stackexchange.com/a/545152/83398)
 - [Why is the smallness of Higgs mass not technically natural?](https://physics.stackexchange.com/a/499121/83398)
