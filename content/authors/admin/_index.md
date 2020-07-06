@@ -55,7 +55,7 @@ social:
   link: https://github.com/knzhou
 - icon: arxiv
   icon_pack: ai
-  link: https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=%22Kevin+Zhou%22&terms-0-field=author&classification-physics=y&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+  link: https://arxiv.org/a/zhou_k_2.html
 
 ---
 
