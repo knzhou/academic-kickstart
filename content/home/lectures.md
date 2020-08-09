@@ -12,7 +12,7 @@ title = "Lecture Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,800 pages and 700,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,850 pages and 725,000 words. 
 
 ### Basics
 
@@ -21,7 +21,6 @@ These notes summarize foundational material. They roughly cover both the MIT und
 - {{% staticref "notes/phy.pdf" "newtab" %}}Undergraduate Physics{{% /staticref %}}
 - {{% staticref "notes/mat.pdf" "newtab" %}}Undergraduate Math{{% /staticref %}}
 - {{% staticref "notes/gt.pdf" "newtab" %}}Geometry and Topology{{% /staticref %}}
-- {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
 
 ### Breadth
 
@@ -45,5 +44,10 @@ These notes focus on my own field of particle physics, following courses taught 
 - {{% staticref "notes/susy.pdf" "newtab" %}}Supersymmetry{{% /staticref %}}
 - {{% staticref "notes/cos.pdf" "newtab" %}}Cosmology{{% /staticref %}}
 - {{% staticref "notes/str.pdf" "newtab" %}}String Theory{{% /staticref %}}
-- Conformal Field Theory
-- Topological Field Theory
+
+### Dabbling
+
+These notes reflect the little I've learned in fields besides my own.
+
+- {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
+- {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}} 
