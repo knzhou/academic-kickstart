@@ -12,7 +12,7 @@ title = "Lecture Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,850 pages and 725,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,870 pages and 740,000 words. 
 
 ### Basics
 
