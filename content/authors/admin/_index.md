@@ -50,12 +50,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=tk0iMzwAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/knzhou
-- icon: arxiv
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/knzhou
+- icon: inspire
   icon_pack: ai
-  link: https://arxiv.org/a/zhou_k_2.html
+  link: https://inspirehep.net/authors/1775962
 
 ---
 
