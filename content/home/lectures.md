@@ -12,7 +12,7 @@ title = "Lecture Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,870 pages and 740,000 words. 
+These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,900 pages and 750,000 words. 
 
 ### Basics
 
@@ -26,11 +26,9 @@ These notes summarize foundational material. They roughly cover both the MIT und
 
 These notes give a little bit of background on a wide variety of fields, and are aimed at the late undergraduate level.
 
-- Astrophysics
 - {{% staticref "notes/opt.pdf" "newtab" %}}Atomic and Optical Physics{{% /staticref %}} 
-- Quantum Computation
 - {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}}
-- Condensed Matter
+- {{% staticref "notes/ast.pdf" "newtab" %}}Astrophysics{{% /staticref %}} 
 
 ### Depth
 
@@ -47,7 +45,7 @@ These notes focus on my own field of particle physics, following courses taught 
 
 ### Dabbling
 
-These notes reflect the little I've learned in fields besides my own.
+These notes reflect the bits I've learned in fields besides my own.
 
 - {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
 - {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}} 
