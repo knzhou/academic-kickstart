@@ -55,9 +55,10 @@ Here are some articles that I've saved. Some of them are one-sided. Some tend to
 
 ### Leadership
 - [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
+- [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
+- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
-- [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
 
 ### Change
