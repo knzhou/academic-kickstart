@@ -16,7 +16,7 @@ I offer tutoring for the USA Physics Olympiad (USAPhO) and the International Phy
 
 The tutoring program is designed for students aiming for gold medals at the USAPhO or IPhO. During the training, students receive weekly handouts with about 30 questions, which are discussed at an online meeting. At the end of the year, there are also several graded practice USAPhOs and review sessions. The learning is self-driven: instead of having me lecture at you, you'll try the problems and we'll discuss your attempts and solutions. 
 
-The full curriculum is about 30 weeks long, though students can choose any subset or order they wish. The typical time commitment is 8--12 hours per week. For details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}}. 
+The core curriculum is 24 units long, though students can choose any subset or order they wish. The typical time commitment is 8--12 hours per week. For details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}}. 
 
 The tutoring program is pitched at a high level; for context, see the problem sets for {{% staticref "tutoring/M4.pdf" "newtab" %}}Mechanics IV{{% /staticref %}} and {{% staticref "tutoring/E5.pdf" "newtab" %}}Electromagnetism V{{% /staticref %}}. I expect students to be comfortable with calculus-based physics and with qualifying for the USAPhO. For more introductory training, you can ask me to refer you to another tutor, or consider the [PhysicsWOOT](https://artofproblemsolving.com/school/woot-physics) program by Art of Problem Solving. Another good resource is *Physics* (5th edition) by Halliday, Resnick, and Krane.
 
