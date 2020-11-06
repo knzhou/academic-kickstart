@@ -75,4 +75,4 @@ Here are some articles that I've saved. Some of them are one-sided. Some tend to
 - [Fast](https://patrickcollison.com/fast)
 - [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
 - [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
-- [The Sun Was Once New](https://abandonedfootnotes.blogspot.com/2013/04/the-sun-was-once-new.html)
+- [17776](https://www.sbnation.com/a/17776-football/)
