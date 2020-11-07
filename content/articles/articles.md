@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles that I've saved. Some of them are one-sided. Some tend to melodrama. But I thought all of them were interesting. 
+Here are some articles that I've saved. Some of them are one-sided, some tend to melodrama, and a few are simply wrong. But I thought all of them were interesting. 
 
 ### Modernization
 - [Industrial Literacy](https://rootsofprogress.org/industrial-literacy)
@@ -58,6 +58,7 @@ Here are some articles that I've saved. Some of them are one-sided. Some tend to
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
+- [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
 
