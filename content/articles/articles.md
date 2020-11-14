@@ -56,17 +56,17 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 ### Leadership
 - [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
-- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
+- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
 
 ### Change
 - [Remembering Kowloon Walled City](https://flashbak.com/remembering-kowloon-walled-city-the-lawless-outpost-that-was-once-the-most-densely-populated-place-on-earth-427330/)
-- [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0)
 - [The World’s Cheapest Hospital Has to Get Even Cheaper](https://www.bloomberg.com/news/features/2019-03-26/the-world-s-cheapest-hospital-has-to-get-even-cheaper)
 - [Doing Western Students' Homework is Big Business in Kenya](https://www.pri.org/stories/2020-01-24/doing-western-students-homework-big-business-kenya)
+- [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0)
 - [How China Controlled the Coronavirus](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
 - [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
 - [The 8th Wonder of the World](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
