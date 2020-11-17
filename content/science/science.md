@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles about how we got here, how it's going, and what it looks like on the ground. The quit lit is an important perspective, though it needs to be taken with a grain of salt. 
+Here are some articles about how we got here, how it's going, and what it looks like on the ground. They are all nontechnical; good technical articles are linked in my {{% staticref "/#lectures" %}}lecture notes{{% /staticref %}}. Regarding the quit lit, I believe that everybody should read some before committing to graduate school, but it needs to be taken with a grain of salt.
 
 ### History and Philosophy
 - [The Great Ptolemaic Smackdown](http://faculty.fiu.edu/~blissl/Flynngs.pdf)

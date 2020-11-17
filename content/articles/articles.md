@@ -26,13 +26,17 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [Book Review: The Secret of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
 
 ### Modernity
-- [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
-- [Post-Prozac Nation](https://www.nytimes.com./2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
-- [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
-- [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
 - [The Refragmentation](http://www.paulgraham.com/re.html)
+- [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
 - [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
 - [The Tragedy of Baltimore](https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html)
+- [The Strange Disappearance of Civic America](http://xroads.virginia.edu/~Hyper/DETOC/assoc/strange.html)
+
+### Health
+- [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
+- [Post-Prozac Nation](https://www.nytimes.com./2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
+- [Maybe it's Lyme](https://www.thecut.com/2019/07/what-happens-when-lyme-disease-becomes-an-identity.html)
+- [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
 - [Total Depravity](https://longreads.com/2019/05/22/total-depravity-the-origins-of-the-drug-epidemic-in-appalachia-laid-bare/)
 
 ### Rule of Law
@@ -50,7 +54,6 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [The Mad, Mad World of Niche Sports Among Ivy League Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
 - [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html)
 - [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
-- [Maybe it's Lyme](https://www.thecut.com/2019/07/what-happens-when-lyme-disease-becomes-an-identity.html)
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
 
 ### Leadership
@@ -59,6 +62,7 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
+- [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
 
