@@ -28,9 +28,10 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 ### Modernity
 - [The Refragmentation](http://www.paulgraham.com/re.html)
 - [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
-- [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
 - [The Tragedy of Baltimore](https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html)
+- [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
 - [The Strange Disappearance of Civic America](http://xroads.virginia.edu/~Hyper/DETOC/assoc/strange.html)
+- [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
 
 ### Health
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
@@ -54,6 +55,7 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [The Mad, Mad World of Niche Sports Among Ivy League Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
 - [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html)
 - [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
+- [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
 
 ### Leadership
@@ -61,7 +63,7 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
-- [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
+- [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
