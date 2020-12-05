@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles that I've saved. Some of them are one-sided, some tend to melodrama, and a few are simply wrong. But I thought all of them were interesting. 
+Here are some articles that I've saved. Some are one-sided, so I've paired them with equal and opposite articles for contrast. Some are melodramatic, but still fun to read. A few have turned out to be completely wrong. But I thought all of them were interesting. 
 
 ### Modernization
 - [Industrial Literacy](https://rootsofprogress.org/industrial-literacy)
@@ -30,7 +30,8 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
 - [The Tragedy of Baltimore](https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html)
 - [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
-- [The Strange Disappearance of Civic America](http://xroads.virginia.edu/~Hyper/DETOC/assoc/strange.html)
+- [The Strange Disappearance of Civic America](https://prospect.org/infrastructure/strange-disappearance-civic-america/)
+- [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
 
 ### Health
@@ -53,9 +54,9 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 ### Exit
 - [I Can Tolerate Anything Except the Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 - [The Mad, Mad World of Niche Sports Among Ivy League Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
-- [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html)
+- [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html) 
 - [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
-- [The Real Problem at Yale is Not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
+- [The Real Problem at Yale is not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
 
 ### Leadership
@@ -65,21 +66,24 @@ Here are some articles that I've saved. Some of them are one-sided, some tend to
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
-- [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html) 
+- [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html)
+- [Inside the Fall of the CDC](https://www.propublica.org/article/inside-the-fall-of-the-cdc)
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
 
 ### Change
 - [Remembering Kowloon Walled City](https://flashbak.com/remembering-kowloon-walled-city-the-lawless-outpost-that-was-once-the-most-densely-populated-place-on-earth-427330/)
+- [Eyes In The Sky](https://restofworld.org/2020/india-magh-mela/)
 - [The World’s Cheapest Hospital Has to Get Even Cheaper](https://www.bloomberg.com/news/features/2019-03-26/the-world-s-cheapest-hospital-has-to-get-even-cheaper)
 - [Doing Western Students' Homework is Big Business in Kenya](https://www.pri.org/stories/2020-01-24/doing-western-students-homework-big-business-kenya)
 - [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0)
 - [How China Controlled the Coronavirus](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
-- [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
+- [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html) 
 - [The 8th Wonder of the World](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
 - [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
 
-### Coda
-- [Fast](https://patrickcollison.com/fast)
+### The Future
 - [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
-- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
+- [Fast](https://patrickcollison.com/fast)
+- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/) 
+- [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
 - [17776](https://www.sbnation.com/a/17776-football/)
