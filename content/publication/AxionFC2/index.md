@@ -6,7 +6,7 @@ authors:
 - "S. Ellis"
 - "K. Zhou"
 
-date: "2020-08-02"
+date: "2020-07-30"
 doi: ""
 
 # Publication type. (2 = journal article, 3 = preprint)

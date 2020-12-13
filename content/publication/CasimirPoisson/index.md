@@ -5,7 +5,7 @@ authors:
 - "A. Larkoski"
 - "J. Thaler"
 - "K. Zhou"
-date: "2017-04-20"
+date: "2017-09-19"
 doi: ""
 
 # Publication type. (2 = journal article, 3 = preprint)

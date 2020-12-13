@@ -6,7 +6,7 @@ authors:
 - "J. Thaler"
 - "W. Wallewijn"
 - "K. Zhou"
-date: "2017-06-01"
+date: "2017-06-15"
 doi: ""
 
 # Publication type. (2 = journal article, 3 = preprint)
