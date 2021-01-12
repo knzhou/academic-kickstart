@@ -34,9 +34,19 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
 
+### Shorts
+- [On the Phenomenon of Bullshit Jobs](https://www.strike.coop/bullshit-jobs/)
+- [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html) 
+- [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
+- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
+- [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
+- [I Am The Mythical Obama-Trump Voter](https://www.mcsweeneys.net/articles/i-am-the-mythical-obama-trump-voter-and-from-now-until-election-day-you-must-worship-me-as-your-god)
+- [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
+- [Fast](https://patrickcollison.com/fast)
+
 ### Health
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
-- [Post-Prozac Nation](https://www.nytimes.com./2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
+- [Post-Prozac Nation](https://www.nytimes.com/2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
 - [Maybe it's Lyme](https://www.thecut.com/2019/07/what-happens-when-lyme-disease-becomes-an-identity.html)
 - [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
 - [Total Depravity](https://longreads.com/2019/05/22/total-depravity-the-origins-of-the-drug-epidemic-in-appalachia-laid-bare/)
@@ -45,8 +55,8 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Demosclerosis](https://www.jonathanrauch.com/jrauch_articles/demosclerosis_the_original_article/)
 - [The Most Expensive Mile of Subway Track on Earth](https://www.nytimes.com/2017/12/28/nyregion/new-york-subway-construction-costs.html)
 - [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/news/magazine/2019/11/29/penn-station-robert-caro-073564)
+- [The Lawyer Who Became DuPont's Worst Nightmare](https://app.getpocket.com/read/1154216573)
 - [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm)
-- [On the Phenomenon of Bullshit Jobs](https://www.strike.coop/bullshit-jobs/)
 - [My IRB Nightmare](https://slatestarcodex.com/2017/08/29/my-irb-nightmare/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -54,7 +64,6 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 ### Exit
 - [I Can Tolerate Anything Except the Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 - [The Mad, Mad World of Niche Sports Among Ivy League Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
-- [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html) 
 - [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
 - [The Real Problem at Yale is not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
@@ -62,13 +71,20 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 ### Leadership
 - [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
-- [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
-- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
+- [The Pentagon Syndrome](https://harpers.org/archive/2019/06/the-pentagon-syndrome/)
+- [Into the Breach](https://foreignpolicy.com/2020/12/21/china-stolen-us-data-exposed-cia-operatives-spy-networks/)
 - [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
-- [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [The Aspiring Novelist Who Became Obama’s Foreign Policy Guru](https://www.nytimes.com/2016/05/08/magazine/the-aspiring-novelist-who-became-obamas-foreign-policy-guru.html)
 - [Inside the Fall of the CDC](https://www.propublica.org/article/inside-the-fall-of-the-cdc)
 - [The Hollow Men](https://dominiccummings.com/2014/10/30/the-hollow-men-ii-some-reflections-on-westminster-and-whitehall-dysfunction/)
+
+### Vignettes
+- [My Family's Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
+- [Collision](https://fiftytwo.in/story/collision/)
+- [A Feud in Wolf-Kink Erotica Raises a Deep Legal Question](https://www.nytimes.com/2020/05/23/business/omegaverse-erotica-copyright.html)
+- [The Zero-Armed Bandit](https://www.damninteresting.com/the-zero-armed-bandit/)
+- [Death of a Quantum Man](https://www.thewirechina.com/2020/05/03/the-quantum-man/)
+- [The Town That Went Feral](https://newrepublic.com/article/159662/libertarian-walks-into-bear-book-review-free-town-project)
 
 ### Change
 - [Remembering Kowloon Walled City](https://flashbak.com/remembering-kowloon-walled-city-the-lawless-outpost-that-was-once-the-most-densely-populated-place-on-earth-427330/)
@@ -82,8 +98,6 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
 
 ### The Future
-- [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
-- [Fast](https://patrickcollison.com/fast)
 - [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/) 
 - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
 - [17776](https://www.sbnation.com/a/17776-football/)

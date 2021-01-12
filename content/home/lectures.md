@@ -24,7 +24,7 @@ These notes summarize foundational material. They roughly cover both the MIT und
 
 ### Breadth
 
-These notes give a little bit of background on a wide variety of fields, and are aimed at the late undergraduate level.
+These notes give a little bit of background on a wide variety of fields of physics, and are aimed at the late undergraduate level.
 
 - {{% staticref "notes/opt.pdf" "newtab" %}}Atomic and Optical Physics{{% /staticref %}} 
 - {{% staticref "notes/sld.pdf" "newtab" %}}Solid State Physics{{% /staticref %}}
@@ -45,7 +45,7 @@ These notes focus on my own field of particle physics, following courses taught 
 
 ### Dabbling
 
-These notes reflect the bits I've learned in fields besides my own.
+These notes reflect the bits I've learned in fields outside physics.
 
 - {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
 - {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}} 

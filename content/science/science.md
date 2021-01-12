@@ -36,6 +36,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The PhD Grind](https://web.archive.org/web/20190930200154/http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
+- [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
 - [A View From an Ex-String Theorist](https://www.reddit.com/r/Physics/comments/271apx/a_view_from_an_exstring_theorist/)
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
