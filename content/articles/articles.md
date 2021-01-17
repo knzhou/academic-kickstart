@@ -33,6 +33,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [The Strange Disappearance of Civic America](https://prospect.org/infrastructure/strange-disappearance-civic-america/)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
+- [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1#metadata_info_tab_contents)
 
 ### Shorts
 - [On the Phenomenon of Bullshit Jobs](https://www.strike.coop/bullshit-jobs/)
