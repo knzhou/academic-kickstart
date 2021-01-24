@@ -21,6 +21,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Vortex Atom: a Victorian Theory of Everything](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0498.2002.440102.x)
 - [Failed Theories of Superconductivity](https://arxiv.org/abs/1008.0447)
 - [A History of Dark Matter](https://arxiv.org/abs/1605.04909)
+- [The Demise of the Superconducting Super Collider](https://physicstoday.scitation.org/doi/10.1063/PT.3.3329)
 
 ### The Practice of Science
 - [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)

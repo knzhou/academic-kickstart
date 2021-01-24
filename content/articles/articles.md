@@ -49,6 +49,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 - [Post-Prozac Nation](https://www.nytimes.com/2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
 - [Maybe it's Lyme](https://www.thecut.com/2019/07/what-happens-when-lyme-disease-becomes-an-identity.html)
+- [My IRB Nightmare](https://slatestarcodex.com/2017/08/29/my-irb-nightmare/)
 - [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
 - [Total Depravity](https://longreads.com/2019/05/22/total-depravity-the-origins-of-the-drug-epidemic-in-appalachia-laid-bare/)
 
@@ -58,7 +59,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/news/magazine/2019/11/29/penn-station-robert-caro-073564)
 - [The Lawyer Who Became DuPont's Worst Nightmare](https://app.getpocket.com/read/1154216573)
 - [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm)
-- [My IRB Nightmare](https://slatestarcodex.com/2017/08/29/my-irb-nightmare/)
+- [The Crisis of Big Science](https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
