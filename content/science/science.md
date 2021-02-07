@@ -42,7 +42,9 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
 ### Advice
+- [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
+- [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [So You Want To Be A Physicist](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)

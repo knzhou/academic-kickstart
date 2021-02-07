@@ -57,7 +57,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Demosclerosis](https://www.jonathanrauch.com/jrauch_articles/demosclerosis_the_original_article/)
 - [The Most Expensive Mile of Subway Track on Earth](https://www.nytimes.com/2017/12/28/nyregion/new-york-subway-construction-costs.html)
 - [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/news/magazine/2019/11/29/penn-station-robert-caro-073564)
-- [The Lawyer Who Became DuPont's Worst Nightmare](https://app.getpocket.com/read/1154216573)
+- [The Lawyer Who Became DuPont's Worst Nightmare](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
 - [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm)
 - [The Crisis of Big Science](https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
