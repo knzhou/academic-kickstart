@@ -17,7 +17,8 @@ subtitle = ""
 A lot of people ask me for advice for learning physics or preparing for the F=ma and USAPhO exams. Here's a summary of what I know.
 
 - {{% staticref "writing/Advice.pdf" "newtab" %}}Learning Introductory Physics{{% /staticref %}}. A FAQ for high school students who want to start learning physics or taking part in physics competitions.
-- {{% staticref "writing/AdviceAfter.pdf" "newtab" %}}After Introductory Physics{{% /staticref %}}. Some advice for self-taught high school students on what to learn after mastering the basics. 
+- {{% staticref "writing/AdviceAfter.pdf" "newtab" %}}After Introductory Physics{{% /staticref %}}. Some pointers for self-taught high school students on what to learn after mastering the basics. 
+- {{% staticref "writing/Competitions.pdf" "newtab" %}}Physics Competitions{{% /staticref %}}. Some places you can apply your physics knowledge in high school.
 
 ### Expository
 
