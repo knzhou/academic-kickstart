@@ -40,6 +40,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Faking Cultural Literacy](https://www.nytimes.com/2014/05/25/opinion/sunday/faking-cultural-literacy.html) 
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
+- [No More Twitter](https://www.shamusyoung.com/twentysidedtale/?p=46541)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [I Am The Mythical Obama-Trump Voter](https://www.mcsweeneys.net/articles/i-am-the-mythical-obama-trump-voter-and-from-now-until-election-day-you-must-worship-me-as-your-god)
 - [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
