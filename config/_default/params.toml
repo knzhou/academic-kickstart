@@ -85,7 +85,7 @@ edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, pag
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kzhou7@gmail.com"
+email = "knzhou@stanford.edu"
 phone = ""
 
 # Address
