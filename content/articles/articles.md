@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles that I've saved. Some are one-sided, so I've paired them with equal and opposite articles for contrast. Some are melodramatic, but still fun to read. A few have turned out to be completely wrong. But I thought all of them were interesting. 
+Here are some articles that I've saved. Some are one-sided polemics, which I try to put in opposing pairs. Some are melodramatic, but still fun to read. A few have turned out to be completely wrong. But I thought all of them were interesting. 
 
 ### Modernization
 - [Industrial Literacy](https://rootsofprogress.org/industrial-literacy)
@@ -33,7 +33,6 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [The Strange Disappearance of Civic America](https://prospect.org/infrastructure/strange-disappearance-civic-america/)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
-- [Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?seq=1#metadata_info_tab_contents)
 
 ### Shorts
 - [On the Phenomenon of Bullshit Jobs](https://www.strike.coop/bullshit-jobs/)
@@ -42,8 +41,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [No More Twitter](https://www.shamusyoung.com/twentysidedtale/?p=46541)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
-- [I Am The Mythical Obama-Trump Voter](https://www.mcsweeneys.net/articles/i-am-the-mythical-obama-trump-voter-and-from-now-until-election-day-you-must-worship-me-as-your-god)
-- [A Severe Strain on Credulity](https://althouse.blogspot.com/2019/07/50-years-ago-today-new-york-times.html)
+- [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms)
 - [Fast](https://patrickcollison.com/fast)
 
 ### Health
@@ -101,6 +99,7 @@ Here are some articles that I've saved. Some are one-sided, so I've paired them 
 - [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
 
 ### The Future
-- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/) 
+- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
+- [The Only Thing That's Curbed Inequality](https://www.theatlantic.com/business/archive/2017/02/scheidel-great-leveler-inequality-violence/517164/)
 - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
 - [17776](https://www.sbnation.com/a/17776-football/)
