@@ -24,8 +24,8 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Demise of the Superconducting Super Collider](https://physicstoday.scitation.org/doi/10.1063/PT.3.3329)
 
 ### The Practice of Science
+- [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html)
 - [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)
-- [Why Won't My Perpetual Motion Machine Work?](https://lockhaven.edu/~dsimanek/museum/themes/whynot.htm)
 - [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
 - [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
@@ -43,6 +43,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
+- [Why Won't My Perpetual Motion Machine Work?](https://lockhaven.edu/~dsimanek/museum/themes/whynot.htm)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
