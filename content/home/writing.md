@@ -12,17 +12,14 @@ subtitle = ""
 
 +++
 
-### Learning 
-
-A lot of people ask me for advice for learning physics or preparing for the F=ma and USAPhO exams. Here's a summary of what I know.
+### Advice 
 
 - {{% staticref "writing/Advice.pdf" "newtab" %}}Learning Introductory Physics{{% /staticref %}}. A FAQ for high school students who want to start learning physics or taking part in physics competitions.
 - {{% staticref "writing/AdviceAfter.pdf" "newtab" %}}After Introductory Physics{{% /staticref %}}. Some pointers for self-taught high school students on what to learn after mastering the basics. 
 - {{% staticref "writing/Activities.pdf" "newtab" %}}Physics Activities{{% /staticref %}}. Some places you can apply your physics knowledge in high school.
+- {{% staticref "writing/Qual.pdf" "newtab" %}}The Stanford Physics Qualifying Exam{{% /staticref %}}. A transcript of my PhD qualifying exam, and advice.
 
 ### Expository
-
-Below are some expository works on physics, at both the popular and technical level.
 
 - {{% staticref "writing/Relaxation.pdf" "newtab" %}}Cosmological Relaxation{{% /staticref %}}. A dissertation written for the Oxford MSc in Mathematical and Theoretical Physics, covering models that "relax" the Higgs boson's mass. Also contains unqualified musings on model building and the meaning of naturalness and fine-tuning.
 - {{% staticref "writing/Demuth.pdf" "newtab" %}}The Meaning of Nothing{{% /staticref %}}. The New College Demuth prize essay, on how theoretical stories map onto reality, and why a physicist's philosophical flexibility is a useful tool. Published in the New College Record with a wonderful [illustration](https://aeffen.github.io/art.html) by [Audrey Effenberger](https://aeffen.github.io/).
