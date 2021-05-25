@@ -34,7 +34,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### Academic Life
 - [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295)
-- [The PhD Grind](https://web.archive.org/web/20190930200154/http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+- [The PhD Grind](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
 - [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
@@ -49,3 +49,4 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [So You Want To Be A Physicist](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
+- [All I Really Need to Know](https://physicstoday.scitation.org/doi/10.1063/1.2808904)
