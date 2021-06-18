@@ -102,4 +102,5 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 - [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
 - [The Only Thing That's Curbed Inequality](https://www.theatlantic.com/business/archive/2017/02/scheidel-great-leveler-inequality-violence/517164/)
 - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
+- [How Technology Grows](https://danwang.co/how-technology-grows/)
 - [17776](https://www.sbnation.com/a/17776-football/)

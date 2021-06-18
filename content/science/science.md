@@ -16,6 +16,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### History and Philosophy
 - [The Great Ptolemaic Smackdown](http://faculty.fiu.edu/~blissl/Flynngs.pdf)
+- [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword)
 - [Why is Maxwell's Theory so Hard to Understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 - [The Gibbs Paradox](https://www.damtp.cam.ac.uk/user/tong/statphys/jaynes.pdf)
 - [The Vortex Atom: a Victorian Theory of Everything](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0498.2002.440102.x)
