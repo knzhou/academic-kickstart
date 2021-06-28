@@ -8,7 +8,7 @@ active = true
 weight = 3
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Lecture Notes"
+title = "Personal Notes"
 
 +++
 

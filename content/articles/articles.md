@@ -40,6 +40,7 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 - [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [No More Twitter](https://www.shamusyoung.com/twentysidedtale/?p=46541)
+- [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms)
 - [Fast](https://patrickcollison.com/fast)
