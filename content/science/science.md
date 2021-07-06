@@ -42,6 +42,14 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [A View From an Ex-String Theorist](https://www.reddit.com/r/Physics/comments/271apx/a_view_from_an_exstring_theorist/)
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
+### Physics Enrichment
+- [Jaan Kalda's Study Guides](https://www.ioc.ee/~kalda/ipho/)
+- [Kevin Brown's Physics Articles](https://www.mathpages.com/home/iphysics.htm)
+- [Kirk McDonald's Physics Examples](https://www.hep.princeton.edu/~mcdonald/examples/)
+- [David Tong's Lecture Notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/physics/)
+- [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
+
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
 - [Why Won't My Perpetual Motion Machine Work?](https://lockhaven.edu/~dsimanek/museum/themes/whynot.htm)
