@@ -44,18 +44,19 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### Physics Enrichment
 - [Jaan Kalda's Study Guides](https://www.ioc.ee/~kalda/ipho/)
-- [Kevin Brown's Physics Articles](https://www.mathpages.com/home/iphysics.htm)
-- [Kirk McDonald's Physics Examples](https://www.hep.princeton.edu/~mcdonald/examples/)
+- [Kevin Brown's Articles](https://www.mathpages.com/home/iphysics.htm)
+- [Donald Simanek's Exhibits](https://www.lockhaven.edu/~dsimanek/)
+- [Kirk McDonald's Examples](https://www.hep.princeton.edu/~mcdonald/examples/)
 - [David Tong's Lecture Notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/physics/)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
 
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
-- [Why Won't My Perpetual Motion Machine Work?](https://lockhaven.edu/~dsimanek/museum/themes/whynot.htm)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [So You Want To Be A Physicist](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit)
+- [The Inner Ring](https://www.lewissociety.org/innerring/)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
 - [All I Really Need to Know](https://physicstoday.scitation.org/doi/10.1063/1.2808904)
