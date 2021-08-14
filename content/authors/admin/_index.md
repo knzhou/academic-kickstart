@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD (in progress)
+  - course: PhD in Physics (in progress)
     institution: Stanford
-  - course: MSc MTP
+  - course: MSc in Mathematical and Theoretical Physics
     institution: Oxford
     year: 2019
   - course: MASt in Mathematics
@@ -44,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:kzhou7@gmail.com'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:kzhou7@gmail.com'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=tk0iMzwAAAAJ
