@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-For the past few years, I've run a small tutoring program for students aiming for gold medals at the IPhO. Students receive weekly handouts with about 30 questions, attempt them on their own, and discuss their solutions in an hour long, one-on-one online meeting. The typical time commitment is 8--12 hours per week. For details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}}. 
+For the past few years, I've run a very small tutoring program for students aiming for gold medals at the IPhO. Students receive weekly handouts with about 30 questions, attempt them on their own, and discuss their solutions in an hour long, one-on-one online meeting. The typical time commitment is 8--12 hours per week. For details, see the {{% staticref "tutoring/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}} and {{% staticref "tutoring/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}.
 
 The core curriculum contains 24 handouts, pitched at a high level. Here are some samples:
 
@@ -22,4 +22,4 @@ The core curriculum contains 24 handouts, pitched at a high level. Here are some
 - {{% staticref "tutoring/T2.pdf" "newtab" %}}Thermodynamics II{{% /staticref %}}
 - {{% staticref "tutoring/W1.pdf" "newtab" %}}Waves I{{% /staticref %}}
 
-I'm taking a very small number of students for the 2021--2022 academic year (for details, see the {{% staticref "tutoring/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}). In 2022, I plan on retiring from tutoring and releasing all of the materials for free. 
+I'm no longer taking applications, but in the summer of 2022, I plan on retiring from tutoring and releasing all the materials for free, so everybody interested can benefit from them. 
