@@ -56,7 +56,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
-- [So You Want To Be A Physicist](https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit)
 - [The Inner Ring](https://www.lewissociety.org/innerring/)
+- [Gravity Turn](https://radimentary.wordpress.com/2021/08/16/gravity-turn/)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
 - [All I Really Need to Know](https://physicstoday.scitation.org/doi/10.1063/1.2808904)

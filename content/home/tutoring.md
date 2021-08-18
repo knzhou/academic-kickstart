@@ -16,6 +16,7 @@ For the past few years, I've run a very small tutoring program for students aimi
 
 The core curriculum contains 24 handouts, pitched at a high level. Here are some samples:
 
+- {{% staticref "tutoring/Prelim.pdf" "newtab" %}}Prelim{{% /staticref %}} / {{% staticref "tutoring/PrelimSol.pdf" "newtab" %}}Answers{{% /staticref %}}
 - {{% staticref "tutoring/P1.pdf" "newtab" %}}Problem Solving I{{% /staticref %}} / {{% staticref "tutoring/P1Sol.pdf" "newtab" %}}Solutions{{% /staticref %}}
 - {{% staticref "tutoring/M4.pdf" "newtab" %}}Mechanics IV{{% /staticref %}} / {{% staticref "tutoring/M4Sol.pdf" "newtab" %}}Solutions{{% /staticref %}}
 - {{% staticref "tutoring/E5.pdf" "newtab" %}}Electromagnetism V{{% /staticref %}}
