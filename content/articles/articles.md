@@ -30,6 +30,7 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 - [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
 - [The Tragedy of Baltimore](https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html)
 - [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
+- [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm)
 - [The Strange Disappearance of Civic America](https://prospect.org/infrastructure/strange-disappearance-civic-america/)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
