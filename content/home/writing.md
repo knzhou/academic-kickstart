@@ -15,7 +15,7 @@ subtitle = ""
 ### Advice 
 
 - {{% staticref "writing/Advice.pdf" "newtab" %}}Learning Introductory Physics{{% /staticref %}}. A FAQ for high school students who want to start learning physics or taking part in physics competitions, such as the USAPhO. 
-- {{% staticref "writing/AdviceAfter.pdf" "newtab" %}}After Introductory Physics{{% /staticref %}}. Some tips for self-taught students on what to do after mastering the basics, including book recommendations, online resources, and some pointed warnings about online communities; the advice I would have wanted as a high school student.
+- {{% staticref "writing/AdviceAfter.pdf" "newtab" %}}After Introductory Physics{{% /staticref %}}. Some tips for self-taught students on what to do after mastering the basics, including book recommendations and online resources.
 - {{% staticref "writing/Activities.pdf" "newtab" %}}Physics Activities{{% /staticref %}}. Some places you can apply your physics knowledge in high school.
 - {{% staticref "writing/Minimum.pdf" "newtab" %}}The Theoretical Minimum{{% /staticref %}}. A short list of canonical books you could self-study, to go from the level of introductory physics to PhD candidacy.
 - {{% staticref "writing/Qual.pdf" "newtab" %}}The Stanford Physics Qualifying Exam{{% /staticref %}}. A transcript of my PhD qualifying exam, and advice.
