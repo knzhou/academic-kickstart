@@ -18,6 +18,7 @@ The core curriculum contains 24 handouts, pitched at a high level. Here are some
 
 - {{% staticref "tutoring/Prelim.pdf" "newtab" %}}Prelim{{% /staticref %}} / {{% staticref "tutoring/PrelimSol.pdf" "newtab" %}}Answers{{% /staticref %}}
 - {{% staticref "tutoring/P1.pdf" "newtab" %}}Problem Solving I{{% /staticref %}} / {{% staticref "tutoring/P1Sol.pdf" "newtab" %}}Solutions{{% /staticref %}}
+- {{% staticref "tutoring/P2.pdf" "newtab" %}}Problem Solving II{{% /staticref %}} / {{% staticref "tutoring/P2Sol.pdf" "newtab" %}}Solutions{{% /staticref %}}
 - {{% staticref "tutoring/M4.pdf" "newtab" %}}Mechanics IV{{% /staticref %}} / {{% staticref "tutoring/M4Sol.pdf" "newtab" %}}Solutions{{% /staticref %}}
 - {{% staticref "tutoring/E5.pdf" "newtab" %}}Electromagnetism V{{% /staticref %}}
 - {{% staticref "tutoring/T2.pdf" "newtab" %}}Thermodynamics II{{% /staticref %}}
