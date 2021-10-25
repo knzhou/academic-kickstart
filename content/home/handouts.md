@@ -7,7 +7,7 @@ headless = true
 active = true
 weight = 4
 
-title = "Tutoring"
+title = "Olympiad Handouts"
 subtitle = ""
 
 +++
