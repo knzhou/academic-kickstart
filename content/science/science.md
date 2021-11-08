@@ -44,13 +44,12 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
 ### Physics Enrichment
-- [Jaan Kalda's Study Guides](https://www.ioc.ee/~kalda/ipho/)
 - [Kevin Brown's Articles](https://www.mathpages.com/home/iphysics.htm)
 - [Donald Simanek's Exhibits](https://www.lockhaven.edu/~dsimanek/)
 - [Kirk McDonald's Examples](https://www.hep.princeton.edu/~mcdonald/examples/)
-- [David Tong's Lecture Notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
-- [MIT OpenCourseWare](https://ocw.mit.edu/courses/physics/)
+- [TeXnique](https://texnique.xyz)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
+- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
 
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)

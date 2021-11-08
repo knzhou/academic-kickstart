@@ -27,14 +27,13 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 
 ### Modernity
 - [The Refragmentation](http://www.paulgraham.com/re.html)
-- [The 8th Wonder of the World](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
 - [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)
 - [The Tragedy of Baltimore](https://www.nytimes.com/2019/03/12/magazine/baltimore-tragedy-crime.html)
-- [Want to Fix Public Schools?](https://areomagazine.com/2019/11/19/want-to-fix-public-schools-fix-the-public-first/)
 - [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm)
 - [The Strange Disappearance of Civic America](https://prospect.org/infrastructure/strange-disappearance-civic-america/)
+- [The Nuclear Family Was A Mistake](https://www.theatlantic.com/magazine/archive/2020/03/the-nuclear-family-was-a-mistake/605536/)
+- [The 8th Wonder of the World](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
-- [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
 
 ### Health
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
@@ -76,11 +75,12 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 
 ### Information
 - [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill)
-- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
+- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm)
 - [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
+- [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation)
 - [The Algorithm Will Find You](https://simondedeo.com/?p=705)
-- [No More Twitter](https://www.shamusyoung.com/twentysidedtale/?p=46541)
+- [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
 
 ### Vignettes
 - [My Family's Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
@@ -97,6 +97,7 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 - [How China Controlled the Coronavirus](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
 - [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html) 
 - [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
+- [The Triumph and Terror of Wang Huning](https://palladiummag.com/2021/10/11/the-triumph-and-terror-of-wang-huning/)
 - [How We Beat America](https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
 
 ### The Future
@@ -104,6 +105,7 @@ Here are some articles that I've saved. Some are one-sided polemics, which I try
 - [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
 - [How Technology Grows](https://danwang.co/how-technology-grows/)
 - [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms)
+- [Futurists Have Their Heads in the Clouds](https://erikhoel.substack.com/p/futurists-have-their-heads-in-the)
 - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
 - [The Great Leveler](https://www.theatlantic.com/business/archive/2017/02/scheidel-great-leveler-inequality-violence/517164/)
 - [17776](https://www.sbnation.com/a/17776-football/)
