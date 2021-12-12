@@ -18,15 +18,14 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Great Ptolemaic Smackdown](http://faculty.fiu.edu/~blissl/Flynngs.pdf)
 - [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword)
 - [Why is Maxwell's Theory so Hard to Understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
-- [The Gibbs Paradox](https://www.damtp.cam.ac.uk/user/tong/statphys/jaynes.pdf)
+- [Absolute Zero is 0K](https://www.damninteresting.com/absolute-zero-is-0k/)
 - [The Vortex Atom: a Victorian Theory of Everything](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0498.2002.440102.x)
 - [Failed Theories of Superconductivity](https://arxiv.org/abs/1008.0447)
 - [A History of Dark Matter](https://arxiv.org/abs/1605.04909)
 - [The Demise of the Superconducting Super Collider](https://physicstoday.scitation.org/doi/10.1063/PT.3.3329)
 
 ### The Practice of Science
-- [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html)
-- [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)
+- [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html) / [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)
 - [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
 - [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
@@ -52,11 +51,10 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
 
 ### Advice
-- [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
+- [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf) / [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [The Inner Ring](https://www.lewissociety.org/innerring/)
 - [Gravity Turn](https://radimentary.wordpress.com/2021/08/16/gravity-turn/)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
-- [All I Really Need to Know](https://physicstoday.scitation.org/doi/10.1063/1.2808904)
