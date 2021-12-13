@@ -12,7 +12,7 @@ title = "Personal Notes"
 
 +++
 
-These are the notes I've taken while learning physics. They're very compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,900 pages and 750,000 words. 
+These are the notes I've taken while learning physics. They're quite compact and don't usually correspond closely with any particular course; instead they're packed full of all the neat things I've found reading books. Currently they weigh in at 1,900 pages and 750,000 words.
 
 ### Basics
 
@@ -48,4 +48,6 @@ These notes focus on my own field of particle physics, following courses taught 
 These notes reflect the bits I've learned in fields outside physics.
 
 - {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
-- {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}} 
+- {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}}
+
+If you like the style, you can download the TeX template {{% staticref "notes/template.zip" "newtab" %}}here{{% /staticref %}}.
