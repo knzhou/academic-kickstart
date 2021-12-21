@@ -50,4 +50,4 @@ These notes reflect the bits I've learned in fields outside physics.
 - {{% staticref "notes/stat.pdf" "newtab" %}}Statistics{{% /staticref %}} 
 - {{% staticref "notes/ml.pdf" "newtab" %}}Machine Learning{{% /staticref %}}
 
-If you like the style, you can download the TeX template {{% staticref "notes/template.zip" "newtab" %}}here{{% /staticref %}}.
+If you like the style, you can download a TeX template {{% staticref "notes/template.zip" "newtab" %}}here{{% /staticref %}}.

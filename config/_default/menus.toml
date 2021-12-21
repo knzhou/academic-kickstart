@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Notes"
-  url = "#lectures"
+  url = "#notes"
   weight = 3
 
 [[main]]
