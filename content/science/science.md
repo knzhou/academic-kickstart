@@ -26,9 +26,9 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### The Practice of Science
 - [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html) / [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)
-- [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
-- [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
-- [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
+- [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf) / [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
+- [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf) / [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
+- [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm) / [The Crisis of Big Science](https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
 - [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
 
@@ -37,9 +37,8 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
-- [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
-- [A View From an Ex-String Theorist](https://www.reddit.com/r/Physics/comments/271apx/a_view_from_an_exstring_theorist/)
 - [The PhD Grind](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0)
+- [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
 ### Physics Enrichment
