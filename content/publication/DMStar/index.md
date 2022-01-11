@@ -1,5 +1,5 @@
 ---
-title: "Stellar Shocks From Dark Matter"
+title: "Stellar Shocks From Dark Matter Asteroid Impacts"
 authors:
 - "A. Das"
 - "S. Ellis"
