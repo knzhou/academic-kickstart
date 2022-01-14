@@ -20,7 +20,7 @@ summary: We introduce new IRC-safe counting observables whose discrimination per
 featured: false
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/1704.06266
 - name: JHEP
   url: https://link.springer.com/article/10.1007%2FJHEP09%282017%29083

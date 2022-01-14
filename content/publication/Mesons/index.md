@@ -18,7 +18,7 @@ summary: "Electron beam fixed target experiments such as NA64 and LDMX can impro
 featured: false
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/2112.02104
 
 ---

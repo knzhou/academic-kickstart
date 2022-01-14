@@ -21,7 +21,7 @@ summary: We propose a new broadband search strategy for ultralight axion dark ma
 featured: false
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/2007.15656
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.L111701

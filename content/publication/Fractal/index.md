@@ -21,7 +21,7 @@ summary: We introduce a broad class of fractal jet observables that recursively 
 featured: false
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/1704.05456
 - name: JHEP
   url: https://link.springer.com/article/10.1007/JHEP06(2017)085

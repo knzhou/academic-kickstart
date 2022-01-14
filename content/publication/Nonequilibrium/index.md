@@ -19,7 +19,7 @@ summary: We use the stochastic thermodynamics of Markov jump processes to comput
 featured: false
 
 links:
-- name: ArXiv
+- name: arXiv
   url: https://arxiv.org/abs/1703.04722
 - name: Phys. Rev. E
   url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042102
