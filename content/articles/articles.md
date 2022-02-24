@@ -47,7 +47,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 ### Education
-- [Why So Many Kids Struggle to Learn](https://theamericanscholar.org/why-so-many-kids-struggle-to-learn/)
+- [Why So Many Kids Struggle to Learn](https://theamericanscholar.org/why-so-many-kids-struggle-to-learn/) / [You Aren't Actually Mad at the SATs](https://freddiedeboer.substack.com/p/you-arent-actually-mad-at-the-sats)
 - [Private Schools are Indefensible](https://www.theatlantic.com/magazine/archive/2021/04/private-schools-are-indefensible/618078/)
 - [The Empathy Racket](https://alicegribbin.substack.com/p/the-empathy-racket)
 - [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
@@ -73,10 +73,10 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 ### Information
 - [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill) / [The Intimacy Machine](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm) / [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
-- [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm)
+- [The Rise and Fall of 'Social Bot' Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
+- [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm) / [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation)
 - [The Information](https://www.newyorker.com/magazine/2011/02/14/the-information)
-- [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation)
 
 ### Lives
 - [My Family's Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
