@@ -48,18 +48,17 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 
 ### Education
 - [Why So Many Kids Struggle to Learn](https://theamericanscholar.org/why-so-many-kids-struggle-to-learn/) / [You Aren't Actually Mad at the SATs](https://freddiedeboer.substack.com/p/you-arent-actually-mad-at-the-sats)
-- [Private Schools are Indefensible](https://www.theatlantic.com/magazine/archive/2021/04/private-schools-are-indefensible/618078/)
-- [The Empathy Racket](https://alicegribbin.substack.com/p/the-empathy-racket)
+- [When the Culture War Comes for the Kids](https://www.theatlantic.com/magazine/archive/2019/10/when-the-culture-war-comes-for-the-kids/596668/)
 - [Crises of Elite Competition in the East and West](https://americanaffairsjournal.org/2021/11/crises-of-elite-competition-in-the-east-and-west/)
-- [The Real Problem at Yale is not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/)
-- [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
+- [Private Schools are Indefensible](https://www.theatlantic.com/magazine/archive/2021/04/private-schools-are-indefensible/618078/) / [Lost in the Meritocracy](https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
+- [Getting In](https://www.newyorker.com/magazine/2005/10/10/getting-in) / [The Mad, Mad World of Niche Sports Among Ivy League--Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
+- [The Real Problem at Yale is not Free Speech](https://palladiummag.com/2019/08/05/the-real-problem-at-yale-is-not-free-speech/) / [In the Basement of the Ivory Tower](https://www.theatlantic.com/magazine/archive/2008/06/in-the-basement-of-the-ivory-tower/306810/)
 
 ### Success
 - [On the Phenomenon of Bullshit Jobs](https://www.strike.coop/bullshit-jobs/)
 - [I Can Tolerate Anything Except the Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 - [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
 - [How The Bobos Broke America](https://www.theatlantic.com/magazine/archive/2021/09/blame-the-bobos-creative-class/619492/)
-- [The Mad, Mad World of Niche Sports Among Ivy League--Obsessed Parents](https://cdn.theatlantic.com/assets/media/files/20201101_nichesports.pdf)
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
 
 ### Leadership
@@ -90,6 +89,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Remembering Kowloon Walled City](https://flashbak.com/remembering-kowloon-walled-city-the-lawless-outpost-that-was-once-the-most-densely-populated-place-on-earth-427330/) / [Eyes In The Sky](https://restofworld.org/2020/india-magh-mela/)
 - [How China Controlled the Coronavirus](https://www.newyorker.com/magazine/2020/08/17/how-china-controlled-the-coronavirus)
 - [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0) / [The Triumph and Terror of Wang Huning](https://palladiummag.com/2021/10/11/the-triumph-and-terror-of-wang-huning/)
+- [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
 - [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html) / [The Rise of Made-in-China Diplomacy](https://www.newyorker.com/magazine/2021/03/15/the-rise-of-made-in-china-diplomacy)
 - [The Other Afghan Women](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women) / [How We Beat America](https://web.archive.org/web/20210901095003/https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
 

@@ -51,6 +51,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf) / [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+- [Applying to STEM Ph.D. Programs](https://github.com/gwisk/gradguide)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
