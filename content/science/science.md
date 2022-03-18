@@ -36,7 +36,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295)
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
-- [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
+- [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/) / [The Adjunct's Survival Guide](https://www.mcsweeneys.net/articles/the-adjuncts-survival-guide)
 - [The PhD Grind](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0)
 - [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
 - [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
