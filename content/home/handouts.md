@@ -38,6 +38,6 @@ I do not offer tutoring for the USAPhO or any other physics competition. However
 
 ### Review and Practice Olympiads
 
-- Mech Rev (Sol), Elec Rev (Sol), Modern Rev (Sol)
-- Oly-Mech (Sol), Oly-Elec (Sol), Oly-Modern (Sol)
+- Mech Review (Sol), Elec Review (Sol), Other Review (Sol)
+- **{{% staticref "handouts/USAPhOM.pdf" "newtab" %}}Oly-Mech{{% /staticref %}} ({{% staticref "handouts/USAPhOMSol.pdf" "newtab" %}}Sol{{% /staticref %}})**, **{{% staticref "handouts/USAPhOE.pdf" "newtab" %}}Oly-Elec{{% /staticref %}} ({{% staticref "handouts/USAPhOESol.pdf" "newtab" %}}Sol{{% /staticref %}})**, **{{% staticref "handouts/USAPhOX.pdf" "newtab" %}}Oly-Other{{% /staticref %}} ({{% staticref "handouts/USAPhOXSol.pdf" "newtab" %}}Sol{{% /staticref %}})**
 - Oly-1 (Sol), Oly-2 (Sol), Oly-3 (Sol), Oly-4 (Sol)
