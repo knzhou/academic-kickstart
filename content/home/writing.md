@@ -29,4 +29,4 @@ subtitle = ""
 
 - Here are some memorable articles about [science]({{<ref "science">}}) and [everything else]({{<ref "articles">}}).
 - Here are some fun [videos]({{<ref "videos">}}) for a rainy day.
-- I'm active on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou), where my answers have almost 2 million views; you can find a sample [here]({{<ref "answers">}}).
+- My 1,000 answers on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou) have 2 million views; here's a [sample]({{<ref "answers">}}).

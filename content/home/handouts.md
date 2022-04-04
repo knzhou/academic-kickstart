@@ -21,26 +21,23 @@ I do not offer tutoring for the USAPhO or any other physics competition. However
 - {{% staticref "handouts/Prelim.pdf" "newtab" %}}Prelim{{% /staticref %}} ({{% staticref "handouts/PrelimSol.pdf" "newtab" %}}Answers{{% /staticref %}})
 - {{% staticref "handouts/P1.pdf" "newtab" %}}Problem Solving I{{% /staticref %}} ({{% staticref "handouts/P1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/P2.pdf" "newtab" %}}Problem Solving II{{% /staticref %}} ({{% staticref "handouts/P2Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/M1.pdf" "newtab" %}}Mech I{{% /staticref %}} ({{% staticref "handouts/M1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/M2.pdf" "newtab" %}}Mech II{{% /staticref %}} ({{% staticref "handouts/M2Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/M3.pdf" "newtab" %}}Mech III{{% /staticref %}} ({{% staticref "handouts/M3Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/M4.pdf" "newtab" %}}Mech IV{{% /staticref %}} ({{% staticref "handouts/M4Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
-- {{% staticref "handouts/E1.pdf" "newtab" %}}Elec I{{% /staticref %}} ({{% staticref "handouts/E1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), **{{% staticref "handouts/E2.pdf" "newtab" %}}Elec II{{% /staticref %}} ({{% staticref "handouts/E2Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**, **{{% staticref "handouts/E3.pdf" "newtab" %}}Elec III{{% /staticref %}} ({{% staticref "handouts/E3Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**, **{{% staticref "handouts/E4.pdf" "newtab" %}}Elec IV{{% /staticref %}} ({{% staticref "handouts/E4Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**
+- {{% staticref "handouts/E1.pdf" "newtab" %}}Elec I{{% /staticref %}} ({{% staticref "handouts/E1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E2.pdf" "newtab" %}}Elec II{{% /staticref %}} ({{% staticref "handouts/E2Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E3.pdf" "newtab" %}}Elec III{{% /staticref %}} ({{% staticref "handouts/E3Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E4.pdf" "newtab" %}}Elec IV{{% /staticref %}} ({{% staticref "handouts/E4Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
 
 ### Developments
 
 - Mech V (Sol), {{% staticref "handouts/M6.pdf" "newtab" %}}Mech VI{{% /staticref %}} (Sol), Mech VII (Sol)
 - Thermo I (Sol), {{% staticref "handouts/T2.pdf" "newtab" %}}Thermo II{{% /staticref %}} (Sol), Thermo III (Sol)
-- {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} (Sol), Elec VI (Sol), Elec VII (Sol)
-
-### Applications
-
+- **{{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**, Elec VI (Sol), Elec VII (Sol)
 - Relativity I (Sol), Relativity II (Sol)
 - {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} (Sol), Waves II (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
 
-### Advanced Topics
+### Further Topics
 
 - Mech VIII (Sol), Elec VIII (Sol), Relativity III (Sol)
 - Waves III (Sol), Modern II (Sol), Modern III (Sol)
 
-<!-- ### Review and Practice Olympiads
+### Review and Practice Olympiads
 
-- Mech Review (Sol), Elec Review (Sol), Modern Review (Sol)
-- PO-M (Sol), PO-E (Sol), PO-X (Sol)
-- PO-1 (Sol), PO-2 (Sol), PO-3 (Sol), PO-4 (Sol) -->
+- Mech Rev (Sol), Elec Rev (Sol), Modern Rev (Sol)
+- Oly-Mech (Sol), Oly-Elec (Sol), Oly-Modern (Sol)
+- Oly-1 (Sol), Oly-2 (Sol), Oly-3 (Sol), Oly-4 (Sol)
