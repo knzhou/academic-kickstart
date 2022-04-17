@@ -49,6 +49,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
 - [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
 - [The Other Side]({{<ref "side">}})
+- The APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
 
 ### Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf) / [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
