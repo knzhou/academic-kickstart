@@ -20,7 +20,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Turning Air Into Bread](https://rootsofprogress.org/turning-air-into-bread) / [The Ethyl-Poisoned Earth](https://www.damninteresting.com/the-ethyl-poisoned-earth/)
 - [Scott and Scurvy](https://idlewords.com/2010/03/scott_and_scurvy.htm) / [The Secret of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
 - [Seeing Like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
-- [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) / [Apollo and Dionysus](https://courses.aynrand.org/works/apollo-and-dionysus/)
 
 ### Modernity
 - [The Refragmentation](http://www.paulgraham.com/re.html)
@@ -98,5 +98,5 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [How Technology Grows](https://danwang.co/how-technology-grows/)
 - [Industrial Society and its Future](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
 - [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms) / [Extract or Die](https://www.piratewires.com/p/extract-or-die)
-- [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm)
+- [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm) / [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html)
 - [Fast](https://patrickcollison.com/fast) / [17776](https://www.sbnation.com/a/17776-football/)
