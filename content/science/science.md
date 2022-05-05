@@ -56,12 +56,16 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Other Side]({{<ref "side">}})
 - The APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
 
-### Advice
+### Career Advice
 - [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf) / [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
 - [Applying to STEM Ph.D. Programs](https://github.com/gwisk/gradguide)
+- [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
+- [The Cognitive Style of PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
+- [How to Make Sure Your Talk Doesn't Suck](http://www.damtp.cam.ac.uk/user/tong/talks/talk.pdf)
+
+### Research Advice
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
-- [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [The Inner Ring](https://www.lewissociety.org/innerring/)
 - [Gravity Turn](https://radimentary.wordpress.com/2021/08/16/gravity-turn/)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
