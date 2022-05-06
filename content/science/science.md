@@ -42,7 +42,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 ### Life in the Academy
 - [The Two Cultures](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/) 
-- [The Adjunct's Survival Guide](https://www.mcsweeneys.net/articles/the-adjuncts-survival-guide)
+- [The Teaching Class](https://www.guernicamag.com/the-teaching-class/)
 - [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf) / [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
@@ -62,6 +62,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [The Cognitive Style of PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 - [How to Make Sure Your Talk Doesn't Suck](http://www.damtp.cam.ac.uk/user/tong/talks/talk.pdf)
+- [The Particle Physics Rumor Mill](http://particle.physics.ucdavis.edu/rumor/doku.php?id=history)
 
 ### Research Advice
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
