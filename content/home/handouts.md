@@ -25,9 +25,9 @@ I do not offer tutoring for the USAPhO or any other physics competition. However
 
 ### Developments
 
-- {{% staticref "handouts/M5.pdf" "newtab" %}}**Mech V**{{% /staticref %}} (Sol), {{% staticref "handouts/M6.pdf" "newtab" %}}Mech VI{{% /staticref %}} (Sol), Mech VII (Sol)
+- {{% staticref "handouts/M5.pdf" "newtab" %}}**Mech V**{{% /staticref %}} (Sol), {{% staticref "handouts/M6.pdf" "newtab" %}}Mech VI{{% /staticref %}} (Sol), {{% staticref "handouts/M7.pdf" "newtab" %}}**Mech VII**{{% /staticref %}} (Sol)
 - {{% staticref "handouts/T1.pdf" "newtab" %}}**Thermo I**{{% /staticref %}} (Sol), {{% staticref "handouts/T2.pdf" "newtab" %}}Thermo II{{% /staticref %}} (Sol), Thermo III (Sol)
-- {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), Elec VI (Sol), Elec VII (Sol)
+- {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E6.pdf" "newtab" %}}**Elec VI**{{% /staticref %}} (Sol), Elec VII (Sol)
 - {{% staticref "handouts/R1.pdf" "newtab" %}}**Relativity I**{{% /staticref %}} (Sol), {{% staticref "handouts/R2.pdf" "newtab" %}}**Relativity II**{{% /staticref %}} (Sol)
 - {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} (Sol), Waves II (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
 
