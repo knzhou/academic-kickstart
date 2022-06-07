@@ -12,9 +12,9 @@ subtitle = ""
 
 +++
 
-Over the past few years, I've developed a series of challenging problem sets for students aiming at gold medals at the International Physics Olympiad. The core curriculum contains 24 handouts and about 1,000 questions, ranging up to IPhO level and beyond. It covers all Olympiad topics, and all the theory of the first two years of a university physics degree. The handouts explain all the problem solving techniques I know of, and come with examples, full solutions and references to historical and modern literature. For more details, see the {{% staticref "handouts/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}} and {{% staticref "handouts/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}.
+I've developed a series of challenging problem sets for students aiming at gold medals at the International Physics Olympiad. The core curriculum contains 24 handouts and about 1,000 questions, ranging up to IPhO level and beyond. It covers all Olympiad topics, and all the theory of the first two years of a university physics degree. The handouts explain all the problem solving techniques I know of, and come with examples, full solutions and references to historical and modern literature. For more details, see the {{% staticref "handouts/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}} and {{% staticref "handouts/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}.
 
-I do not offer tutoring for the USAPhO or any other physics competition. However, I will be publicly releasing all of the problem sets in 2022, so that everybody interested can benefit from them. Here are some samples, with the new ones in bold:
+I do not offer tutoring for the USAPhO or any other physics competition, but I will release full solutions for all handouts throughout the summer of 2022, so that everybody interested can benefit from them. The newest releases are in bold:
 
 ### Foundations
 
