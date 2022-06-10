@@ -30,7 +30,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm) 
 - [The Crisis of Big Science](https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
-- [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
+- [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604) / [Physicists' Nightmare Scenario](https://www.science.org/doi/10.1126/science.315.5819.1657)
 
 ### The Grind
 - [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295)
