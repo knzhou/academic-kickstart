@@ -44,6 +44,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [The Most Expensive Mile of Subway Track on Earth](https://www.nytimes.com/2017/12/28/nyregion/new-york-subway-construction-costs.html)
 - [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/news/magazine/2019/11/29/penn-station-robert-caro-073564)
 - [A Feud in Wolf-Kink Erotica Raises a Deep Legal Question](https://www.nytimes.com/2020/05/23/business/omegaverse-erotica-copyright.html)
+- [Somewhere Between a Jeremiad and a Eulogy](https://isi.org/modern-age/somewhere-between-a-jeremiad-and-a-eulogy/)
 - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 ### Education
