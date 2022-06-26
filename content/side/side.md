@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-One of the greatest things about physics is how it inspires so many of us to use our full imaginative capacity. Below, you can see what happens when we use 100% of our brains. 
+One of the greatest things about physics is how it inspires so many of us to use our full imaginative capacity. Here you can see what happens when we use 100% of our brains. 
 
 - [From Ancient Africa](https://vixra.org/pdf/0907.0040v4.pdf)
 - [Proposol to disidentify 7](https://web.archive.org/web/20170822125606/http://vixra.org/pdf/1612.0123v1.pdf) / [Iriene vs. Smarandache](http://web.archive.org/web/20200324023904/https://vixra.org/pdf/1712.0392v1.pdf)
