@@ -29,18 +29,23 @@ subtitle = ""
 - [America's Missing Collider](https://www.youtube.com/playlist?list=PLAB-wWbHL7VuBEeBo5mSxkLbxrX-KCxH8) (3:00)
 - [Particle Fever](https://www.youtube.com/watch?v=MDDyOFvU4Pg) (1:39)
 
-### Striving
+### Tinkering
 
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
+- [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42)
+- [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
+- [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
+
+### Striving
+
 - [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
-- [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
+- [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
 
 ### Puzzles and Games 
 
 - [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
-- [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
@@ -56,7 +61,6 @@ subtitle = ""
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
-- [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
 - [Going Camping at the End of the World](https://www.youtube.com/watch?v=QynNpzqYt0Y) (0:24)
 
 ### Courses
