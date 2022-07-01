@@ -25,11 +25,11 @@ I do not offer tutoring for the USAPhO or any other physics competition, but I w
 
 ### Developments
 
-- {{% staticref "handouts/M5.pdf" "newtab" %}}Mech V{{% /staticref %}} (Sol), {{% staticref "handouts/M6.pdf" "newtab" %}}Mech VI{{% /staticref %}} (Sol), {{% staticref "handouts/M7.pdf" "newtab" %}}Mech VII{{% /staticref %}} (Sol)
-- {{% staticref "handouts/T1.pdf" "newtab" %}}Thermo I{{% /staticref %}} (Sol), {{% staticref "handouts/T2.pdf" "newtab" %}}Thermo II{{% /staticref %}} (Sol), {{% staticref "handouts/T3.pdf" "newtab" %}}**Thermo III**{{% /staticref %}} (Sol)
-- {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E6.pdf" "newtab" %}}Elec VI{{% /staticref %}} (Sol), {{% staticref "handouts/E7.pdf" "newtab" %}}**Elec VII**{{% /staticref %}} (Sol)
+- {{% staticref "handouts/M5.pdf" "newtab" %}}Mech V{{% /staticref %}} (Sol), {{% staticref "handouts/M6.pdf" "newtab" %}}Mech VI{{% /staticref %}} (Sol), {{% staticref "handouts/M7.pdf" "newtab" %}}Mech VII{{% /staticref %}} **({{% staticref "handouts/M7Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**
+- {{% staticref "handouts/T1.pdf" "newtab" %}}Thermo I{{% /staticref %}} **({{% staticref "handouts/T1Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**, {{% staticref "handouts/T2.pdf" "newtab" %}}Thermo II{{% /staticref %}} (Sol), {{% staticref "handouts/T3.pdf" "newtab" %}}Thermo III{{% /staticref %}} (Sol)
+- {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E6.pdf" "newtab" %}}Elec VI{{% /staticref %}} (Sol), {{% staticref "handouts/E7.pdf" "newtab" %}}Elec VII{{% /staticref %}} (Sol)
 - {{% staticref "handouts/R1.pdf" "newtab" %}}Relativity I{{% /staticref %}} (Sol), {{% staticref "handouts/R2.pdf" "newtab" %}}Relativity II{{% /staticref %}} (Sol)
-- {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} (Sol), {{% staticref "handouts/W2.pdf" "newtab" %}}**Waves II**{{% /staticref %}} (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
+- {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} (Sol), {{% staticref "handouts/W2.pdf" "newtab" %}}Waves II{{% /staticref %}} (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
 
 ### Further Topics
 
@@ -41,3 +41,4 @@ I do not offer tutoring for the USAPhO or any other physics competition, but I w
 - Mech Review (Sol), Elec Review (Sol), Other Review (Sol)
 - {{% staticref "handouts/USAPhOM.pdf" "newtab" %}}Oly-Mech{{% /staticref %}} ({{% staticref "handouts/USAPhOMSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOE.pdf" "newtab" %}}Oly-Elec{{% /staticref %}} ({{% staticref "handouts/USAPhOESol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOX.pdf" "newtab" %}}Oly-Other{{% /staticref %}} ({{% staticref "handouts/USAPhOXSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - Oly-1 (Sol), Oly-2 (Sol), Oly-3 (Sol), Oly-4 (Sol)
+- {{% staticref "handouts/Final.pdf" "newtab" %}}Final{{% /staticref %}} ({{% staticref "handouts/FinalSol.pdf" "newtab" %}}Sol{{% /staticref %}})
