@@ -83,6 +83,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [The Zero-Armed Bandit](https://www.damninteresting.com/the-zero-armed-bandit/)
 - [Death of a Quantum Man](https://www.thewirechina.com/2020/05/03/the-quantum-man/)
 - [36,000 Feet Under the Sea](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea)
+- [The Maintenance Race](https://www.worksinprogress.co/issue/the-maintenance-race/)
 - [Autism's First Child](https://www.theatlantic.com/magazine/archive/2010/10/autisms-first-child/308227/)
 - [Sacrifice](https://hazlitt.net/longreads/sacrifice)
 

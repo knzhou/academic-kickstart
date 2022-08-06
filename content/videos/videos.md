@@ -14,9 +14,10 @@ subtitle = ""
 
 ### Progress
 
-- [How Differential Steering Works](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
+- [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
+- [Wonder World of Chemistry](https://www.youtube.com/watch?v=IEQUVngOXmw)(0:18)
 - [The Transistor](https://www.youtube.com/watch?v=V9xUQWo4vN0) (0:10)
-- [The Bay Area Rapid Transit System](https://www.youtube.com/watch?v=KbWXVzJihhg) (0:27)
+- [Your Name Here](https://archive.org/details/YourName1960)
 - [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
 - [The Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ) (0:54)
 
