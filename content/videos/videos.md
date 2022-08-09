@@ -15,9 +15,9 @@ subtitle = ""
 ### Progress
 
 - [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
-- [Wonder World of Chemistry](https://www.youtube.com/watch?v=IEQUVngOXmw)(0:18)
 - [The Transistor](https://www.youtube.com/watch?v=V9xUQWo4vN0) (0:10)
-- [Your Name Here](https://archive.org/details/YourName1960)
+- [Wonder World of Chemistry](https://www.youtube.com/watch?v=IEQUVngOXmw) (0:18) / [A World Without Zinc](https://www.youtube.com/watch?v=U1iCZpFMYd0) (0:01)
+- [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
 - [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
 - [The Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ) (0:54)
 

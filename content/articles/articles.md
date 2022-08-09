@@ -72,7 +72,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 
 ### Information
 - [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill) / [The Intimacy Machine](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
-- [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm) / [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
+- [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679) / [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm) / [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
 - [The Rise and Fall of 'Social Bot' Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
 - [Who Will Command The Robot Armies?](https://idlewords.com/talks/robot_armies.htm)
 - [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm) / [Bad News](https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation)
@@ -96,7 +96,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [The Other Afghan Women](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women) / [How We Beat America](https://web.archive.org/web/20210901095003/https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
 
 ### The Future
-- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
+- [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/) / [The Billionaire's Dilemma](https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
 - [How Technology Grows](https://danwang.co/how-technology-grows/)
 - [Industrial Society and its Future](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
 - [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms) / [Extract or Die](https://www.piratewires.com/p/extract-or-die)
