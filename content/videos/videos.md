@@ -27,7 +27,7 @@ subtitle = ""
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (1:02)
 - [Free Electron Lasers](https://www.youtube.com/watch?v=RKqof77pKBc) (0:59)
 - [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4) (1:01)
-- [America's Missing Collider](https://www.youtube.com/playlist?list=PLAB-wWbHL7VuBEeBo5mSxkLbxrX-KCxH8) (3:00)
+- [America's Missing Collider](https://www.youtube.com/playlist?list=PLAB-wWbHL7VsTAqS_Ic3gQmhjEVFb2NYN) (3:00)
 - [Particle Fever](https://www.youtube.com/watch?v=MDDyOFvU4Pg) (1:39)
 
 ### Tinkering
