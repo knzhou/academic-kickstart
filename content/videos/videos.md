@@ -64,6 +64,15 @@ subtitle = ""
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
 - [Going Camping at the End of the World](https://www.youtube.com/watch?v=QynNpzqYt0Y) (0:24)
 
+### Videogames
+
+- [Katana ZERO](https://store.steampowered.com/app/460950/Katana_ZERO/) (5:00)
+- [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
+- [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
+- [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
+- [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
+- [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
+
 ### Courses
 
 - [The Unanswered Question](https://www.youtube.com/playlist?list=PLFjonLo8gYHIXC35K4Ujrbu6XHchNDCv9) (13:00)
