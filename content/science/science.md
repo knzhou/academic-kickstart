@@ -48,8 +48,8 @@ Here are some articles about how we got here, how it's going, and what it looks 
 
 ### Physics Enrichment
 - [Kevin Brown's Articles](https://www.mathpages.com/home/iphysics.htm)
-- [Donald Simanek's Exhibits](https://www.lockhaven.edu/~dsimanek/)
-- [Kirk McDonald's Examples](https://www.hep.princeton.edu/~mcdonald/examples/)
+- [Donald Simanek's Exhibits](https://dsimanek.vialattea.net/)
+- [Kirk McDonald's Examples](http://kirkmcd.princeton.edu/examples/)
 - [TeXnique](https://texnique.xyz)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
 - [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
