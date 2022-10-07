@@ -62,7 +62,6 @@ subtitle = ""
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
-- [Going Camping at the End of the World](https://www.youtube.com/watch?v=QynNpzqYt0Y) (0:24)
 
 ### Videogames
 
