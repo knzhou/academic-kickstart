@@ -63,8 +63,8 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Chaos at the Top of the World](https://www.gq.com/story/mount-everest-chaos-at-the-top-of-the-world)
 
 ### Leadership
+- [Is This Tomorrow](https://lcamtuf.coredump.cx/communism/Is%20This%20Tomorrow:%20America%20Under%20Communism!/) / [The Mao Cult](https://chineseposters.net/themes/mao-cult)
 - [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
-- [The Rise of Woke Capital](https://www.nytimes.com/2018/02/28/opinion/corporate-america-activism.html)
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [Inside the Fall of the CDC](https://www.propublica.org/article/inside-the-fall-of-the-cdc)
