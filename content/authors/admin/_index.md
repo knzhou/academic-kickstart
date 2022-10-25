@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Physics (in progress)
+  - course: PhD in Physics, 2024 (planned)
     institution: Stanford
   - course: MSc in Mathematical and Theoretical Physics
     institution: Oxford
