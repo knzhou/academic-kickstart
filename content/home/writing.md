@@ -5,7 +5,7 @@
 widget = "custom"
 headless = true
 active = true
-weight = 5
+weight = 6
 
 title = "Writing"
 subtitle = ""

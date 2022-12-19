@@ -14,21 +14,21 @@
   weight = 2
 
 [[main]]
-  name = "Notes"
-  url = "#notes"
+  name = "Teaching"
+  url = "#teaching"
   weight = 3
 
 [[main]]
-  name = "Handouts"
-  url = "#handouts"
-  weight = 4
+  name = "Notes"
+  url = "#notes"
+  weight = 5
 
 [[main]]
   name = "Writing"
   url = "#writing"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 10
