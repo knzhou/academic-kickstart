@@ -33,12 +33,12 @@ I've developed a series of challenging problem sets for students aiming at gold 
 - {{% staticref "handouts/T1.pdf" "newtab" %}}Thermo I{{% /staticref %}} ({{% staticref "handouts/T1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/T2.pdf" "newtab" %}}Thermo II{{% /staticref %}} (Sol), {{% staticref "handouts/T3.pdf" "newtab" %}}Thermo III{{% /staticref %}} (Sol)
 - {{% staticref "handouts/E5.pdf" "newtab" %}}Elec V{{% /staticref %}} ({{% staticref "handouts/E5Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/E6.pdf" "newtab" %}}Elec VI{{% /staticref %}} (Sol), {{% staticref "handouts/E7.pdf" "newtab" %}}Elec VII{{% /staticref %}} (Sol)
 - {{% staticref "handouts/R1.pdf" "newtab" %}}Relativity I{{% /staticref %}} ({{% staticref "handouts/R1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/R2.pdf" "newtab" %}}Relativity II{{% /staticref %}} ({{% staticref "handouts/R2Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
-- {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} **({{% staticref "handouts/W1Sol.pdf" "newtab" %}}Sol{{% /staticref %}})**, {{% staticref "handouts/W2.pdf" "newtab" %}}Waves II{{% /staticref %}} (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
+- {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} ({{% staticref "handouts/W1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/W2.pdf" "newtab" %}}Waves II{{% /staticref %}} (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} (Sol)
 
 #### Advanced Topics, Review, and Practice Olympiads
 
 - Mech VIII (Sol), Elec VIII (Sol), Relativity III (Sol)
 - Waves III (Sol), Modern II (Sol), Modern III (Sol)
-- Mech Review (Sol), Elec Review (Sol), Other Review (Sol)
+- **{{% staticref "handouts/MRev.pdf" "newtab" %}}Mech Review{{% /staticref %}} ({{% staticref "handouts/MRevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/ERev.pdf" "newtab" %}}Elec Review{{% /staticref %}} ({{% staticref "handouts/ERevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/XRev.pdf" "newtab" %}}Other Review{{% /staticref %}} ({{% staticref "handouts/XRevSol.pdf" "newtab" %}}Sol{{% /staticref %}})**
 - {{% staticref "handouts/USAPhOM.pdf" "newtab" %}}Oly-Mech{{% /staticref %}} ({{% staticref "handouts/USAPhOMSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOE.pdf" "newtab" %}}Oly-Elec{{% /staticref %}} ({{% staticref "handouts/USAPhOESol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOX.pdf" "newtab" %}}Oly-Other{{% /staticref %}} ({{% staticref "handouts/USAPhOXSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/Final.pdf" "newtab" %}}Final{{% /staticref %}} ({{% staticref "handouts/FinalSol.pdf" "newtab" %}}Sol{{% /staticref %}})
