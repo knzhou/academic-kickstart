@@ -15,7 +15,7 @@ subtitle = ""
 Here are some articles that I've saved. Some are one-sided, some are melodramatic, and a few have turned out to be completely wrong. But I thought all of them were interesting.
 
 ### Modernization
-- [Industrial Literacy](https://rootsofprogress.org/industrial-literacy)
+- [Industrial Literacy](https://rootsofprogress.org/industrial-literacy) / [A Plea for Culinary Modernism](https://www.rachellaudan.com/wp-content/uploads/2007/12/plea-for-culinary-modernism.pdf)
 - [We Were Builders Once, and Strong](https://scholars-stage.blogspot.com/2020/10/we-were-builders-once-and-strong.html?m=1) / [On Cultures That Build](https://scholars-stage.blogspot.com/2020/06/on-cultures-that-build.html)
 - [Turning Air Into Bread](https://rootsofprogress.org/turning-air-into-bread) / [The Ethyl-Poisoned Earth](https://www.damninteresting.com/the-ethyl-poisoned-earth/)
 - [Scott and Scurvy](https://idlewords.com/2010/03/scott_and_scurvy.htm) / [The Secret of Our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
