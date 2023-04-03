@@ -25,5 +25,7 @@ links:
   url: https://arxiv.org/abs/2106.09033
 - name: Phys. Rev. Lett.
   url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.021101
+- name: Talk slides
+  url: https://knzhou.github.io/talks/StellarShock.pdf
 
 ---

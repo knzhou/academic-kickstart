@@ -22,6 +22,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2303.04816
+- name: Talk slides
+  url: https://knzhou.github.io/talks/ContinuousSpin.pdf
 # - name: Phys. Rev. D
 #   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.035036
 

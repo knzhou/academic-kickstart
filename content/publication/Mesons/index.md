@@ -24,5 +24,7 @@ links:
   url: https://arxiv.org/abs/2112.02104
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.035036
+- name: Talk slides
+  url: https://knzhou.github.io/talks/MesonDecay.pdf
 
 ---

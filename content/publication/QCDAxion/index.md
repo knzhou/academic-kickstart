@@ -21,6 +21,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2209.12901
+- name: Talk slides
+  url: https://knzhou.github.io/talks/Polarization.pdf
 # - name: Phys. Rev. D
 #   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.L111701
 

@@ -30,5 +30,7 @@ links:
   url: https://arxiv.org/abs/1912.11048
 - name: JHEP
   url: https://link.springer.com/article/10.1007/JHEP07(2020)088
+- name: Talk slides
+  url: https://knzhou.github.io/talks/HeterodyneAxion.pdf
 
 ---
