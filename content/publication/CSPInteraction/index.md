@@ -22,6 +22,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2303.04816
+- name: JHEP
+  url: https://link.springer.com/article/10.1007/JHEP04(2023)010
 - name: Talk slides
   url: https://knzhou.github.io/talks/ContinuousSpin.pdf
 # - name: Phys. Rev. D
