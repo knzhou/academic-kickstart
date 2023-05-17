@@ -34,7 +34,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Who by Very Slow Decay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/)
 - [Post-Prozac Nation](https://www.nytimes.com/2012/04/22/magazine/the-science-and-history-of-treating-depression.html)
 - [Maybe it's Lyme](https://www.thecut.com/2019/07/what-happens-when-lyme-disease-becomes-an-identity.html) / [Help Me or Soon I Will Die](https://logicmag.io/justice/help-me-or-soon-i-will-die/)
-- [My IRB Nightmare](https://slatestarcodex.com/2017/08/29/my-irb-nightmare/) 
+- [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill)
 - [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 - [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
 

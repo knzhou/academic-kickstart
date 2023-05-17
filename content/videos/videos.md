@@ -65,12 +65,12 @@ subtitle = ""
 
 ### Videogames
 
-- [Katana ZERO](https://store.steampowered.com/app/460950/Katana_ZERO/) (5:00)
 - [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
 - [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
+- [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (30:00)
 
 ### Courses
 
