@@ -53,7 +53,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [TeXnique](https://texnique.xyz)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
 - [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
-- [The Other Side]({{<ref "side">}})
+- [The Other Side]({{<ref "side">}}) / [How To Be Taken Seriously](https://www.cantorsparadise.com/how-to-tell-if-youre-about-to-revolutionize-science-a17b534b59a7)
 - The APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
 
 ### Career Advice
