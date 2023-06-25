@@ -12,6 +12,8 @@ subtitle = ""
 
 +++
 
+Here's some fun stuff you can find on YouTube. 
+
 ### Progress
 
 - [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
@@ -27,21 +29,23 @@ subtitle = ""
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (1:02)
 - [Free Electron Lasers](https://www.youtube.com/watch?v=RKqof77pKBc) (0:59)
 - [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4) (1:01)
-- [America's Missing Collider](https://www.youtube.com/playlist?list=PLAB-wWbHL7VsTAqS_Ic3gQmhjEVFb2NYN) (2:58)
+- [America's Missing Collider](https://www.youtube.com/watch?v=3xSUwgg1L4g) (2:58)
 - [Particle Fever](https://www.youtube.com/watch?v=MDDyOFvU4Pg) (1:39)
 
 ### Tinkering
 
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
+- [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 - [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 
 ### Striving
 
-- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
+- [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
 - [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
+- [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
 
 ### Puzzles and Games 
 
@@ -52,23 +56,18 @@ subtitle = ""
 
 ### Physics Talks
 
+- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [Mapping the Milky Way's Dark Matter Halo with Gaia](https://www.youtube.com/watch?v=gSE0tpzvT9k) (0:46)
 - [Geometrodynamics: The Nonlinear Dynamics of Curved Spacetime](https://www.youtube.com/watch?v=XD2HVoAK7es) (1:10)
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
 - [A Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=h6_iJRY6nU4) (0:57)
 
-### Trickery
-
-- [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
-- [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
-- [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
-
 ### Videogames
 
-- [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
+- [A Dark Room](https://adarkroom.doublespeakgames.com/) (2:00) / [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
-- [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
+- [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00) / [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
 - [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (30:00)
 
