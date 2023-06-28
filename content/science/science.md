@@ -30,14 +30,15 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm) 
 - [The Crisis of Big Science](https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
-- [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604) / [Physicists' Nightmare Scenario](https://www.science.org/doi/10.1126/science.315.5819.1657)
+- [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
+- [Physicists' Nightmare Scenario](https://www.science.org/doi/10.1126/science.315.5819.1657) / [Supersymmetry and the Disunity of Physics](https://arxiv.org/abs/2304.03673)
 
 ### The Grind
 - [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295)
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
 - [The PhD Grind](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0) / [The Mundanity of Excellence](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
-- [What Does Any Of This Have To Do With Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
+- [What Does Any Of This Have To Do With Physics?](https://nautil.us/what-does-any-of-this-have-to-do-with-physics-236309/)
 
 ### Life in the Academy
 - [The Two Cultures](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
@@ -50,9 +51,14 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Kevin Brown's Articles](https://www.mathpages.com/home/iphysics.htm)
 - [Donald Simanek's Exhibits](https://dsimanek.vialattea.net/)
 - [Kirk McDonald's Examples](http://kirkmcd.princeton.edu/examples/)
+- [Randy's Clear Explanations](https://www.cphysics.org/)
+- [Jaan Kalda's Handouts](https://www.ioc.ee/~kalda/ipho/)
+
+### Diversions and Games
 - [TeXnique](https://texnique.xyz)
+- [Particle Clicker](https://particle-clicker.web.cern.ch/)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
-- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/)
+- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html)
 - [The Other Side]({{<ref "side">}}) / [How To Be Taken Seriously](https://www.cantorsparadise.com/how-to-tell-if-youre-about-to-revolutionize-science-a17b534b59a7)
 - The APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
 
