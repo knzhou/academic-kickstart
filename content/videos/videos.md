@@ -15,55 +15,57 @@ subtitle = ""
 Here's some fun stuff you can find on YouTube. 
 
 ### Progress
-
 - [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
 - [The Transistor](https://www.youtube.com/watch?v=V9xUQWo4vN0) (0:10)
-- [Wonder World of Chemistry](https://www.youtube.com/watch?v=IEQUVngOXmw) (0:18) / [A World Without Zinc](https://www.youtube.com/watch?v=U1iCZpFMYd0) (0:01)
-- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
-- [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
+- [Wonder World of Chemistry](https://www.youtube.com/watch?v=IEQUVngOXmw) (0:18)
 - [The Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ) (0:54)
 
 ### Building
+- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
+- [The Four Hour House](https://www.youtube.com/watch?v=oDB1O5cadQw) (0:11)
+- [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
+- [America's Missing Collider](https://www.youtube.com/watch?v=3xSUwgg1L4g) (2:58)
+- [American Factory](https://www.netflix.com/title/81090071) (1:50)
 
+### Technology
 - [Origins of Precision](https://www.youtube.com/watch?v=gNRnrn5DE58) (0:31)
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (1:02)
 - [Free Electron Lasers](https://www.youtube.com/watch?v=RKqof77pKBc) (0:59)
 - [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4) (1:01)
-- [America's Missing Collider](https://www.youtube.com/watch?v=3xSUwgg1L4g) (2:58)
 - [Particle Fever](https://www.youtube.com/watch?v=MDDyOFvU4Pg) (1:39)
 
 ### Tinkering
-
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
-- [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42)
+- [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
+- [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
-- [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 
 ### Striving
-
+- [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
+- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
+- [Hard Problems](https://www.youtube.com/watch?v=VboXBHVaCFU) (1:21)
+
+### Cautionary Tales
 - [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
 - [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
+- [Erroneous Statistics in Physics Education Research](https://www.youtube.com/watch?v=0NsNtqyiDco) (0:53)
 
 ### Puzzles and Games 
-
 - [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
 ### Physics Talks
-
-- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [Mapping the Milky Way's Dark Matter Halo with Gaia](https://www.youtube.com/watch?v=gSE0tpzvT9k) (0:46)
 - [Geometrodynamics: The Nonlinear Dynamics of Curved Spacetime](https://www.youtube.com/watch?v=XD2HVoAK7es) (1:10)
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
 - [A Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=h6_iJRY6nU4) (0:57)
 
 ### Videogames
-
 - [A Dark Room](https://adarkroom.doublespeakgames.com/) (2:00) / [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
@@ -72,7 +74,6 @@ Here's some fun stuff you can find on YouTube.
 - [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (30:00)
 
 ### Courses
-
 - [The Unanswered Question](https://www.youtube.com/playlist?list=PLFjonLo8gYHIXC35K4Ujrbu6XHchNDCv9) (13:00)
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) (15:00)
 - [Power and Politics in Today's World](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy) (26:00)

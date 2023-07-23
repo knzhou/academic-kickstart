@@ -23,3 +23,9 @@ One of the greatest things about physics is how it inspires so many of us to use
 - [Treo Model of Structure](https://vixra.org/pdf/2011.0155v1.pdf)
 - [What is Wrong with Current Physics](https://vixra.org/pdf/2101.0131v2.pdf)
 - [Massless Neutrino Oscillation in the Geometric Representation of Clifford Algebra](https://vixra.org/pdf/2108.0071v1.pdf)
+
+And here's what you can do if you get one of these in the mail.
+
+- [What To Do When The Trisector Comes](https://web.mst.edu/~lmhall/whattodowhentrisectorcomes.pdf)
+- [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+- [How To Be Taken Seriously](https://www.cantorsparadise.com/how-to-tell-if-youre-about-to-revolutionize-science-a17b534b59a7)
