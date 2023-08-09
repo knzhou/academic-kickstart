@@ -52,6 +52,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 ### Education
 - [Why So Many Kids Struggle to Learn](https://theamericanscholar.org/why-so-many-kids-struggle-to-learn/) 
 - [You Aren't Actually Mad at the SATs](https://freddiedeboer.substack.com/p/you-arent-actually-mad-at-the-sats)
+- [MIT is Reinstating its SAT/ACT Requirement](https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/)
 - [Private Schools are Indefensible](https://www.theatlantic.com/magazine/archive/2021/04/private-schools-are-indefensible/618078/) 
 - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
 

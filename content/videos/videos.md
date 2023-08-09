@@ -56,6 +56,7 @@ Here's some fun stuff you can find on YouTube.
 ### Puzzles and Games 
 - [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
+- [Outside In](https://www.youtube.com/watch?v=wO61D9x6lNY) (0:21)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
@@ -66,12 +67,13 @@ Here's some fun stuff you can find on YouTube.
 - [A Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=h6_iJRY6nU4) (0:57)
 
 ### Videogames
-- [A Dark Room](https://adarkroom.doublespeakgames.com/) (2:00) / [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
+- [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
+- [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
 - [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00) / [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
-- [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (30:00)
+- [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (35:00)
 
 ### Courses
 - [The Unanswered Question](https://www.youtube.com/playlist?list=PLFjonLo8gYHIXC35K4Ujrbu6XHchNDCv9) (13:00)
