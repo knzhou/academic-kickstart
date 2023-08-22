@@ -39,6 +39,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
 - [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
+- [Replications and Reversals](https://forrt.org/reversals/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 
 ### The Grind
