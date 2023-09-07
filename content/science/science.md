@@ -65,6 +65,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Other Side]({{<ref "side">}})
 
 ### Research Advice
+- [The Importance of Stupidity in Scientific Research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
 - [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
