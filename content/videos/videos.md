@@ -66,14 +66,18 @@ Here's some fun stuff you can find on YouTube.
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
 - [A Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=h6_iJRY6nU4) (0:57)
 
-### Videogames
+### Puzzle Games
 - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
+- [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
+- [The Witness](https://store.steampowered.com/app/210970/The_Witness/) (15:00)
+- [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (35:00)
+
+### Adventure Games
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
-- [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00) / [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
+- [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
-- [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (35:00)
 
 ### Courses
 - [The Unanswered Question](https://www.youtube.com/playlist?list=PLFjonLo8gYHIXC35K4Ujrbu6XHchNDCv9) (13:00)
