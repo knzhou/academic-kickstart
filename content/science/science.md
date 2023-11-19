@@ -32,18 +32,17 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Anomalies in High Energy Physics](https://hepcomm.github.io/hepmist/)
 
 ### Scientific Pitfalls
-- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-- [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf) / [Why is the Government Paying Us?](https://statmodeling.stat.columbia.edu/2020/09/04/grad-student-asks-why-is-the-government-paying-us-money-instead-of-just-firing-us-all/)
+- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) / [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
 - [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
-- [A Meta-Scientific Perspective on "Thinking: Fast and Slow"](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
 - [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
 - [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
-- [Replications and Reversals](https://forrt.org/reversals/)
+- [Replications and Reversals](https://forrt.org/reversals/) / [A Meta-Scientific Perspective on "Thinking: Fast and Slow"](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
+- [I'm So Sorry for Psychology's Loss](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 
 ### The Grind
-- [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295)
+- [Landau's Theoretical Minimum](https://arxiv.org/abs/hep-ph/0204295) / [On Teaching Mathematics](https://www.maths.tcd.ie/pub/Maths/Courseware/ProblemSolving/Arnold/TeachingMathematics.pdf)
 - [The Hunt For Planet Nine](https://longreads.com/2019/01/22/the-hunt-for-planet-nine/)
 - [Science's Pirate Queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
 - [The PhD Grind](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0) / [The Mundanity of Excellence](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
@@ -73,7 +72,6 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Gravity Turn](https://radimentary.wordpress.com/2021/08/16/gravity-turn/)
 
 ### The Job Market
-
 - [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html) 
 - [Booms, Busts, and the World of Ideas](https://www.journals.uchicago.edu/doi/abs/10.1086/667831)
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)

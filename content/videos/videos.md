@@ -39,6 +39,7 @@ Here's some fun stuff you can find on YouTube.
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
+- [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Striving

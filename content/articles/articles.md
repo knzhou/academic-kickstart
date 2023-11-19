@@ -107,9 +107,9 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [What Happened at Alameda Research](https://milkyeggs.com/crypto/what-happened-at-alameda-research/)
 - [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
-- [The Other Afghan Women](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women)
-- [How We Beat America](https://web.archive.org/web/20210901095003/https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
+- [The Other Afghan Women](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women) / [How We Beat America](https://web.archive.org/web/20210901095003/https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
 - [The Triumph and Terror of Wang Huning](https://palladiummag.com/2021/10/11/the-triumph-and-terror-of-wang-huning/)
+- [The Industrial Party and the Sentimental Party](https://www.strategictranslation.org/articles/a-study-of-the-industrial-party-and-the-sentimental-party)
 
 ### Globalization
 - [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
