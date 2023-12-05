@@ -35,10 +35,10 @@ I've developed a series of challenging problem sets for students aiming at gold 
 - {{% staticref "handouts/R1.pdf" "newtab" %}}Relativity I{{% /staticref %}} ({{% staticref "handouts/R1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/R2.pdf" "newtab" %}}Relativity II{{% /staticref %}} ({{% staticref "handouts/R2Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/W1.pdf" "newtab" %}}Waves I{{% /staticref %}} ({{% staticref "handouts/W1Sol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/W2.pdf" "newtab" %}}Waves II{{% /staticref %}} (Sol), {{% staticref "handouts/X1.pdf" "newtab" %}}Modern I{{% /staticref %}} ({{% staticref "handouts/X1Sol.pdf" "newtab" %}}Sol{{% /staticref %}})
 
-#### Advanced Topics, Review, and Practice Olympiads
+#### Supplemental Topics, Review, and Practice Olympiads
 
 - {{% staticref "handouts/M8.pdf" "newtab" %}}Mech VIII{{% /staticref %}} (Sol), {{% staticref "handouts/E8.pdf" "newtab" %}}Elec VIII{{% /staticref %}} (Sol), {{% staticref "handouts/R3.pdf" "newtab" %}}Relativity III{{% /staticref %}} (Sol)
-- Waves III (Sol), Modern II (Sol), Modern III (Sol)
+- Waves III (Sol), {{% staticref "handouts/X2.pdf" "newtab" %}}**Modern II**{{% /staticref %}} (Sol), Modern III (Sol)
 - {{% staticref "handouts/MRev.pdf" "newtab" %}}Mech Review{{% /staticref %}} ({{% staticref "handouts/MRevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/ERev.pdf" "newtab" %}}Elec Review{{% /staticref %}} ({{% staticref "handouts/ERevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/XRev.pdf" "newtab" %}}Other Review{{% /staticref %}} ({{% staticref "handouts/XRevSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/USAPhOM.pdf" "newtab" %}}Oly-Mech{{% /staticref %}} ({{% staticref "handouts/USAPhOMSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOE.pdf" "newtab" %}}Oly-Elec{{% /staticref %}} ({{% staticref "handouts/USAPhOESol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOX.pdf" "newtab" %}}Oly-Other{{% /staticref %}} ({{% staticref "handouts/USAPhOXSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/Final.pdf" "newtab" %}}Final{{% /staticref %}} ({{% staticref "handouts/FinalSol.pdf" "newtab" %}}Sol{{% /staticref %}})
