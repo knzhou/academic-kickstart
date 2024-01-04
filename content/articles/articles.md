@@ -103,24 +103,27 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [Autism's First Child](https://www.theatlantic.com/magazine/archive/2010/10/autisms-first-child/308227/)
 - [Sacrifice](https://hazlitt.net/longreads/sacrifice)
 
-### Inequality
+### Finance
+- [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
 - [A Trip Behind the Spectacle at Davos](https://palladiummag.com/2019/02/02/a-trip-behind-the-spectacle-at-davos/)
 - [What Happened at Alameda Research](https://milkyeggs.com/crypto/what-happened-at-alameda-research/)
-- [Leasing the Rain](https://www.newyorker.com/magazine/2002/04/08/leasing-the-rain)
+- [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
+- [The Value of Nothing](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/)
+
+### Development
+- [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/) / [How Asia Works](https://www.astralcodexten.com/p/book-review-how-asia-works)
+- [The Full Stack of Society](https://www.conradbastable.com/essays/the-full-stack-of-society-can-you-make-a-whole-society-wealthier-full-version)
+- [The Rise of Made-in-China Diplomacy](https://www.newyorker.com/magazine/2021/03/15/the-rise-of-made-in-china-diplomacy)
+- [How Technology Grows](https://danwang.co/how-technology-grows/)
+- [The Long, Slow Death of Global Development](https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/)
+
+### East and West
+- [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0)
 - [The Other Afghan Women](https://www.newyorker.com/magazine/2021/09/13/the-other-afghan-women) / [How We Beat America](https://web.archive.org/web/20210901095003/https://www.weltwoche.ch/amp/2021-35/weltwoche-international/taliban-takeover-die-weltwoche-ausgabe-35-2021.html)
 - [The Triumph and Terror of Wang Huning](https://palladiummag.com/2021/10/11/the-triumph-and-terror-of-wang-huning/)
 - [The Industrial Party and the Sentimental Party](https://www.strategictranslation.org/articles/a-study-of-the-industrial-party-and-the-sentimental-party)
 
-### Globalization
-- [How the World Works](https://www.theatlantic.com/magazine/archive/1993/12/how-the-world-works/305854/)
-- [A Conversation with Lee Kuan Yew](https://www.foreignaffairs.com/articles/asia/1994-03-01/conversation-lee-kuan-yew-0)
-- [The Rise of Made-in-China Diplomacy](https://www.newyorker.com/magazine/2021/03/15/the-rise-of-made-in-china-diplomacy)
-- [How the U.S. Lost Out on iPhone Work](https://www.nytimes.com/2012/01/22/business/apple-america-and-a-squeezed-middle-class.html)
-- [The 8th Wonder of the World](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
-- [The Long, Slow Death of Global Development](https://americanaffairsjournal.org/2022/11/the-long-slow-death-of-global-development/)
-
-### The Future
-- [How Technology Grows](https://danwang.co/how-technology-grows/)
+### The Far Future
 - [Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 - [Lactaid and Stevia](https://skunkledger.substack.com/p/lactaid-and-stevia)
 - [Industrial Society and its Future](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)

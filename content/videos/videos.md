@@ -71,6 +71,7 @@ Here's some fun stuff you can find on YouTube.
 - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
 - [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
 - [The Witness](https://store.steampowered.com/app/210970/The_Witness/) (15:00)
+- [Patrick's Parabox](https://store.steampowered.com/app/1260520/Patricks_Parabox/) (15:00)
 - [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (35:00)
 
 ### Adventure Games

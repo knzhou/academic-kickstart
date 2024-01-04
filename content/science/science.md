@@ -20,7 +20,6 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Why is Maxwell's Theory so Hard to Understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 - [Absolute Zero is 0K](https://www.damninteresting.com/absolute-zero-is-0k/)
 - [The Vortex Atom: a Victorian Theory of Everything](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1600-0498.2002.440102.x)
-- [Failed Theories of Superconductivity](https://arxiv.org/abs/1008.0447)
 - [A History of Dark Matter](https://arxiv.org/abs/1605.04909)
 
 ### Collider Physics
@@ -29,15 +28,18 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
 - [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
 - [Physicists' Nightmare Scenario](https://www.science.org/doi/10.1126/science.315.5819.1657) / [Supersymmetry and the Disunity of Physics](https://arxiv.org/abs/2304.03673)
+
+### Signal and Noise
+- [Failed Theories of Superconductivity](https://arxiv.org/abs/1008.0447)
+- [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
+- [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
 - [Anomalies in High Energy Physics](https://hepcomm.github.io/hepmist/)
 
-### Scientific Pitfalls
-- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) / [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
+### The Replication Crisis
 - [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
-- [Pathological Science](http://galileo.phys.virginia.edu/~rjh2j/misc/Langmuir.pdf)
-- [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
-- [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
+- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) / [The Statistical Crisis in Science](http://www.stat.columbia.edu/~gelman/research/published/ForkingPaths.pdf)
 - [Replications and Reversals](https://forrt.org/reversals/) / [A Meta-Scientific Perspective on "Thinking: Fast and Slow"](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
+- [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
 - [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 - [I'm So Sorry for Psychology's Loss](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 
