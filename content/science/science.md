@@ -56,6 +56,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Kirk McDonald's Examples](http://kirkmcd.princeton.edu/examples/)
 - [Randy's Clear Explanations](https://www.cphysics.org/)
 - [Jaan Kalda's Handouts](https://www.ioc.ee/~kalda/ipho/)
+- [Reddit's Commonly Asked Questions](https://www.reddit.com/r/Physics/wiki/common)
 
 ### Diversions and Games
 - [TeXnique](https://texnique.xyz)
@@ -87,4 +88,4 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - [The Cognitive Style of PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 - [How to Make Sure Your Talk Doesn't Suck](http://www.damtp.cam.ac.uk/user/tong/talks/talk.pdf)
-- [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/)
+- [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/) / [My Secret, Cap](https://4gravitons.com/2024/02/02/my-secret-cap/)
