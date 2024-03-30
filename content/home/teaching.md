@@ -37,8 +37,8 @@ I've developed a series of challenging problem sets for students aiming at gold 
 
 #### Supplemental Topics, Review, and Practice Olympiads
 
-- {{% staticref "handouts/M8.pdf" "newtab" %}}Mech VIII{{% /staticref %}} (Sol), {{% staticref "handouts/E8.pdf" "newtab" %}}Elec VIII{{% /staticref %}} (Sol), {{% staticref "handouts/R3.pdf" "newtab" %}}Relativity III{{% /staticref %}} (Sol)
-- Waves III (Sol), {{% staticref "handouts/X2.pdf" "newtab" %}}**Modern II**{{% /staticref %}} (Sol), Modern III (Sol)
+- {{% staticref "handouts/M8.pdf" "newtab" %}}Mech VIII{{% /staticref %}} ({{% staticref "handouts/M8Sol.pdf" "newtab" %}}**Sol**{{% /staticref %}}), {{% staticref "handouts/E8.pdf" "newtab" %}}Elec VIII{{% /staticref %}} (Sol), {{% staticref "handouts/R3.pdf" "newtab" %}}Relativity III{{% /staticref %}} (Sol)
+- Waves III (Sol), {{% staticref "handouts/X2.pdf" "newtab" %}}Modern II{{% /staticref %}} (Sol), Modern III (Sol)
 - {{% staticref "handouts/MRev.pdf" "newtab" %}}Mech Review{{% /staticref %}} ({{% staticref "handouts/MRevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/ERev.pdf" "newtab" %}}Elec Review{{% /staticref %}} ({{% staticref "handouts/ERevSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/XRev.pdf" "newtab" %}}Other Review{{% /staticref %}} ({{% staticref "handouts/XRevSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/USAPhOM.pdf" "newtab" %}}Oly-Mech{{% /staticref %}} ({{% staticref "handouts/USAPhOMSol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOE.pdf" "newtab" %}}Oly-Elec{{% /staticref %}} ({{% staticref "handouts/USAPhOESol.pdf" "newtab" %}}Sol{{% /staticref %}}), {{% staticref "handouts/USAPhOX.pdf" "newtab" %}}Oly-Other{{% /staticref %}} ({{% staticref "handouts/USAPhOXSol.pdf" "newtab" %}}Sol{{% /staticref %}})
 - {{% staticref "handouts/Final.pdf" "newtab" %}}Final{{% /staticref %}} ({{% staticref "handouts/FinalSol.pdf" "newtab" %}}Sol{{% /staticref %}})
