@@ -28,7 +28,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [The Refragmentation](http://www.paulgraham.com/re.html) / [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
 ### Infrastructure
-- [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm) 
+- [A Rocket To Nowhere](https://idlewords.com/2005/08/a_rocket_to_nowhere.htm) / [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 - [The Most Expensive Mile of Subway Track on Earth](https://www.nytimes.com/2017/12/28/nyregion/new-york-subway-construction-costs.html)
 - [This Is Why Your Holiday Travel Is Awful](https://www.politico.com/news/magazine/2019/11/29/penn-station-robert-caro-073564)
 - [The Real Reason Your City Has No Money](https://www.strongtowns.org/journal/2017/1/9/the-real-reason-your-city-has-no-money)

@@ -79,6 +79,7 @@ Here's some fun stuff you can find on YouTube.
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
 - [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
+- [Animal Well](https://store.steampowered.com/app/813230/ANIMAL_WELL/) (15:00)
 - [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) (25:00)
 
 ### Courses
