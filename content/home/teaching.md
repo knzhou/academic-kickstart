@@ -22,7 +22,7 @@ In Autumn 2022, I was the TA for Stanford's introductory quantum field theory cl
 
 ## Physics Olympiad Handouts
 
-I've developed a series of challenging problem sets for students aiming at gold medals at the International Physics Olympiad. They contain about 1,000 solved questions, explanations of problem solving techniques, hundreds of examples, and many references to historical and modern literature. For more details, see the {{% staticref "handouts/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}} and {{% staticref "handouts/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}. Usually, students take a year to work through the handouts; to see if you're ready, try the {{% staticref "handouts/Prelim.pdf" "newtab" %}}preliminary problems{{% /staticref %}} (answers {{% staticref "handouts/PrelimSol.pdf" "newtab" %}}here{{% /staticref %}}).
+From 2021 to 2024, I coached the US Physics Team and wrote a good chunk of its exam questions, while developing a comprehensive set of training material. These handouts are the result. They contain full explanations of all the problem solving techniques used in the USAPhO and IPhO, hundreds of illustrative examples, and about 1,000 tough questions, with solutions. For more details, see the {{% staticref "handouts/Syllabus.pdf" "newtab" %}}syllabus{{% /staticref %}} and {{% staticref "handouts/FAQ.pdf" "newtab" %}}FAQ{{% /staticref %}}. Usually, students take a year to work through the handouts; to see if you're ready, try the {{% staticref "handouts/Prelim.pdf" "newtab" %}}preliminary problems{{% /staticref %}} (answers {{% staticref "handouts/PrelimSol.pdf" "newtab" %}}here{{% /staticref %}}).
 
 #### Core Curriculum
 

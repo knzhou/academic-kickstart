@@ -65,7 +65,7 @@ Here's some fun stuff you can find on YouTube.
 - [Mapping the Milky Way's Dark Matter Halo with Gaia](https://www.youtube.com/watch?v=gSE0tpzvT9k) (0:46)
 - [Geometrodynamics: The Nonlinear Dynamics of Curved Spacetime](https://www.youtube.com/watch?v=XD2HVoAK7es) (1:10)
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
-- [A Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=h6_iJRY6nU4) (0:57)
+- [In Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=pup3s86oJXU) (0:57)
 
 ### Puzzle Games
 - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
