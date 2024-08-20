@@ -68,6 +68,7 @@ Here's some fun stuff you can find on YouTube.
 - [In Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=pup3s86oJXU) (0:57)
 
 ### Puzzle Games
+- [30 Puzzle Design Lessons](https://www.youtube.com/watch?v=oCHciE9CYfA) (3:11)
 - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
 - [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
 - [The Witness](https://store.steampowered.com/app/210970/The_Witness/) (15:00)

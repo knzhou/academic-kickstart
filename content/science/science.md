@@ -62,9 +62,9 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [TeXnique](https://texnique.xyz)
 - [Particle Clicker](https://particle-clicker.web.cern.ch/)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
-- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html)
+- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html) / [viXra highlights]({{<ref "side">}})
 - APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
-- [The Other Side]({{<ref "side">}})
+- [More Neat Links]({{<ref "links">}})
 
 ### Research Advice
 - [The Importance of Stupidity in Scientific Research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)

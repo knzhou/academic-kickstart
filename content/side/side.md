@@ -18,6 +18,7 @@ One of the greatest things about physics is how it inspires so many of us to use
 - [Proposol to disidentify 7](https://web.archive.org/web/20170822125606/http://vixra.org/pdf/1612.0123v1.pdf) / [Iriene vs. Smarandache](http://web.archive.org/web/20200324023904/https://vixra.org/pdf/1712.0392v1.pdf)
 - [Newton's third law is wrong](https://vixra.org/pdf/1705.0381v1.pdf)
 - [What is Fundamental?](https://vixra.org/pdf/1711.0389v1.pdf)
+- [The Chern-Simons current in DNA-RNA transcription](https://arxiv.org/abs/1802.00314)
 - [A Black Hole at the Center of Earth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910781/)
 - [Finally, We May Have a Path](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
 - [Treo Model of Structure](https://vixra.org/pdf/2011.0155v1.pdf)
