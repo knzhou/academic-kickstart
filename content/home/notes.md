@@ -10,6 +10,9 @@ weight = 5
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Personal Notes"
 
+[design.spacing] 
+padding = ["40px", "0px", "40px", "0px"]
+
 +++
 
 These are the notes I've taken while learning physics. I use them for reference, but they're quite terse, and not a good resource to learn from. They weigh in at 1,900 pages and 750,000 words.

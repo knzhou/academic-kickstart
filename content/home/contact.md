@@ -2,7 +2,7 @@
 # Contact widget.
 widget = "custom"
 headless = true
-active = true
+active = false
 weight = 10
 
 title = "Contact"

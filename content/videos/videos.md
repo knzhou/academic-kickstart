@@ -76,6 +76,7 @@ Here's some fun stuff you can find on YouTube.
 - [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/) (35:00)
 
 ### Adventure Games
+- [Preserving a Sense of Discovery in the Age of Spoilers](https://vimeo.com/91436410) (0:17)
 - [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)

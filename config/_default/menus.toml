@@ -27,8 +27,3 @@
   name = "Writing"
   url = "#writing"
   weight = 6
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 10

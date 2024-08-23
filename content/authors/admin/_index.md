@@ -10,34 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Physics graduate student
+# role: Physics postdoc
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+# - name: UC Berkeley
+  # url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a graduate student interested in particle phenomenology and physics education.
+# bio: I'm a postdoc interested in both theoretical particle physics and new experiments to test it.
 
-interests:
-- Beyond the Standard Model
-- Dark matter
-- Precision experiments
-
-education:
-  courses:
-  - course: PhD in Physics, 2024 (planned)
-    institution: Stanford
-  - course: MSc in Mathematical and Theoretical Physics
-    institution: Oxford
-    year: 2019
-  - course: MASt in Mathematics
-    institution: Cambridge
-    year: 2018
-  - course: BSc in Physics and Mathematics
-    institution: MIT
-    year: 2017
+# education:
+#   courses:
+#   - course: PhD in Physics
+#     institution: Stanford
+#     year: 2024
+#   - course: MSc in Mathematical and Theoretical Physics
+#     institution: Oxford
+#     year: 2019
+#   - course: MASt in Mathematics
+#     institution: Cambridge
+#     year: 2018
+#   - course: BSc in Physics and Mathematics
+#     institution: MIT
+#     year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,6 +55,6 @@ social:
 
 ---
 
-I'm a graduate student interested in particle phenomenology and physics education. I spent two years in the UK as a Marshall scholar, and am currently a PhD student at Stanford, funded by an NSF Graduate Research fellowship. A complete CV is available {{% staticref "other/CV.pdf" "newtab" %}}here{{% /staticref %}}. 
+I'm a postdoctoral researcher at UC Berkeley and LBNL, working at the Berkeley Center for Theoretical Physics. I am primarily interested in accelerating the discovery of physics beyond the Standard Model through new kinds of precision experiments. Many of these ideas focus on detecting ultralight dark matter, though I've also thought about more radical possibilities, such as modifications of long-range forces due to continuous spin. A complete CV is available {{% staticref "other/CV.pdf" "newtab" %}}here{{% /staticref %}}. 
 
-I got started by devouring the scifi section of my local public library, but it wasn't until watching *Particle Fever* in college that I knew what I wanted to be. I find nothing more thrilling than the process of scientific discovery, whether it's the "aha!" moment of a single student or the collective effort of the entire physics community, and I hope to be a lifelong participant as a professor of physics.
+Previously, I earned my PhD degree at Stanford in 2024, and Master's degrees at Cambridge and Oxford. During that period I spent a lot of energy on physics education and outreach, and I'm still always interested in hearing a good physics puzzle. For research-related inquiries, you can reach me at <a href="mailto:knzhou@stanford.edu">knzhou@stanford.edu</a>, and for everything else, try <a href="mailto:knzhou@stanford.edu">kzhou7@gmail.com</a>.

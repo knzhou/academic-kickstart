@@ -10,6 +10,9 @@ weight = 6
 title = "Writing"
 subtitle = ""
 
+[design.spacing] 
+padding = ["40px", "0px", "0px", "0px"]
+
 +++
 
 ### Advice 
@@ -22,7 +25,8 @@ subtitle = ""
 
 ### Expository
 
-- {{% staticref "writing/Relaxation.pdf" "newtab" %}}Cosmological Relaxation{{% /staticref %}}. A dissertation written for the Oxford MSc in Mathematical and Theoretical Physics, covering models that "relax" the Higgs boson's mass. Also contains unqualified musings on model building and the meaning of naturalness and fine-tuning.
+- {{% staticref "writing/Dissertation.pdf" "newtab" %}}Novel Searches for Physics Beyond the Standard Model{{% /staticref %}}. My Stanford PhD dissertation, covering several new types of experimental searches, and their motivation. 
+- {{% staticref "writing/Relaxation.pdf" "newtab" %}}Cosmological Relaxation{{% /staticref %}}. My Oxford MSc dissertation, reviewing models that "relax" the Higgs boson's mass, and motivations for model building.
 - {{% staticref "writing/Demuth.pdf" "newtab" %}}The Meaning of Nothing{{% /staticref %}}. The New College Demuth prize essay, on how theoretical stories map onto reality, and why a physicist's philosophical flexibility is a useful tool. Published in the New College Record with a wonderful [illustration](https://aeffen.github.io/art.html) by [Audrey Effenberger](https://aeffen.github.io/).
 
 ### Links

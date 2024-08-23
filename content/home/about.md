@@ -8,4 +8,7 @@ weight = 1
 title = "Biography"
 author = "admin"
  
+[design.spacing] 
+padding = ["40px", "0px", "0px", "0px"]
+
 +++
