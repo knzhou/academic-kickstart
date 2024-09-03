@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here's some fun stuff you can find on YouTube. 
+Here are some fun videos and videogames. 
 
 ### Progress
 - [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
@@ -21,7 +21,7 @@ Here's some fun stuff you can find on YouTube.
 - [The Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ) (0:54)
 
 ### Building
-- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
+- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://web.archive.org/web/20210911150302/https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
 - [The Four Hour House](https://www.youtube.com/watch?v=oDB1O5cadQw) (0:11)
 - [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
 - [America's Missing Collider](https://www.youtube.com/watch?v=3xSUwgg1L4g) (2:58)
