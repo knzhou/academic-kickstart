@@ -32,7 +32,7 @@ Here are some fun videos and videogames.
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (1:02)
 - [Free Electron Lasers](https://www.youtube.com/watch?v=RKqof77pKBc) (0:59)
 - [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4) (1:01)
-- [Particle Fever](https://www.youtube.com/watch?v=MDDyOFvU4Pg) (1:39)
+- [Particle Fever](https://watchdocumentaries.com/particle-fever/) (1:39)
 
 ### Tinkering
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
