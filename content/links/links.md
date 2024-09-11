@@ -32,3 +32,5 @@ In the spirit of [this work's](https://arxiv.org/pdf/2106.11285) introduction.
 - [Ultra Unification](https://arxiv.org/abs/2012.15860)
 - [Differential cohomology in a cohesive infinity-topos](https://ncatlab.org/schreiber/files/dcct170811.pdf)
 - [Wave equations estimates and the nonlinear stability of slowly rotating Kerr black holes](https://arxiv.org/abs/2205.14808)
+- [Encyclopaedia Inflationaris](https://arxiv.org/abs/1303.3787)
+- [Finite-Dimensional Lie Algebras and Their Representations for Unified Model Building](https://arxiv.org/abs/1511.08771)
