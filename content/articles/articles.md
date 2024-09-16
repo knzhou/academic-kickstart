@@ -83,7 +83,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/) / [The Billionaire's Dilemma](https://web.archive.org/web/20220805013939/https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/)
 - [How to Become an Intellectual in Silicon Valley](https://thebaffler.com/salvos/how-to-become-an-intellectual-in-silicon-valley-timms) / [Extract or Die](https://www.piratewires.com/p/extract-or-die)
 - [Web Design: The First 100 Years](https://idlewords.com/talks/web_design_first_100_years.htm) / [The Fable of the Dragon-Tyrant](https://www.nickbostrom.com/fable/dragon.html)
-- [Elephant in the Zoom](https://web.archive.org/web/20220613221044/https://theintercept.com/2022/06/13/progressive-organizing-infighting-callout-culture/)
+- [Elephant in the Zoom](https://web.archive.org/web/20220613221044/https://theintercept.com/2022/06/13/progressive-organizing-infighting-callout-culture/) / [How the Online Right Fell Apart](https://damagemag.com/2024/08/21/how-the-online-right-fell-apart/)
 - [The Internet is Already Over](https://samkriss.substack.com/p/the-internet-is-already-over)
 
 ### Society
@@ -97,6 +97,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 ### Lives
 - [My Family's Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
 - [The Zero-Armed Bandit](https://www.damninteresting.com/the-zero-armed-bandit/)
+- [Billiards is a Good Game](https://mag.uchicago.edu/billiards)
 - [Death of a Quantum Man](https://web.archive.org/web/20200505202910/https://www.thewirechina.com/2020/05/03/the-quantum-man/)
 - [36,000 Feet Under the Sea](https://www.newyorker.com/magazine/2020/05/18/thirty-six-thousand-feet-under-the-sea)
 - [The Maintenance Race](https://www.worksinprogress.co/issue/the-maintenance-race/)

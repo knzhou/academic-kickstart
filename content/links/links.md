@@ -18,12 +18,14 @@ subtitle = ""
 - [Organic compounds and their smells](https://jameskennedymonash.wordpress.com/2014/01/04/table-of-organic-compounds-and-their-smells-revised-edition/)
 - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
 - Manga depictions of the {{% staticref "other/particle.png" "newtab" %}}Standard Model{{% /staticref %}} and {{% staticref "other/cosmology.png" "newtab" %}}cosmological history{{% /staticref %}}
+- [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 
 ### Other Fun
 
 - [FoodTongue Avocado Pilaf](http://foodtongue.soy/)
 - [A satisfying win on generals.io](https://generals.io/replays/-BirwtRKT)
 - {{% staticref "other/markov.png" "newtab" %}}The output of a Markov chain trained on my quantum field theory notes{{% /staticref %}}
+- [Fix the National Debt](https://www.crfb.org/debtfixer)
 
 ### Awe-Inspiring Mathematics
 
