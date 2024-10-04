@@ -43,6 +43,7 @@ Here are some fun videos and videogames.
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Striving
+- [29,000 Feet Up Mount Everest](https://www.youtube.com/watch?v=0pIyIMqwu0E) (0:04)
 - [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
 - [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
