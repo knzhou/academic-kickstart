@@ -25,6 +25,7 @@ padding = ["40px", "0px", "0px", "0px"]
 
 ### Expository
 
+- [The Surprising Subtlety of Electrostatic Field Lines](https://arxiv.org/abs/2411.08283). A fun puzzle in electrostatics and its resolution with differential geometry; coauthored with [Tomas Brauner](https://sites.google.com/site/braunercz/home).
 - {{% staticref "writing/Dissertation.pdf" "newtab" %}}Novel Searches for Physics Beyond the Standard Model{{% /staticref %}}. My Stanford PhD dissertation, covering several new types of experimental searches, and their motivation. 
 - {{% staticref "writing/Relaxation.pdf" "newtab" %}}Cosmological Relaxation{{% /staticref %}}. My Oxford MSc dissertation, reviewing models that "relax" the Higgs boson's mass, and motivations for model building.
 - {{% staticref "writing/Demuth.pdf" "newtab" %}}The Meaning of Nothing{{% /staticref %}}. The New College Demuth prize essay, on how theoretical stories map onto reality, and why a physicist's philosophical flexibility is a useful tool. Published in the New College Record with a wonderful [illustration](https://aeffen.github.io/art.html) by [Audrey Effenberger](https://aeffen.github.io/).
