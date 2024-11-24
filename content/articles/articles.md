@@ -127,6 +127,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 ### The Far Future
 - [Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 - [Lactaid and Stevia](https://skunkledger.substack.com/p/lactaid-and-stevia)
+- [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 - [Industrial Society and its Future](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
 - [Futurist Prediction Accuracy](https://danluu.com/futurist-predictions/)
 - [17776](https://www.sbnation.com/a/17776-football/)
