@@ -40,6 +40,7 @@ Here are some fun videos and videogames.
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
 - [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
+- [I Saved an Electron Microscope from the Trash](https://www.youtube.com/watch?v=Kqx9blbYDB0) (0:35)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Striving
@@ -47,6 +48,7 @@ Here are some fun videos and videogames.
 - [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
 - [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
+- [The Epic of Gilgamesh](https://www.youtube.com/watch?v=Rd7MrGy_tEg) (1:29)
 - [Hard Problems](https://www.youtube.com/watch?v=VboXBHVaCFU) (1:21)
 
 ### Cautionary Tales
@@ -78,7 +80,7 @@ Here are some fun videos and videogames.
 
 ### Adventure Games
 - [Preserving a Sense of Discovery in the Age of Spoilers](https://vimeo.com/91436410) (0:17)
-- [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
+- [Stimulation Clicker](https://neal.fun/stimulation-clicker/) (0:20) / [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html) (3:00)
 - [Transistor](https://store.steampowered.com/app/237930/Transistor/) (7:00)
 - [Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/) (8:00)
 - [TUNIC](https://store.steampowered.com/app/553420/TUNIC/) (12:00)
