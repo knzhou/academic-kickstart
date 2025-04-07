@@ -6,7 +6,7 @@ authors:
 - "T. Trickle"
 - "K. Zhou"
 
-date: "2025-04-04"
+date: "2025-04-03"
 doi: ""
 
 # Publication type. (2 = journal article, 3 = preprint)
@@ -21,8 +21,8 @@ summary: In simple models, light dark matter particles can behave like the neutr
 featured: false
 
 links:
-# - name: arXiv
-#   url: https://arxiv.org/abs/2504.xxxxx
+- name: arXiv
+  url: https://arxiv.org/abs/2504.02927
 # - name: JHEP
 #   url: https://link.springer.com/article/10.1007/JHEP05(2024)314
 # - name: Talk slides
