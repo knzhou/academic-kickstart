@@ -34,14 +34,17 @@ Here are some fun videos and videogames.
 - [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4) (1:01)
 - [Particle Fever](https://watchdocumentaries.com/particle-fever/) (1:39)
 
-### Tinkering
+### Systems
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
+- [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
+- [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
+
+### Tinkering
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
-- [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
+- [Attempting to Make the World's Smallest Electric Motor](https://www.youtube.com/watch?v=6x_NMytSA90) (0:16)
 - [I Saved an Electron Microscope from the Trash](https://www.youtube.com/watch?v=Kqx9blbYDB0) (0:35)
-- [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Striving
 - [29,000 Feet Up Mount Everest](https://www.youtube.com/watch?v=0pIyIMqwu0E) (0:04)
@@ -62,6 +65,7 @@ Here are some fun videos and videogames.
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
 - [Outside In](https://www.youtube.com/watch?v=wO61D9x6lNY) (0:21)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
+- [Training AI to Play Pokemon with Reinforcement Learning](https://www.youtube.com/watch?v=DcYLT37ImBY) (0:34)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
 ### Physics Talks
