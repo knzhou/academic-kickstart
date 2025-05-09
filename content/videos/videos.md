@@ -77,6 +77,7 @@ Here are some fun videos and videogames.
 ### Puzzle Games
 - [30 Puzzle Design Lessons](https://www.youtube.com/watch?v=oCHciE9CYfA) (3:11)
 - [Gorogoa](https://store.steampowered.com/app/557600/Gorogoa/) (2:00)
+- [No Case Should Remain Unsolved](https://store.steampowered.com/app/2676840/No_Case_Should_Remain_Unsolved/) (2:00)
 - [FEZ](https://store.steampowered.com/app/224760/FEZ/) (6:00)
 - [The Witness](https://store.steampowered.com/app/210970/The_Witness/) (15:00)
 - [Patrick's Parabox](https://store.steampowered.com/app/1260520/Patricks_Parabox/) (15:00)
