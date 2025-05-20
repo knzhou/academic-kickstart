@@ -25,7 +25,7 @@ links:
   url: https://arxiv.org/abs/2504.02927
 # - name: JHEP
 #   url: https://link.springer.com/article/10.1007/JHEP05(2024)314
-# - name: Talk slides
-#   url: https://knzhou.github.io/talks/AxionElectron.pdf
+- name: Talk slides
+  url: https://knzhou.github.io/talks/NeutronScattering.pdf
 
 ---
