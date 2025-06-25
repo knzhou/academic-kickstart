@@ -28,5 +28,6 @@ One of the greatest things about physics is how it inspires so many of us to use
 And here's what you can say if you get one of these in the mail.
 
 - {{% staticref "other/Dudley_1983.pdf" "newtab" %}}What To Do When The Trisector Comes{{% /staticref %}}
+- [Tales From "The Box"](https://www.youtube.com/watch?v=HXSgp755DSA)
 - [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/) / [A Flat Earth?](https://brucesherwood.net/?p=420)
 - [How To Be Taken Seriously](https://www.cantorsparadise.com/how-to-tell-if-youre-about-to-revolutionize-science-a17b534b59a7)
