@@ -66,6 +66,7 @@ Here are some fun videos and videogames.
 - [Outside In](https://www.youtube.com/watch?v=wO61D9x6lNY) (0:21)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
 - [Training AI to Play Pokemon with Reinforcement Learning](https://www.youtube.com/watch?v=DcYLT37ImBY) (0:34)
+- [Beating Every Possible Game of Pokemon Platinum at Once](https://www.youtube.com/watch?v=jNMWkD5VsZ8) (1:05)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
 ### Physics Talks
