@@ -71,12 +71,13 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [In the Basement of the Ivory Tower](https://web.archive.org/web/20131209200057/http://www.theatlantic.com/magazine/archive/2008/06/in-the-basement-of-the-ivory-tower/306810/?single_page=true)
 - [Lost in the Meritocracy](https://web.archive.org/web/20120822043706/https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/)
 
-### Misinformation
+### Narratives
 - [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm) / [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [Bad News](https://web.archive.org/web/20210819184241/https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/) / [How Stewart Made Tucker](https://www.thenewatlantis.com/publications/how-stewart-made-tucker)
 - [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill) / [The Intimacy Machine](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm) / [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
 - [The Rise and Fall of 'Social Bot' Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
+- [Physics Grifters and a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
 - [The Information](https://web.archive.org/web/20141010001631/https://www.newyorker.com/magazine/2011/02/14/the-information)
 
 ### Discourse
