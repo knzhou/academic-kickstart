@@ -38,9 +38,12 @@ Here are some fun videos and videogames.
 - [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) (1:01)
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
+- [ChatGPT with Minecraft Redstone](https://www.youtube.com/watch?v=VaeI9YgE1o8) (0:03)
+- [I Solved Klotski](https://www.youtube.com/watch?v=YGLNyHd2w10) (0:12)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Tinkering
+- [Motion Extraction](https://www.youtube.com/watch?v=NSS6yAMZF78) (0:07)
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
 - [Attempting to Make the World's Smallest Electric Motor](https://www.youtube.com/watch?v=6x_NMytSA90) (0:16)
@@ -61,7 +64,6 @@ Here are some fun videos and videogames.
 - [Erroneous Statistics in Physics Education Research](https://www.youtube.com/watch?v=0NsNtqyiDco) (0:53)
 
 ### Puzzles and Games 
-- [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
 - [Outside In](https://www.youtube.com/watch?v=wO61D9x6lNY) (0:21)
 - [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
@@ -70,8 +72,10 @@ Here are some fun videos and videogames.
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)
 
 ### Physics Talks
+- [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
 - [Mapping the Milky Way's Dark Matter Halo with Gaia](https://www.youtube.com/watch?v=gSE0tpzvT9k) (0:46)
 - [Geometrodynamics: The Nonlinear Dynamics of Curved Spacetime](https://www.youtube.com/watch?v=XD2HVoAK7es) (1:10)
+- [Master the Complexity of Spaceflight](https://www.youtube.com/watch?v=dhYqflvJMXc) (0:32)
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
 - [In Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=pup3s86oJXU) (0:57)
 
