@@ -27,5 +27,7 @@ links:
   url: https://arxiv.org/abs/2510.05198
 # - name: NIMA
 #   url: https://link.springer.com/article/10.1007/JHEP05(2024)314
+- name: Talk slides
+  url: https://knzhou.github.io/talks/QuantumAxion.pdf
 
 ---
