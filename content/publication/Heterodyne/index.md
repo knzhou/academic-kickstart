@@ -22,7 +22,7 @@ publication_types: ["3"]
 
 abstract: In the heterodyne approach to axion detection, axion dark matter induces transitions between two modes of a microwave cavity, resulting in a parametrically enhanced signal power. We describe the fabrication and characterization of a prototype normal conducting cavity specifically optimized for heterodyne detection. Corrugations on the cavity walls support linearly polarized hybrid modes which maximize the signal power while strongly suppressing noise. We demonstrate tuning mechanisms which allow one mode's frequency to be scanned across a 4 MHz range, while suppressing cross-coupling noise by at least 80 dB. A future superconducting cavity with identical geometry to our prototype would have the potential to probe orders of magnitude beyond astrophysical bounds.
 
-summary: A prototype cavity was developed with a novel geometry that enhances its sensitivity to axion dark matter. We show how this cavity enhances the axion signal power, while suppressing noise and allowing a wide tuning range.
+summary: The heterodyne approach to axion detection enhances the axion signal power. A prototype cavity was designed and tested, with a novel geometry that maximizes signal, suppresses noise, and allows a wide tuning range. 
 
 featured: false
 
