@@ -28,5 +28,7 @@ links:
 #   url: https://link.springer.com/article/10.1007/JHEP05(2024)314
 - name: Talk slides
   url: https://knzhou.github.io/talks/CavityShift.pdf
+- name: Talk video
+  url: https://www.youtube.com/watch?v=h6NiDAqfcdE
 
 ---
