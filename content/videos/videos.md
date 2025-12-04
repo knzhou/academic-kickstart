@@ -39,7 +39,7 @@ Here are some fun videos and videogames.
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
 - [ChatGPT with Minecraft Redstone](https://www.youtube.com/watch?v=VaeI9YgE1o8) (0:03)
-- [I Solved Klotski](https://www.youtube.com/watch?v=YGLNyHd2w10) (0:12)
+- [There is no Quintic Formula](https://www.youtube.com/watch?v=9HIy5dJE-zQ) (0:27)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
 ### Tinkering
