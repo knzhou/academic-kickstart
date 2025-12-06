@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some answers I've written on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou).
+Here are some answers I've written on [StackExchange](https://physics.stackexchange.com/users/83398/knzhou).
 
 ### Conceptual 
 - [Why can't the Schrodinger equation be derived?](https://physics.stackexchange.com/a/525265/83398)
@@ -33,12 +33,12 @@ Here are some answers I've written on [Physics StackExchange](https://physics.st
 ### Graduate
 - [What is the analog of the Aharonov-Bohm effect for general gauge fields and for gravity?](https://physics.stackexchange.com/a/552373/83398)
 - [Is the effective Lagrangian the bare Lagrangian?](https://physics.stackexchange.com/a/408762/83398)
-- [Why is the smallness of the Higgs mass not technically natural?](https://physics.stackexchange.com/a/499121/83398)
+- [Can electrons be electrically polarized?](https://physics.stackexchange.com/a/859856/83398)
 - [Why do we need complex representations in grand unified theories?](https://physics.stackexchange.com/a/403960/83398)
 - [If turning a perfectly monochromatic laser on for a finite time gives a frequency spread, where did the other frequency photons come from?](https://physics.stackexchange.com/a/524430/83398)
 - [What are the assumptions that C, P, and T must satisfy?](https://physics.stackexchange.com/a/429516/83398)
 
-### Academia.SE
+### Academia
 - [What's an efficient way to learn simple formulas by heart without understanding?](https://academia.stackexchange.com/a/103875/49970)
 - [Do you keep your study notes publicly available?](https://academia.stackexchange.com/a/148275/49970)
 - [Is academia dying?](https://academia.stackexchange.com/a/114616/49970)

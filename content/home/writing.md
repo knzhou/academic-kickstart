@@ -34,4 +34,4 @@ padding = ["40px", "0px", "0px", "0px"]
 
 - Here are some memorable articles about [science]({{<ref "science">}}) and [everything else]({{<ref "articles">}}).
 - Here are some fun [videos]({{<ref "videos">}}) for a rainy day.
-- My 1,000 answers on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou) have 2.5 million views; here's a [sample]({{<ref "answers">}}).
+- My 1,000 answers on [Physics StackExchange](https://physics.stackexchange.com/users/83398/knzhou) have 3 million views; here's a [sample]({{<ref "answers">}}).
