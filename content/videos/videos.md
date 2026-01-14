@@ -48,6 +48,7 @@ Here are some fun videos and videogames.
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
 - [Attempting to Make the World's Smallest Electric Motor](https://www.youtube.com/watch?v=6x_NMytSA90) (0:16)
 - [I Saved an Electron Microscope from the Trash](https://www.youtube.com/watch?v=Kqx9blbYDB0) (0:35)
+- [Perfectly Replicating Coca Cola](https://www.youtube.com/watch?v=TDkH3EbWTYc) (0:25)
 
 ### Striving
 - [29,000 Feet Up Mount Everest](https://www.youtube.com/watch?v=0pIyIMqwu0E) (0:04)
