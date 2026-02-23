@@ -80,7 +80,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
 - [The Rumor Mill's History](https://particle.physics.ucdavis.edu/rumor/doku.php?id=history)
 - [The Teaching Class](https://www.guernicamag.com/the-teaching-class/) 
-- [Somewhere Between a Jeremiad and a Eulogy](https://isi.org/modern-age/somewhere-between-a-jeremiad-and-a-eulogy/) 
+- [Somewhere Between a Jeremiad and a Eulogy](https://modernagejournal.com/somewhere-between-a-jeremiad-and-a-eulogy/217964/) 
 
 ### Career Advice
 - [The Trouble With Optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/) / [You Don't Need to Work on "Hard Problems"](https://www.benkuhn.net/hard/)
