@@ -11,9 +11,9 @@ date: "2025-11-10"
 doi: ""
 
 # Publication type. (2 = journal article, 3 = preprint)
-publication_types: ["3"]
-# publication: "Nuclear Instruments and Methods in Physics Research A"
-# publication_short: "NIMA"
+publication_types: ["2"]
+publication: "Journal of High Energy Physics"
+publication_short: "JHEP"
 
 abstract: "The measurement of the anomalous electron magnetic moment $g-2$ through quantum transitions of a single trapped electron is the most stringent test of quantum field theory. These experiments are now so precise that they must account for the effects of the cavity containing the electron. Classical calculations of this \"cavity shift\" must subtract the electron's divergent self-field, and thus require knowledge of the exact Green's function for the cavity's electromagnetic field. We perform the first fully quantum calculation of the cavity shift in a closed cavity, which instead involves subtracting linearly divergent cavity mode sums and integrals. Using contour integration methods, we find perfect agreement with existing classical results for both spherical and cylindrical cavities, justifying their current use. Moreover, our mode-based results can be naturally generalized to account for systematic effects, necessary to push future measurements to the next order of magnitude in precision."
 
@@ -24,8 +24,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2511.07514
-# - name: NIMA
-#   url: https://link.springer.com/article/10.1007/JHEP05(2024)314
+- name: JHEP
+  url: https://doi.org/10.1007/JHEP03(2026)038
 - name: Talk slides
   url: https://knzhou.github.io/talks/CavityShift.pdf
 - name: Talk video

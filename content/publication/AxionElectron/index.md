@@ -24,7 +24,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2312.11601
 - name: JHEP
-  url: https://link.springer.com/article/10.1007/JHEP05(2024)314
+  url: https://doi.org/10.1007/JHEP05(2024)314
 - name: Talk slides
   url: https://knzhou.github.io/talks/AxionElectron.pdf
 - name: Talk video
