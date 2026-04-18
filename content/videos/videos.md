@@ -39,13 +39,17 @@ Here are some fun videos and videogames.
 - [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc) (0:38)
 - [Minecraft Terrain Generation in a Nutshell](https://www.youtube.com/watch?v=CSa5O6knuwI) (0:26)
 - [ChatGPT with Minecraft Redstone](https://www.youtube.com/watch?v=VaeI9YgE1o8) (0:03)
-- [There is no Quintic Formula](https://www.youtube.com/watch?v=9HIy5dJE-zQ) (0:27)
 - [The Hyperbolic Geometry of DMT Experiences](https://www.youtube.com/watch?v=loCBvaj4eSg) (1:06)
 
-### Tinkering
+### Visualization
 - [Motion Extraction](https://www.youtube.com/watch?v=NSS6yAMZF78) (0:07)
 - [Painting a Landscape with Maths](https://www.youtube.com/watch?v=BFld4EBO2RE) (0:42) 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw) (0:05)
+- [Reproducing the Calculations From Interstellar](https://www.youtube.com/watch?v=ABFGKdKKKyg) (0:26)
+- [Master the Complexity of Spaceflight](https://www.youtube.com/watch?v=dhYqflvJMXc) (0:32)
+- [There is no Quintic Formula](https://www.youtube.com/watch?v=9HIy5dJE-zQ) (0:27)
+
+### Tinkering
 - [Attempting to Make the World's Smallest Electric Motor](https://www.youtube.com/watch?v=6x_NMytSA90) (0:16)
 - [I Saved an Electron Microscope from the Trash](https://www.youtube.com/watch?v=Kqx9blbYDB0) (0:35)
 - [Perfectly Replicating Coca Cola](https://www.youtube.com/watch?v=TDkH3EbWTYc) (0:25)
@@ -54,7 +58,6 @@ Here are some fun videos and videogames.
 - [29,000 Feet Up Mount Everest](https://www.youtube.com/watch?v=0pIyIMqwu0E) (0:04)
 - [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
-- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [The Epic of Gilgamesh](https://www.youtube.com/watch?v=Rd7MrGy_tEg) (1:29)
 - [Hard Problems](https://www.youtube.com/watch?v=VboXBHVaCFU) (1:21)
 
@@ -74,9 +77,9 @@ Here are some fun videos and videogames.
 
 ### Physics Talks
 - [The Physics IQ Test](https://www.youtube.com/watch?v=kpcGlr62WHk) (1:10)
+- [The Discovery of Pulsars](https://www.youtube.com/watch?v=ot1Ggv6YZyQ) (1:13)
 - [Mapping the Milky Way's Dark Matter Halo with Gaia](https://www.youtube.com/watch?v=gSE0tpzvT9k) (0:46)
 - [Geometrodynamics: The Nonlinear Dynamics of Curved Spacetime](https://www.youtube.com/watch?v=XD2HVoAK7es) (1:10)
-- [Master the Complexity of Spaceflight](https://www.youtube.com/watch?v=dhYqflvJMXc) (0:32)
 - [Is Nature Natural?](https://www.youtube.com/watch?v=KSKk_shE9bg) (1:06)
 - [In Conversation with Nima Arkani-Hamed](https://www.youtube.com/watch?v=pup3s86oJXU) (0:57)
 
