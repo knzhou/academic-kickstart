@@ -87,5 +87,6 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Applying to STEM Ph.D. Programs](https://github.com/gwisk/gradguide)
 - [How to Publish a Scientific Comment in 123 Easy Steps](https://frog.gatech.edu/Pubs/How-to-Publish-a-Scientific-Comment-in-123-Easy-Steps.pdf)
 - {{% staticref "other/Tufte_2003.pdf" "newtab" %}}The Cognitive Style of PowerPoint{{% /staticref %}}
+- [Half a Month of Consolation Writing Advice](https://www.astralcodexten.com/p/half-a-month-of-consolation-writing)
 - [How to Make Sure Your Talk Doesn't Suck](http://www.damtp.cam.ac.uk/user/tong/talks/talk.pdf)
 - [What it Means, and Doesn't Mean, to Get a Job in Physics](https://gravityandlevity.wordpress.com/2019/03/25/what-it-means-and-doesnt-mean-to-get-a-job-in-physics/) / [My Secret, Cap](https://4gravitons.com/2024/02/02/my-secret-cap/)

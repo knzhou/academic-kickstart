@@ -50,6 +50,7 @@ Here are some fun videos and videogames.
 - [There is no Quintic Formula](https://www.youtube.com/watch?v=9HIy5dJE-zQ) (0:27)
 
 ### Tinkering
+- [Machining the Heart of a Watch](https://www.youtube.com/watch?v=P7SlhdJp5qE) (0:38)
 - [Attempting to Make the World's Smallest Electric Motor](https://www.youtube.com/watch?v=6x_NMytSA90) (0:16)
 - [I Saved an Electron Microscope from the Trash](https://www.youtube.com/watch?v=Kqx9blbYDB0) (0:35)
 - [Perfectly Replicating Coca Cola](https://www.youtube.com/watch?v=TDkH3EbWTYc) (0:25)
