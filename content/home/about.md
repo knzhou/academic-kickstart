@@ -5,10 +5,10 @@ headless = true
 active = true
 weight = 1
 
-title = "Biography"
+title = ""
 author = "admin"
  
 [design.spacing] 
-padding = ["20px", "0px", "20px", "0px"]
+padding = ["30px", "0px", "20px", "0px"]
 
 +++

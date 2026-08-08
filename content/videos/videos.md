@@ -21,7 +21,7 @@ Here are some fun videos and videogames.
 - [The Apollo Program](https://www.youtube.com/watch?v=55Jas5HrzcQ) (0:54)
 
 ### Building
-- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35) / [Baihetan Dam](https://web.archive.org/web/20210911150302/https://www.youtube.com/watch?v=vScCDXnoWqY) (0:08)
+- [Beaver Dam](https://www.youtube.com/watch?v=EgW9_2q1IoA) (0:08) / [Boulder Dam](https://www.youtube.com/watch?v=PSMDPzd11ek) (0:35)
 - [The Four Hour House](https://www.youtube.com/watch?v=oDB1O5cadQw) (0:11)
 - [Fabricating the Linear Accelerator](https://www.youtube.com/watch?v=oMgMNlgkqIY) (0:41)
 - [America's Missing Collider](https://www.youtube.com/watch?v=3xSUwgg1L4g) (2:58)
@@ -56,14 +56,12 @@ Here are some fun videos and videogames.
 - [Perfectly Replicating Coca Cola](https://www.youtube.com/watch?v=TDkH3EbWTYc) (0:25)
 
 ### Striving
-- [29,000 Feet Up Mount Everest](https://www.youtube.com/watch?v=0pIyIMqwu0E) (0:04)
 - [Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) (1:16)
 - [How to Speak](https://vimeo.com/101543862) (0:46)
 - [The Epic of Gilgamesh](https://www.youtube.com/watch?v=Rd7MrGy_tEg) (1:29)
 - [Hard Problems](https://www.youtube.com/watch?v=VboXBHVaCFU) (1:21)
 
 ### Cautionary Tales
-- [Don't Talk to the Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) (0:47)
 - [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
 - [Erroneous Statistics in Physics Education Research](https://www.youtube.com/watch?v=0NsNtqyiDco) (0:53)
@@ -71,7 +69,6 @@ Here are some fun videos and videogames.
 ### Puzzles and Games 
 - [Toy Models](https://www.youtube.com/watch?v=2v3ANzWkPVI) (1:03)
 - [Outside In](https://www.youtube.com/watch?v=wO61D9x6lNY) (0:21)
-- [RuneScape Historical Timeline](https://www.youtube.com/watch?v=2cORFYpwyic) (1:01)
 - [Training AI to Play Pokemon with Reinforcement Learning](https://www.youtube.com/watch?v=DcYLT37ImBY) (0:34)
 - [Beating Every Possible Game of Pokemon Platinum at Once](https://www.youtube.com/watch?v=jNMWkD5VsZ8) (1:05)
 - [AlphaGo -- The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1:30)

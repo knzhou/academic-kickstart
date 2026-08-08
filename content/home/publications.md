@@ -69,3 +69,4 @@ padding = ["40px", "0px", "40px", "0px"]
  css_class = ""
 +++
 
+Each paper comes with talk slides, which provide an illustrated introduction. 
