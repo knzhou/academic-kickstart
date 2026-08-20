@@ -23,6 +23,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [A History of Dark Matter](https://arxiv.org/abs/1605.04909)
 
 ### Collider Physics
+- {{% staticref "other/livingston_plot.pdf" "newtab" %}}The Livingston Plot{{% /staticref %}}
 - [The Crisis of Big Science](https://web.archive.org/web/20160126044116/https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
 - [The Demise of the Superconducting Super Collider](https://physicstoday.scitation.org/doi/10.1063/PT.3.3329)
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
