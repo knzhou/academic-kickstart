@@ -12,7 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles about how we got here, how it's going, and what it looks like on the ground. They are all nontechnical; good technical articles are linked in my {{% staticref "/#lectures" %}}lecture notes{{% /staticref %}}. Regarding the quit lit, I believe that everybody should read some before committing to graduate school, but it needs to be taken with a grain of salt.
+Here are some articles about how we got here, how it's going, and what it looks like on the ground. They are all nontechnical; good technical articles are linked in my {{% staticref "/#notes" %}}lecture notes{{% /staticref %}}. Regarding the quit lit, I believe that everybody should read some before committing to graduate school, but it needs to be taken with a grain of salt.
 
 ### The Development of Physics
 - {{% staticref "other/Flynn_2013.pdf" "newtab" %}}The Great Ptolemaic Smackdown{{% /staticref %}}
@@ -25,7 +25,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 ### Collider Physics
 - {{% staticref "other/livingston_plot.pdf" "newtab" %}}The Livingston Plot{{% /staticref %}}
 - [The Crisis of Big Science](https://web.archive.org/web/20160126044116/https://www.nybooks.com/articles/2012/05/10/crisis-big-science/)
-- [The Demise of the Superconducting Super Collider](https://physicstoday.scitation.org/doi/10.1063/PT.3.3329)
+- [The Demise of the Superconducting Super Collider](https://physicstoday.aip.org/features/a-bridge-too-far-the-demise-of-the-superconducting-super-collider)
 - [The Theoretical Physics Ecosystem Behind the Discovery of the Higgs Boson](https://arxiv.org/abs/1609.04268)
 - [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
 - {{% staticref "other/Cho_2007.pdf" "newtab" %}}Physicists' Nightmare Scenario{{% /staticref %}} / [Supersymmetry and the Disunity of Physics](https://arxiv.org/abs/2304.03673)
@@ -64,19 +64,19 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [Particle Clicker](https://particle-clicker.web.cern.ch/)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
 - [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html) / [viXra highlights]({{<ref "side">}})
-- APS Kaleidoscopes: [A](https://journals.aps.org/pra/kaleidoscope), [B](https://journals.aps.org/prb/kaleidoscope), [C](https://journals.aps.org/prc/kaleidoscope), [D](https://journals.aps.org/prd/kaleidoscope), [E](https://journals.aps.org/pre/kaleidoscope), [A&B](https://journals.aps.org/prab/kaleidoscope)
+- APS Kaleidoscopes: [A](https://web.archive.org/web/20240510015624/https://journals.aps.org/pra/kaleidoscope), [B](https://web.archive.org/web/20240910113858/https://journals.aps.org/prb/kaleidoscope), [C](https://web.archive.org/web/20210127061300/https://journals.aps.org/prc/kaleidoscope), [D](https://web.archive.org/web/20240708223438/https://journals.aps.org/prd/kaleidoscope/), [E](https://web.archive.org/web/20221205181926/https://journals.aps.org/pre/kaleidoscope), [A&B](https://web.archive.org/web/20211030051422/https://journals.aps.org/prab/kaleidoscope)
 - [More Neat Links]({{<ref "links">}})
 
 ### Research Advice
 - [The Importance of Stupidity in Scientific Research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 - [Four Golden Lessons](https://www.nature.com/articles/426389a)
-- [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
+- [Principles of Effective Research](https://web.archive.org/web/20250105211800/https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 - [The Inner Ring](https://www.lewissociety.org/innerring/)
 - [Gravity Turn](https://radimentary.wordpress.com/2021/08/16/gravity-turn/)
 
 ### The Job Market
-- [The Big Crunch](http://www.its.caltech.edu/~dg/crunch_art.html) 
+- [The Big Crunch](https://authors.library.caltech.edu/records/874hp-dmd02)
 - {{% staticref "other/Kaiser_2012.pdf" "newtab" %}}Booms, Busts, and the World of Ideas{{% /staticref %}}
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
 - [The Rumor Mill's History](https://particle.physics.ucdavis.edu/rumor/doku.php?id=history)

@@ -62,7 +62,7 @@ Here are some fun videos and videogames.
 - [Hard Problems](https://www.youtube.com/watch?v=VboXBHVaCFU) (1:21)
 
 ### Cautionary Tales
-- [The Rise, Lies, & Demise of Jan Hendrik Schon](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
+- [The Rise, Lies, & Demise of Jan Hendrik Schön](https://www.youtube.com/playlist?list=PLAB-wWbHL7Vsfl4PoQpNsGp61xaDDiZmh) (1:57)
 - [An Introduction to the Replicability Crisis in Psychology](https://www.youtube.com/watch?v=DQPEsUGpOWQ) (0:49)
 - [Erroneous Statistics in Physics Education Research](https://www.youtube.com/watch?v=0NsNtqyiDco) (0:53)
 

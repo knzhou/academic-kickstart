@@ -42,7 +42,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 - [The Cost Conundrum](https://www.newyorker.com/magazine/2009/06/01/the-cost-conundrum)
 
 ### Bureaucracy 
-- [Demosclerosis](https://www.jonathanrauch.com/jrauch_articles/demosclerosis_the_original_article/)
+- [Demosclerosis](https://web.archive.org/web/20241210230734/https://www.jonathanrauch.com/jrauch_articles/demosclerosis_the_original_article/)
 - [We Were Builders Once, and Strong](https://scholars-stage.org/we-were-builders-once-and-strong/)
 - [From Oversight to Overkill](https://astralcodexten.substack.com/p/book-review-from-oversight-to-overkill) / [Licensed to Pill](https://www.nybooks.com/daily/2020/07/21/licensed-to-pill/)
 - [The Pentagon Syndrome](https://harpers.org/archive/2019/06/the-pentagon-syndrome/)
@@ -74,7 +74,7 @@ Here are some articles that I've saved. Some are one-sided, some are melodramati
 ### Narratives
 - [Television and the Public Interest](https://www.americanrhetoric.com/speeches/newtonminow.htm) / [The Fourth Estate](https://harpers.org/2019/10/the-fourth-estate/)
 - [Bad News](https://web.archive.org/web/20210819184241/https://harpers.org/archive/2021/09/bad-news-selling-the-story-of-disinformation/) / [How Stewart Made Tucker](https://www.thenewatlantis.com/publications/how-stewart-made-tucker)
-- [Learning How to Kill](https://chosenbychoice.substack.com/p/learning-how-to-and-how-not-to-kill) / [The Intimacy Machine](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
+- [The Intimacy Machine](https://ravenmagazine.org/magazine/twitter-the-intimacy-machine/)
 - [Anatomy of a Moral Panic](https://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm) / [Too Good to Check](https://astralcodexten.substack.com/p/too-good-to-check-a-play-in-three)
 - [The Rise and Fall of 'Social Bot' Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191)
 - [Physics Grifters and a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)

@@ -15,7 +15,7 @@ subtitle = ""
 Here are some answers I've written on [StackExchange](https://physics.stackexchange.com/users/83398/knzhou).
 
 ### Conceptual 
-- [Why can't the Schrodinger equation be derived?](https://physics.stackexchange.com/a/525265/83398)
+- [Why can't the Schrödinger equation be derived?](https://physics.stackexchange.com/a/525265/83398)
 - [Is naturalness meaningful for non-fundamental theories?](https://physics.stackexchange.com/a/467708/83398)
 - [Why are muons considered to be elementary particles in the Standard Model?](https://physics.stackexchange.com/a/274942/83398)
 - [Was X17 predicted before it was observed?](https://physics.stackexchange.com/a/516532/83398)

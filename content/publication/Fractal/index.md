@@ -4,7 +4,7 @@ authors:
 - "B. Elder"
 - "M. Procura"
 - "J. Thaler"
-- "W. Wallewijn"
+- "W. Waalewijn"
 - "K. Zhou"
 date: "2017-04-18"
 doi: ""

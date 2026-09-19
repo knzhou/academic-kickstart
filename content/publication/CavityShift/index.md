@@ -1,7 +1,7 @@
 ---
 title: "Quantum Calculations of the Cavity Shift in Electron Magnetic Moment Measurements"
 authors:
-- "F. Day"
+- "H. Day"
 - "R. Harnik"
 - "Y. Kahn"
 - "S. Pavaskar"
