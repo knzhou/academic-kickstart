@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Determining Spin-Dependent Light Dark Matter Rates from Neutron Scattering"
 authors:
 - "A. Berlin"
@@ -21,10 +23,10 @@ summary: Light dark matter particles could couple directly to electron spin. Sin
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2504.02927
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/4yxf-lkr6
+- name: arXiv
+  url: https://arxiv.org/abs/2504.02927
 - name: Talk slides
   url: https://knzhou.github.io/talks/NeutronScattering.pdf
 

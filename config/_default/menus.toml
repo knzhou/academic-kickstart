@@ -1,29 +1,23 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
+#   Each main section has its own page.
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/"
   weight = 1
 
 [[main]]
   name = "Papers"
-  url = "#publications"
+  url = "/papers/"
   weight = 2
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/teaching/"
   weight = 3
 
 [[main]]
-  name = "Notes"
-  url = "#notes"
-  weight = 5
-
-[[main]]
   name = "Writing"
-  url = "#writing"
+  url = "/writing/"
   weight = 6

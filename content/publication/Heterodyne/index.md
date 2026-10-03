@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "A Prototype Hybrid Mode Cavity for Heterodyne Axion Detection"
 authors:
 - "Z. Li"
@@ -27,10 +29,10 @@ summary: The heterodyne approach to axion detection enhances the axion signal po
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2507.07173
 - name: NIMA
   url: https://doi.org/10.1016/j.nima.2026.171474
+- name: arXiv
+  url: https://arxiv.org/abs/2507.07173
 - name: Talk slides
   url: https://knzhou.github.io/talks/HeterodyneAxion.pdf
 

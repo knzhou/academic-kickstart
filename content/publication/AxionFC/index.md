@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Axion Dark Matter Detection by Superconducting Resonant Frequency Conversion"
 authors:
 - "A. Berlin"
@@ -26,10 +28,10 @@ summary: We propose an approach to search for axion dark matter with a supercond
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1912.11048
 - name: JHEP
   url: https://link.springer.com/article/10.1007/JHEP07(2020)088
+- name: arXiv
+  url: https://arxiv.org/abs/1912.11048
 - name: Talk slides
   url: https://knzhou.github.io/talks/HeterodyneAxion.pdf
 

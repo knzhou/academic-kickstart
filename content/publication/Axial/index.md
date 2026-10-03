@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Ultralight Axial Dark Matter"
 authors:
 - "A. Hook"

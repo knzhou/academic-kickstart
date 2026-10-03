@@ -1,0 +1,6 @@
+{{- /* Headless publications are read on the Papers list, including from archives and feeds. */ -}}
+{{- $url := .Permalink -}}
+{{- if eq .Type "publication" -}}
+  {{- $url = printf "%s#paper-%s" ("/papers/" | absLangURL) (path.Base .File.Dir | urlize) -}}
+{{- end -}}
+{{- return $url -}}

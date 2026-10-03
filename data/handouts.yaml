@@ -1,0 +1,104 @@
+# Keep the handouts in their recommended reading order.
+# Codes match the problem PDF filename unless a separate file is provided.
+# Solutions add the suffix "Sol" to the filename.
+# Set two_column_row: true on the first of two entries to give that pair
+# a wider row in the three-column layout.
+core:
+  - code: P1
+    title: Mathematical Techniques
+  - code: P2
+    title: Data and Uncertainty
+  - code: M1
+    title: Kinematics
+  - code: M2
+    title: Statics
+  - code: M3
+    title: Dynamics
+  - code: M4
+    title: Oscillations
+  - code: E1
+    title: Electrostatics
+  - code: E2
+    title: DC Circuits
+  - code: E3
+    title: Magnetostatics
+  - code: E4
+    title: Lorentz Force
+  - code: M5
+    title: 2D Rotation
+  - code: M6
+    title: Gravity
+  - code: M7
+    title: Fluids
+  - code: T1
+    title: Gases and Kinetic Theory
+  - code: T2
+    title: Heat and Entropy
+  - code: T3
+    title: Phase Transitions
+  - code: E5
+    title: Induction
+  - code: E6
+    title: AC Circuits
+  - code: E7
+    title: Electrodynamics
+  - code: R1
+    title: Relativistic Kinematics
+  - code: R2
+    title: Relativistic Dynamics
+  - code: W1
+    title: The Wave Equation
+  - code: W2
+    title: Interference and Diffraction
+  - code: X1
+    title: Semiclassical Mechanics
+
+supplemental:
+  - code: M8
+    title: 3D Rotation
+  - code: E8
+    title: Electromagnetism in Media
+  - code: R3
+    title: Relativistic Fields
+  - code: W3
+    title: Sound, Water, and Light
+  - code: X2
+    title: Atoms, Particles, and Nuclei
+  - code: X3
+    title: Matter, Astro, and Cosmo
+  - code: MR
+    file: MRev
+    title: Mechanics Review
+  - code: ER
+    file: ERev
+    title: Electromagnetism Review
+  - code: XR
+    file: XRev
+    title: Special Topics Review
+  - code: UM
+    file: USAPhOM
+    title: Practice USAPhO M
+  - code: UE
+    file: USAPhOE
+    title: Practice USAPhO E
+  - code: UX
+    file: USAPhOX
+    title: Practice USAPhO X
+  - code: UA
+    file: USAPhOA
+    title: Practice USAPhO A
+  - code: UB
+    file: USAPhOB
+    title: Practice USAPhO B
+  - code: UC
+    file: USAPhOC
+    title: Practice USAPhO C
+  - code: UD
+    file: USAPhOD
+    title: Practice USAPhO D
+  - code: --
+    file: Expt
+    title: Experimental Training
+  - code: --
+    file: Final
+    title: Conclusion

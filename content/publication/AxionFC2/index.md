@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Heterodyne Broadband Detection of Axion Dark Matter"
 authors:
 - "A. Berlin"
@@ -21,9 +23,9 @@ summary: We propose a new broadband search strategy for ultralight axion dark ma
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2007.15656
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.L111701
+- name: arXiv
+  url: https://arxiv.org/abs/2007.15656
 
 ---

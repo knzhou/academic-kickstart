@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Casimir Meets Poisson: Improved Quark/Gluon Discrimination with Counting Observables"
 authors:
 - "C. Frye"
@@ -20,9 +22,9 @@ summary: We introduce new IRC-safe counting observables whose discrimination per
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1704.06266
 - name: JHEP
   url: https://link.springer.com/article/10.1007%2FJHEP09%282017%29083
+- name: arXiv
+  url: https://arxiv.org/abs/1704.06266
 
 ---

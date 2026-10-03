@@ -36,9 +36,14 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+# This site uses content pages only. Disable archive pages and all RSS feeds.
+# Publication bundles supply /papers/ without a separate /publication/ section page.
+# These are the taxonomy kind names used by Hugo 0.58.
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS"]
+
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+  home = [ "HTML", "WebAppManifest" ]
+  section = [ "HTML" ]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
@@ -61,10 +66,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   resampleFilter = "lanczos"
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
-
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"

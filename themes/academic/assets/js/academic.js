@@ -422,7 +422,10 @@
       // Default to day (light) theme.
       defaultThemeVariation = 0;
     }
-    let dark_mode = parseInt(localStorage.getItem('dark_mode') || defaultThemeVariation);
+    // Only restore a visitor's preference when theme switching is enabled.
+    let dark_mode = $('.js-dark-toggle').length
+      ? parseInt(localStorage.getItem('dark_mode') || defaultThemeVariation)
+      : defaultThemeVariation;
 
     // Is code highlighting enabled in site config?
     const codeHlEnabled = $('link[title=hl-light]').length > 0;
@@ -593,6 +596,7 @@
       toggleSearchDialog();
     });
     $(document).on('keydown', function(e){
+      if (!$('.search-results').length) return;
       if (e.which == 27) {
         // `Esc` key pressed.
         if ($('body').hasClass('searching')) {

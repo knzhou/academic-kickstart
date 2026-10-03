@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Interactions of Particles with \"Continuous Spin\" Fields"
 authors:
 - "P. Schuster"
@@ -20,10 +22,10 @@ summary: "Observed long-range forces are traditionally assumed to be mediated by
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2303.04816
 - name: JHEP
   url: https://link.springer.com/article/10.1007/JHEP04(2023)010
+- name: arXiv
+  url: https://arxiv.org/abs/2303.04816
 - name: Talk slides
   url: https://knzhou.github.io/talks/ContinuousSpin.pdf
 # - name: Phys. Rev. D

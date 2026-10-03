@@ -1,0 +1,14 @@
+{{ $section := .Get 0 }}
+<ul class="handout-list" role="list">
+  {{ range index .Site.Data.handouts $section }}
+  {{ $file := .file | default .code }}
+  <li class="handout-item{{ if .two_column_row }} handout-item-pair{{ end }}">
+    <span class="handout-code">{{ .code }}</span>
+    <span class="handout-title">{{ .title }}</span>
+    <div class="handout-actions">
+      <a class="handout-link handout-problems" href="{{ printf "handouts/%s.pdf" $file | relURL }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .code }}: {{ .title }} — Problems PDF (opens in a new tab)">Problems</a>
+      <a class="handout-link" href="{{ printf "handouts/%sSol.pdf" $file | relURL }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .code }}: {{ .title }} — Solutions PDF (opens in a new tab)">Solutions</a>
+    </div>
+  </li>
+  {{ end }}
+</ul>

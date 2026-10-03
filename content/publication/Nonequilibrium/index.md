@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Minimum Energetic Cost to Maintain a Target Nonequilibrium State"
 authors:
 - "J. Horowitz"
@@ -19,9 +21,9 @@ summary: We use the stochastic thermodynamics of Markov jump processes to comput
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/1703.04722
 - name: Phys. Rev. E
   url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042102
+- name: arXiv
+  url: https://arxiv.org/abs/1703.04722
 
 ---

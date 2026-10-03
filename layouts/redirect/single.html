@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Title }} | {{ site.Title }}</title>
+    <link rel="canonical" href="{{ .Params.redirect_to | absLangURL }}">
+    <meta http-equiv="refresh" content="0; url={{ .Params.redirect_to | relLangURL }}">
+  </head>
+  <body>
+    <main id="main-content">
+      <p>Notes are now part of <a href="{{ .Params.redirect_to | relLangURL }}">Writing</a>.</p>
+    </main>
+  </body>
+</html>

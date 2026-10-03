@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Physical Signatures of Fermion-Coupled Axion Dark Matter"
 authors:
 - "A. Berlin"
@@ -21,10 +23,10 @@ summary: The axion-fermion coupling induces spin-dependent forces and torques, w
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2312.11601
 - name: JHEP
   url: https://doi.org/10.1007/JHEP05(2024)314
+- name: arXiv
+  url: https://arxiv.org/abs/2312.11601
 - name: Talk slides
   url: https://knzhou.github.io/talks/AxionElectron.pdf
 - name: Talk video

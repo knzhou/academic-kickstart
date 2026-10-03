@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Discovering QCD-Coupled Axion Dark Matter with Polarization Haloscopes"
 authors:
 - "A. Berlin"
@@ -19,10 +21,10 @@ summary: QCD axion dark matter induces oscillating EDMs, yielding physical curre
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2209.12901
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.035038
+- name: arXiv
+  url: https://arxiv.org/abs/2209.12901
 - name: Talk slides
   url: https://knzhou.github.io/talks/Polarization.pdf
 

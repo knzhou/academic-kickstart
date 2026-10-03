@@ -19,6 +19,7 @@ subtitle = ""
 - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
 - Manga depictions of the {{% staticref "other/particle.png" "newtab" %}}Standard Model{{% /staticref %}} and {{% staticref "other/cosmology.png" "newtab" %}}cosmological history{{% /staticref %}}
 - [Akiyoshi's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+- [Three Body Orbits](https://www.threebodyorbits.com/)
 
 ### Other Fun
 

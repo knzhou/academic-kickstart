@@ -1,0 +1,100 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{/* The biography and profile fields belong to the homepage widget. */}}
+{{ $person := $page.Params }}
+{{ $home := site.GetPage "/home" }}
+{{ $avatar := ($home.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<!-- About widget -->
+<div class="aligned-sections about-layout">
+  <div class="about-profile">
+    <div id="profile">
+
+      {{ if site.Params.gravatar }}
+      <img class="portrait" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')" alt="Portrait of {{ $person.name }}">
+      {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "250x250 Center" }}
+      <img class="portrait" src="{{ $avatar_image.RelPermalink }}" alt="Portrait of {{ $person.name }}">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h1 class="portrait-name">{{ $person.name }}</h1>
+        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+
+        {{ range $person.organizations }}
+        <h3>
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          <span>{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
+      </div>
+
+      <ul class="list-unstyled mt-3 mb-0">
+        {{ range $person.social }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li class="mb-1">
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+            {{ if .show_icon }}
+              {{ $pack := or .icon_pack "fas" }}
+              {{ $prefix := $pack }}
+              {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+                {{ $prefix = "fa" }}
+              {{ end }}
+              <i class="{{ $pack }} {{ $prefix }}-{{ .icon }} mr-1" aria-hidden="true"></i>
+            {{ end }}
+            {{ .label }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </div>
+  <div class="about-biography">
+
+    {{ with $page.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+
+    {{ $page.Content }}
+
+    <div class="row">
+
+      {{ with $person.interests }}
+      <div class="col-md-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ with $person.education }}
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>

@@ -12,9 +12,7 @@ subtitle = ""
 
 +++
 
-Here are some articles about how we got here, how it's going, and what it looks like on the ground. They are all nontechnical; good technical articles are linked in my {{% staticref "/#notes" %}}lecture notes{{% /staticref %}}. Regarding the quit lit, I believe that everybody should read some before committing to graduate school, but it needs to be taken with a grain of salt.
-
-### The Development of Physics
+### History of Physics
 - {{% staticref "other/Flynn_2013.pdf" "newtab" %}}The Great Ptolemaic Smackdown{{% /staticref %}}
 - [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword)
 - [Why is Maxwell's Theory so Hard to Understand?](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
@@ -30,7 +28,7 @@ Here are some articles about how we got here, how it's going, and what it looks 
 - [The Once and Present Standard Model](https://arxiv.org/abs/1911.04604)
 - {{% staticref "other/Cho_2007.pdf" "newtab" %}}Physicists' Nightmare Scenario{{% /staticref %}} / [Supersymmetry and the Disunity of Physics](https://arxiv.org/abs/2304.03673)
 
-### Signal and Noise
+### Signal to Noise
 - [Failed Theories of Superconductivity](https://arxiv.org/abs/1008.0447)
 - {{% staticref "other/Langmuir_1953.pdf" "newtab" %}}Pathological Science{{% /staticref %}}
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)

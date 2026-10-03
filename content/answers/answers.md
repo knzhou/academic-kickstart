@@ -12,8 +12,6 @@ subtitle = ""
 
 +++
 
-Here are some answers I've written on [StackExchange](https://physics.stackexchange.com/users/83398/knzhou).
-
 ### Conceptual 
 - [Why can't the Schrödinger equation be derived?](https://physics.stackexchange.com/a/525265/83398)
 - [Is naturalness meaningful for non-fundamental theories?](https://physics.stackexchange.com/a/467708/83398)

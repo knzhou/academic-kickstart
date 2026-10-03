@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Quantum Calculations of the Cavity Shift in Electron Magnetic Moment Measurements"
 authors:
 - "H. Day"
@@ -22,10 +24,10 @@ summary: "Conducting walls have a very small, but observable effect on measureme
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2511.07514
 - name: JHEP
   url: https://doi.org/10.1007/JHEP03(2026)038
+- name: arXiv
+  url: https://arxiv.org/abs/2511.07514
 - name: Talk slides
   url: https://knzhou.github.io/talks/CavityShift.pdf
 - name: Talk video

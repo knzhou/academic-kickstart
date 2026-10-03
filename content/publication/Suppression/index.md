@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Suppressed Quantum Effects of Weakly Coupled Waves"
 authors:
 - "Y. Bao"

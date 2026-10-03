@@ -1,13 +1,12 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+# All publications, grouped by year, using the Pages widget.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Recent Papers"
+title = "Papers"
 subtitle = ""
 
 [content]
@@ -15,7 +14,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -23,11 +22,8 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
-  # Filter posts by a taxonomy term.
+  # Optional content filters.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
     exclude_featured = false
   
 [design]
@@ -69,4 +65,4 @@ padding = ["40px", "0px", "40px", "0px"]
  css_class = ""
 +++
 
-See the talk slides for an illustrated introduction.
+This page contains research papers with 10 or fewer authors; for a more complete list, see [InspireHEP](https://inspirehep.net/authors/1775962).

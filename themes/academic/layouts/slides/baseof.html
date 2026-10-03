@@ -53,9 +53,7 @@
       { src: '{{ $cdn_url_reveal }}/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
       { src: '{{ $cdn_url_reveal }}/plugin/zoom-js/zoom.js', async: true },
       { src: '{{ $cdn_url_reveal }}/plugin/math/math.js', async: true },
-      { src: '{{ $cdn_url_reveal }}/plugin/print-pdf/print-pdf.js', async: true },
-      // Notes plugin must be loaded locally as CDN is missing `notes.html`.
-      { src: '{{ "js/vendor/reveal.js/plugin/notes/notes.js" | relURL }}', async: true }
+      { src: '{{ $cdn_url_reveal }}/plugin/print-pdf/print-pdf.js', async: true }
     ]};
 
     let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: 'slide', mouseWheel: true };

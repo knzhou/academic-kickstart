@@ -1,0 +1,38 @@
+{{/* Move the highest-level content headings into a narrow label column. */}}
+{{ $content := .Content }}
+{{ $heading_pattern := "(?s)<h2\\b[^>]*>.*?</h2>" }}
+{{ $headings := findRE $heading_pattern $content }}
+{{ if not $headings }}
+  {{ $heading_pattern = "(?s)<h3\\b[^>]*>.*?</h3>" }}
+  {{ $headings = findRE $heading_pattern $content }}
+{{ end }}
+
+<div class="aligned-sections">
+  {{ if $headings }}
+    {{ with .Title }}<h1 class="sr-only">{{ . | markdownify | emojify }}</h1>{{ end }}
+    {{ $separator := "<!-- aligned-section-boundary -->" }}
+    {{ $parts := split (replaceRE $heading_pattern $separator $content) $separator }}
+    {{ $intro := index $parts 0 }}
+    {{ if ne (trim $intro " \n\r\t") "" }}
+    <div class="aligned-row aligned-intro">
+      <div class="aligned-text">{{ $intro | safeHTML }}</div>
+    </div>
+    {{ end }}
+    {{ range $index, $heading := $headings }}
+    <section class="aligned-row">
+      <div class="aligned-heading">
+        {{ $heading | replaceRE "<h3\\b" "<h2" | replaceRE "</h3>" "</h2>" | safeHTML }}
+      </div>
+      <div class="aligned-text">{{ index $parts (add $index 1) | safeHTML }}</div>
+    </section>
+    {{ end }}
+  {{ else }}
+    <section class="aligned-row">
+      <div class="aligned-heading">
+        {{ with .Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
+        {{ with .Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+      <div class="aligned-text">{{ $content }}</div>
+    </section>
+  {{ end }}
+</div>

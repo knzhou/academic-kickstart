@@ -1,0 +1,7 @@
+{{/* Author names are publication metadata, without profile-page links. */}}
+{{ with .Params.authors }}
+  {{ range $index, $name := . }}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span>{{ $name | markdownify }}</span>
+  {{- end -}}
+{{ end }}

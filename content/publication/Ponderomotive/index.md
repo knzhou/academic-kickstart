@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Ponderomotive Effects of Ultralight Dark Matter"
 authors:
 - "K. Zhou"
@@ -18,10 +20,10 @@ summary: Oscillating forces, torques, and mass shifts from dark matter average t
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2502.01725
 - name: JHEP
   url: https://link.springer.com/article/10.1007/JHEP05(2025)134
+- name: arXiv
+  url: https://arxiv.org/abs/2502.01725
 # - name: Talk slides
 #   url: https://knzhou.github.io/talks/AxionElectron.pdf
 

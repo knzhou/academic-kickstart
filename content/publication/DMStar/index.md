@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Stellar Shocks From Dark Matter Asteroid Impacts"
 authors:
 - "A. Das"
@@ -21,10 +23,10 @@ summary: When macroscopic dark matter passes through a star, the resulting shock
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2106.09033
 - name: Phys. Rev. Lett.
   url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.021101
+- name: arXiv
+  url: https://arxiv.org/abs/2106.09033
 - name: Talk slides
   url: https://knzhou.github.io/talks/StellarShock.pdf
 

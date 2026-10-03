@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Intrinsically Quantum Effects of Axion Dark Matter are Undetectable"
 authors:
 - "Y. Bao"
@@ -23,10 +25,10 @@ summary: "Intrinsically quantum effects of axion dark matter are always highly s
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2510.05198
 - name: Phys. Rev. Lett.
   url: https://journals.aps.org/prl/abstract/10.1103/9mff-p5k6
+- name: arXiv
+  url: https://arxiv.org/abs/2510.05198
 - name: Talk slides
   url: https://knzhou.github.io/talks/QuantumAxion.pdf
 

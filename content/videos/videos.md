@@ -12,8 +12,6 @@ subtitle = ""
 
 +++
 
-Here are some fun videos and videogames. 
-
 ### Progress
 - [Around the Corner](https://www.youtube.com/watch?v=yYAw79386WI) (0:10)
 - [The Transistor](https://www.youtube.com/watch?v=V9xUQWo4vN0) (0:10)

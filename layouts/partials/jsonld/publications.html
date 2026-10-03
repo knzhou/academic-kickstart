@@ -1,0 +1,40 @@
+{{- /* Use the same records and order as the visible Papers list. */ -}}
+{{- $page := .page -}}
+{{- $entries := slice -}}
+{{- range $index, $paper := .items -}}
+  {{- $authors := slice -}}
+  {{- range $paper.Params.authors -}}
+    {{- $authors = $authors | append (dict "@type" "Person" "name" .) -}}
+  {{- end -}}
+
+  {{- $url := partial "functions/page_url" $paper -}}
+  {{- $article := dict "@type" "ScholarlyArticle" "@id" $url "url" $url "headline" $paper.Title "author" $authors -}}
+  {{- with $paper.Params.summary -}}
+    {{- $article = merge $article (dict "description" (. | markdownify | plainify | htmlUnescape)) -}}
+  {{- end -}}
+  {{- if not $paper.Date.IsZero -}}
+    {{- $article = merge $article (dict "datePublished" ($paper.Date.Format "2006-01-02")) -}}
+  {{- end -}}
+  {{- with $paper.Params.publication -}}
+    {{- $article = merge $article (dict "isPartOf" (dict "@type" "Periodical" "name" .)) -}}
+  {{- end -}}
+
+  {{- /* Link only to the paper itself, not related slides or talk recordings. */ -}}
+  {{- $same_as := slice -}}
+  {{- range $paper.Params.links -}}
+    {{- if and .url (or (eq .name "arXiv") (eq .name $paper.Params.publication_short) (eq .name $paper.Params.publication)) -}}
+      {{- $same_as = $same_as | append .url -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $paper.Params.doi -}}
+    {{- $article = merge $article (dict "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)) -}}
+    {{- $same_as = $same_as | append (printf "https://doi.org/%s" .) -}}
+  {{- end -}}
+  {{- if $same_as -}}
+    {{- $article = merge $article (dict "sameAs" (uniq $same_as)) -}}
+  {{- end -}}
+
+  {{- $entries = $entries | append (dict "@type" "ListItem" "position" (add $index 1) "item" $article) -}}
+{{- end -}}
+{{- $list := dict "@context" "https://schema.org" "@type" "ItemList" "@id" (printf "%s#publication-list" $page.Permalink) "url" $page.Permalink "name" $page.Title "numberOfItems" (len $entries) "itemListElement" $entries -}}
+<script type="application/ld+json">{{ $list | jsonify | safeJS }}</script>

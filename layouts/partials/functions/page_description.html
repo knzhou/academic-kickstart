@@ -1,0 +1,11 @@
+{{- /* Prefer explicit descriptions, then page content, then a nonempty site default. */ -}}
+{{- $description := .Params.description | default .Params.summary | default .Params.abstract -}}
+{{- if not $description -}}
+  {{- if eq .Kind "404" -}}
+    {{- $description = printf "The requested page could not be found on %s's website." site.Title -}}
+  {{- else if .IsPage -}}
+    {{- $description = .Summary -}}
+  {{- end -}}
+{{- end -}}
+{{- $description = $description | default site.Params.description | default site.Title -}}
+{{- return (trim (replaceRE "\\s+" " " ($description | plainify | htmlUnescape)) " ") -}}

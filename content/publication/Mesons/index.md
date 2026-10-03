@@ -1,4 +1,6 @@
 ---
+# Used by the Papers list; no standalone detail page.
+headless: true
 title: "Probing Invisible Vector Meson Decays with NA64 and LDMX"
 authors:
 - "P. Schuster"
@@ -20,10 +22,10 @@ summary: "Electron beam fixed target experiments such as NA64 and LDMX can impro
 featured: false
 
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2112.02104
 - name: Phys. Rev. D
   url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.035036
+- name: arXiv
+  url: https://arxiv.org/abs/2112.02104
 - name: Talk slides
   url: https://knzhou.github.io/talks/MesonDecay.pdf
 

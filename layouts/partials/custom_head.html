@@ -1,0 +1,23 @@
+{{ if .IsHome }}
+{{/* Keep bookmarks to the former homepage sections working. */}}
+<script>
+  (function () {
+    var sectionPages = {
+      '#publications': {{ "/papers/" | relLangURL }},
+      '#teaching': {{ "/teaching/" | relLangURL }},
+      '#notes': {{ "/writing/#notes" | relLangURL }},
+      '#writing': {{ "/writing/" | relLangURL }}
+    };
+    function redirectSection() {
+      var destination = sectionPages[window.location.hash];
+      if (destination) {
+        var destinationURL = new URL(destination, window.location.href);
+        destinationURL.search = window.location.search;
+        window.location.replace(destinationURL.href);
+      }
+    }
+    redirectSection();
+    window.addEventListener('hashchange', redirectSection);
+  })();
+</script>
+{{ end }}

@@ -1,0 +1,18 @@
+<ul class="qft-weeks" role="list" aria-label="QFT I materials by week">
+  {{ range seq 10 }}
+  {{ $problems := printf "PS%d" . }}
+  {{ $label := "Problem set" }}
+  {{ if eq . 10 }}
+    {{ $problems = "Exam" }}
+    {{ $label = "Final exam" }}
+  {{ end }}
+  <li class="qft-week">
+    <span class="qft-week-label">Week {{ . }}</span>
+    <span class="qft-week-links">
+      <a href="{{ printf "qft/%s.pdf" $problems | relURL }}" target="_blank" rel="noopener noreferrer" aria-label="Week {{ . }}: {{ $label }} (opens in a new tab)">{{ $label }}</a>
+      <a href="{{ printf "qft/%sSol.pdf" $problems | relURL }}" target="_blank" rel="noopener noreferrer" aria-label="Week {{ . }}: {{ $label }} solutions (opens in a new tab)">Solutions</a>
+      <a href="{{ printf "qft/Section%d.pdf" . | relURL }}" target="_blank" rel="noopener noreferrer" aria-label="Week {{ . }}: Section notes (opens in a new tab)">Section notes</a>
+    </span>
+  </li>
+  {{ end }}
+</ul>
