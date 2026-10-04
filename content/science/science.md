@@ -33,13 +33,13 @@ subtitle = ""
 - {{% staticref "other/Langmuir_1953.pdf" "newtab" %}}Pathological Science{{% /staticref %}}
 - [A Selected History of Expectation Bias in Physics](https://arxiv.org/abs/physics/0508199)
 - [Anomalies in High Energy Physics](https://hepcomm.github.io/hepmist/)
+- [LZ Paper Map](https://davidcyncynates.github.io/lz-paper-map/)
 
-### The Replication Crisis
+### Research Reliability
 - [The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)
-- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) / {{% staticref "other/Gelman_2014.pdf" "newtab" %}}The Statistical Crisis in Science{{% /staticref %}}
-- [Replications and Reversals](https://forrt.org/reversals/) / [A Meta-Scientific Perspective on "Thinking: Fast and Slow"](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
+- [Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+- {{% staticref "other/Gelman_2014.pdf" "newtab" %}}The Statistical Crisis in Science{{% /staticref %}}
 - [Academic Urban Legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679)
-- [What's Wrong with Social Science and How to Fix It](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)
 - [I'm So Sorry for Psychology's Loss](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 
 ### The Grind
@@ -57,11 +57,17 @@ subtitle = ""
 - [Jaan Kalda's Handouts](https://www.ioc.ee/~kalda/ipho/)
 - [Reddit's Commonly Asked Questions](https://www.reddit.com/r/Physics/wiki/common)
 
+### Scientific Skepticism
+- {{% staticref "other/Dudley_1983.pdf" "newtab" %}}What To Do When The Trisector Comes{{% /staticref %}}
+- [Fighting Flat-Earth Theory](https://physicsworld.com/a/fighting-flat-earth-theory/) / [A Flat Earth?](https://brucesherwood.net/?p=420)
+- [How To Be Taken Seriously](https://www.cantorsparadise.com/how-to-tell-if-youre-about-to-revolutionize-science-a17b534b59a7)
+- [Weinstein, Hossenfelder, and a Crisis of Credibility](https://timothynguyen.org/2025/08/21/physics-grifters-eric-weinstein-sabine-hossenfelder-and-a-crisis-of-credibility/)
+
 ### Diversions and Games
 - [TeXnique](https://texnique.xyz)
 - [Particle Clicker](https://particle-clicker.web.cern.ch/)
 - [April Fools' Articles](http://peterdenton.github.io/Articles/AprilFools.html)
-- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html) / [viXra highlights]({{<ref "side">}})
+- [arXiv vs. snarXiv](http://snarxiv.org/vs-arxiv/) / [arXiv vs. qarXiv](https://www.mit.edu/~azlokapa/qarxiv/index.html)
 - APS Kaleidoscopes: [A](https://web.archive.org/web/20240510015624/https://journals.aps.org/pra/kaleidoscope), [B](https://web.archive.org/web/20240910113858/https://journals.aps.org/prb/kaleidoscope), [C](https://web.archive.org/web/20210127061300/https://journals.aps.org/prc/kaleidoscope), [D](https://web.archive.org/web/20240708223438/https://journals.aps.org/prd/kaleidoscope/), [E](https://web.archive.org/web/20221205181926/https://journals.aps.org/pre/kaleidoscope), [A&B](https://web.archive.org/web/20211030051422/https://journals.aps.org/prab/kaleidoscope)
 - [More Neat Links]({{<ref "links">}})
 
@@ -77,7 +83,7 @@ subtitle = ""
 - [The Big Crunch](https://authors.library.caltech.edu/records/874hp-dmd02)
 - {{% staticref "other/Kaiser_2012.pdf" "newtab" %}}Booms, Busts, and the World of Ideas{{% /staticref %}}
 - [So You Want To Go To Grad School (In The Humanities)](https://acoup.blog/2021/10/01/collections-so-you-want-to-go-to-grad-school-in-the-academic-humanities/)
-- [The Rumor Mill's History](https://particle.physics.ucdavis.edu/rumor/doku.php?id=history)
+- [The Rumor Mill's History](https://particle.physics.ucdavis.edu/rumor/doku.php?id=history) / {{% staticref "other/research_area_first_hires_2018_2026.pdf" "newtab" %}}Recent Statistics{{% /staticref %}}
 - [The Teaching Class](https://www.guernicamag.com/the-teaching-class/) 
 - [Somewhere Between a Jeremiad and a Eulogy](https://modernagejournal.com/somewhere-between-a-jeremiad-and-a-eulogy/217964/) 
 

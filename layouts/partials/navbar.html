@@ -55,6 +55,10 @@
 
         {{/* Get active page. */}}
         {{ $menu_url := .URL | relLangURL | string }}
+        {{/* Hugo normalizes menu URLs to lowercase; the CV filename is case-sensitive. */}}
+        {{ if eq .Identifier "cv" }}
+          {{ $menu_url = "/other/CV.pdf" | relURL | string }}
+        {{ end }}
         {{ $is_link_in_current_path := eq $current_page.RelPermalink $menu_url }}
         {{ if ne $menu_url ("/" | relLangURL | string) }}
           {{ $is_link_in_current_path = hasPrefix $current_page.RelPermalink $menu_url }}
@@ -75,7 +79,7 @@
         {{ end }}
 
         <li class="nav-item">
-          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{.URL | relLangURL}}"{{ if $is_link_in_current_path }} aria-current="page"{{ end }}{{ if and $is_widget_page $is_same_page (gt (len $hash) 0) }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
+          <a class="nav-link {{if $is_link_in_current_path }} active{{end}}" href="{{$menu_url}}"{{ if $is_link_in_current_path }} aria-current="page"{{ end }}{{ if and $is_widget_page $is_same_page (gt (len $hash) 0) }} data-target="{{$hash}}"{{ end }}{{ ($.Scratch.Get "target") | safeHTMLAttr }}>
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
           </a>
         </li>

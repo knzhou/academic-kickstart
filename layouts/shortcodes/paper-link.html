@@ -1,0 +1,6 @@
+{{- $key := .Get 0 -}}
+{{- with site.GetPage (printf "/publication/%s" $key) -}}
+  <a href="{{ partial "functions/page_url.html" . | relURL }}">{{ .Title }}</a>
+{{- else -}}
+  {{- errorf "paper-link: publication %q not found (%s)" $key .Position -}}
+{{- end -}}

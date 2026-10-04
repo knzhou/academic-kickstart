@@ -164,6 +164,43 @@ body {
   color: #ddd;
 }
 
+/* Research figures keep their full aspect ratio and expand in the lightbox. */
+.research-figure {
+  max-width: 520px;
+  margin: 1.5rem auto;
+}
+
+.research-figure-wide {
+  max-width: 100%;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-figure figcaption {
+  margin-top: 0.65rem;
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.dark .research-figure figcaption {
+  color: #ccc;
+}
+
+/* Identify the paper reached from a research theme or another direct link. */
+.paper-card {
+  scroll-margin-top: 90px;
+}
+
+.paper-card:target {
+  border-color: #2962ff;
+}
+
 /* Keep each week's QFT materials together in compact, responsive rows. */
 .qft-weeks {
   display: grid;

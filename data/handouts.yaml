@@ -96,9 +96,9 @@ supplemental:
   - code: UD
     file: USAPhOD
     title: Practice USAPhO D
-  - code: --
+  - code: –
     file: Expt
     title: Experimental Training
-  - code: --
+  - code: –
     file: Final
     title: Conclusion

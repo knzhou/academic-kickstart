@@ -1,0 +1,31 @@
+# Source record for the figures on the Research page (not displayed).
+# Crops were rendered with pdftoppm, using -scale-to 1800 and pixel coordinates.
+# The PDFs in static/talks remain the original source references.
+
+[[figures]]
+file = "/img/research/heterodyne-prototype.jpg"
+source = "static/talks/HeterodyneAxion.pdf"
+page = 12
+crop = [31, 154, 1728, 500] # x, y, width, height
+paper = "Heterodyne"
+
+[[figures]]
+file = "/img/research/neutron-scattering.png"
+source = "static/talks/NeutronScattering.pdf"
+page = 7
+crop = [726, 135, 1014, 834]
+paper = "SpinDependent"
+
+[[figures]]
+file = "/img/research/quantum-suppression.png"
+source = "static/talks/Suppression.pdf"
+page = 12
+crop = [34, 98, 844, 480]
+paper = "Suppression"
+
+[[figures]]
+file = "/img/research/continuous-spin-radiation.png"
+source = "static/talks/ContinuousSpin.pdf"
+page = 32
+crop = [669, 215, 1028, 768]
+paper = "CSPInteraction"

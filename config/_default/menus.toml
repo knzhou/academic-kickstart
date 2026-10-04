@@ -8,16 +8,27 @@
   weight = 1
 
 [[main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
+
+[[main]]
   name = "Papers"
   url = "/papers/"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "Teaching"
   url = "/teaching/"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Writing"
   url = "/writing/"
   weight = 6
+
+[[main]]
+  name = "CV"
+  identifier = "cv"
+  url = "/other/CV.pdf"
+  weight = 7
