@@ -17,7 +17,9 @@ css_class = "research-page"
      from content/publication and uses that paper's current title and anchor.
      Figure sources and extraction details are in data/research_figures.toml. -->
 
-I work on new ways to test fundamental physics, connecting particle theory with precision experiments. Some of my research themes are outlined below; the linked papers give more details.
+To be added!
+
+<!-- I work on new ways to test fundamental physics, connecting particle theory with precision experiments. Some of my research themes are outlined below; the linked papers give more details.
 
 ## Axion dark matter searches
 
@@ -66,3 +68,4 @@ Relativity and quantum mechanics allow massless particles with a continuous spin
 Selected paper:
 
 - {{< paper-link "CSPInteraction" >}}
+ -->
