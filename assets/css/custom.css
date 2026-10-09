@@ -14,6 +14,11 @@ body {
   padding-bottom: 80px;
 }
 
+.about-profile #profile {
+  /* The section already supplies space above the avatar. */
+  padding-top: 0;
+}
+
 /* Preserve the original typography while using the correct heading levels. */
 .portrait-title .portrait-name {
   font-size: 1.75em;
@@ -57,9 +62,16 @@ body {
   margin-left: auto;
 }
 
-/* Larger navigation links with comfortable spacing on desktop and mobile. */
+#navbar-main .navbar-menu {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  min-width: 0;
+}
+
+/* Keep comfortable click targets with slightly smaller desktop labels. */
 #navbar-main .navbar-nav .nav-link {
-  font-size: 20px;
+  font-size: 18px;
   padding-left: 0.9rem;
   padding-right: 0.9rem;
   min-height: 44px;
@@ -68,6 +80,78 @@ body {
 #navbar-main .navbar-nav .nav-link:focus-visible {
   outline: 2px solid currentColor;
   outline-offset: -2px;
+}
+
+/* Reduce desktop header height by 10%, keeping the content offset in sync. */
+@media (min-width: 992px) {
+  body {
+    margin-top: 63px;
+  }
+
+  #navbar-main {
+    min-height: 63px !important;
+  }
+
+  #navbar-main .navbar-brand,
+  #navbar-main .navbar-nav .nav-link {
+    padding-top: 6.5px;
+    padding-bottom: 6.5px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  body {
+    margin-top: 45px;
+  }
+
+  #navbar-main {
+    min-height: 45px !important;
+  }
+
+  #navbar-main .navbar-brand {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+  }
+}
+
+/* Mobile navigation stays visible in a single horizontally scrollable row. */
+@media (max-width: 991.98px) {
+  body {
+    margin-top: 44px;
+  }
+
+  #navbar-main {
+    min-height: 44px !important;
+  }
+
+  #navbar-main .navbar-brand {
+    display: none;
+  }
+
+  #navbar-main .navbar-menu {
+    flex-basis: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+  }
+
+  #navbar-main .navbar-menu::-webkit-scrollbar {
+    display: none;
+  }
+
+  #navbar-main .navbar-nav {
+    flex-direction: row;
+    flex-shrink: 0;
+    margin: 0 !important;
+  }
+
+  #navbar-main .navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 10px;
+  }
 }
 
 /* Align section labels with their content without widening the reading column. */
