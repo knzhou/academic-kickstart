@@ -55,7 +55,8 @@ social:
   icon: envelope
   icon_pack: fas
   link: mailto:kzhou7@berkeley.edu
-- label: Download CV
+- label: Curriculum Vitae
+  show_icon: true
   icon: cv
   icon_pack: ai
   link: /other/CV.pdf
@@ -64,8 +65,14 @@ social:
 
 I'm a postdoctoral researcher at the UC Berkeley Leinweber Institute for Theoretical Physics.
 
-Precision measurement technology is advancing rapidly, and my work focuses on using it to accelerate the discovery of physics beyond the Standard Model. To do this, I find novel laboratory signals of new fundamental particles, consistent with relativity and quantum mechanics, and work with experimentalists to develop effective "tabletop" detectors.
+Precision measurement technology is advancing rapidly, and I focus on using it to accelerate the discovery of physics beyond the Standard Model. This involves answering two questions: 
 
-For instance, I have worked on searches for axion dark matter using superconducting cavities, now pursued in America, Europe, and China. I have also investigated infrared modifications of electromagnetism and gravity from continuous spin, new signals of axial vector dark matter, and the quantum effects of gravitational waves.
+#### How can new, weakly coupled physics appear in the lab?
 
-Previously, I got my PhD at Stanford in 2024, Master's degrees at Cambridge and Oxford, and a Bachelor's degree at MIT. During that time I spent a lot of energy on physics education, and I'm still always interested in hearing a good physics puzzle.
+There are only a few promising signatures compatible with quantum mechanics, relativity, and minimality. For example, I've identified the quantum effects of gravitational waves, and found the couplings of axial vector and two-form dark matter. I also resolved a century-old mystery by constructing the first interacting theory with continuous spin, which yields distinctive infrared modifications of electromagnetism and gravity. All these effects involve a single new field or parameter, yet were unappreciated before, because simple physics is subtle. 
+
+#### What is the most effective way to search for each signature?
+
+I have proposed "tabletop" searches for axion dark matter through all of its couplings, focusing on new methods that yield parametric sensitivity enhancements. I work with experimentalists to develop prototypes, and a method I co-proposed involving superconducting cavities is now being built by five separate groups in America, Europe, and Asia. Collectively, these methods can probe the QCD axion across the full mass range motivated by minimal dark matter production. 
+
+Previously, I got my PhD at Stanford in 2024, Master's degrees at Cambridge and Oxford, and a Bachelor's degree at MIT. I've also spent a lot of energy on physics education and outreach, and I'm always interested in hearing a good physics puzzle.
