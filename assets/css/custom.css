@@ -19,6 +19,59 @@ body {
   padding-top: 0;
 }
 
+/* Keep education compact beneath the profile links. */
+.profile-education {
+  width: max-content;
+  max-width: 100%;
+  margin: 30px auto 0;
+  color: #000;
+  font-size: 15px;
+  line-height: 1.45;
+  text-align: left;
+}
+
+.profile-education ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.profile-education h2 {
+  margin: 0 0 12px;
+  color: inherit;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.profile-education li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 8px;
+}
+
+.profile-education .university-icon {
+  display: block;
+  flex: 0 0 20px;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  object-fit: contain;
+}
+
+.profile-education li:last-child {
+  margin-bottom: 0;
+}
+
+.dark .profile-education {
+  color: #fff;
+}
+
+.dark .profile-education .university-icon {
+  filter: invert(1);
+}
+
 /* Preserve the original typography while using the correct heading levels. */
 .portrait-title .portrait-name {
   font-size: 1.75em;
@@ -479,8 +532,9 @@ body {
   }
 
   .papers-layout .aligned-row {
-    grid-template-columns: 120px minmax(0, 1fr);
-    column-gap: 24px;
+    /* Reclaim space beside the years so summaries fit at their original size. */
+    grid-template-columns: 52px minmax(0, 1fr);
+    column-gap: 16px;
   }
 
   .about-profile {

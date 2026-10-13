@@ -23,20 +23,24 @@ name: Kevin Zhou
 # Short bio (displayed in user profile at end of posts)
 # bio: I'm a postdoc interested in both theoretical particle physics and new experiments to test it.
 
-# education:
-#   courses:
-#   - course: PhD in Physics
-#     institution: Stanford
-#     year: 2024
-#   - course: MSc in Mathematical and Theoretical Physics
-#     institution: Oxford
-#     year: 2019
-#   - course: MASt in Mathematics
-#     institution: Cambridge
-#     year: 2018
-#   - course: BSc in Physics and Mathematics
-#     institution: MIT
-#     year: 2017
+education:
+  courses:
+  - course: PhD
+    institution: Stanford
+    year: 2024
+    icon: /img/universities/stanford.png
+  - course: MSc
+    institution: Oxford
+    year: 2019
+    icon: /img/universities/oxford.svg
+  - course: MASt
+    institution: Cambridge
+    year: 2018
+    icon: /img/universities/cambridge.png
+  - course: Bachelor's
+    institution: MIT
+    year: 2017
+    icon: /img/universities/mit.svg
 
 # Profile links
 social:
@@ -57,8 +61,8 @@ social:
   link: mailto:kzhou7@berkeley.edu
 - label: Curriculum Vitae
   show_icon: true
-  icon: cv
-  icon_pack: ai
+  icon: download
+  icon_pack: fas
   link: /other/CV.pdf
 
 ---
@@ -73,6 +77,6 @@ There are only a few promising signatures compatible with quantum mechanics, rel
 
 #### What is the most effective way to search for each signature?
 
-I have proposed "tabletop" searches for axion dark matter through all of its couplings, focusing on new methods that yield parametric sensitivity enhancements. I work with experimentalists to develop prototypes, and a method I co-proposed involving superconducting cavities is now being built by five separate groups in America, Europe, and Asia. Collectively, these methods can probe the QCD axion across the full mass range motivated by minimal dark matter production. 
+I have proposed "tabletop" searches for axion dark matter through all of its couplings, focusing on new methods that yield parametric sensitivity enhancements. Collectively, these methods can probe the QCD axion across the full mass range motivated by minimal dark matter production. I work with experimentalists to develop prototypes, and a method I co-proposed involving superconducting cavities is now being built by five separate groups in America, Europe, and Asia.
 
-Previously, I got my PhD at Stanford in 2024, Master's degrees at Cambridge and Oxford, and a Bachelor's degree at MIT. I've also spent a lot of energy on physics education and outreach, and I'm always interested in hearing a good physics puzzle.
+Beyond research, I've spent a lot of energy on physics education and outreach, such as for the USA Physics Olympiad, and I'm always interested in hearing a good physics puzzle.

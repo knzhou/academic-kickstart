@@ -57,6 +57,20 @@
         {{ end }}
       </ul>
 
+      {{ with $person.education }}
+      <section class="profile-education" aria-labelledby="profile-education-heading">
+        <h2 id="profile-education-heading">{{ i18n "education" }}</h2>
+        <ul>
+          {{ range .courses }}
+          <li>
+            {{ with .icon }}<img class="university-icon" src="{{ . | relURL }}" alt="" width="20" height="20">{{ end }}
+            <span>{{ .course }}, {{ .institution }}{{ with .year }} ({{ . }}){{ end }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
     </div>
   </div>
   <div class="about-biography">
@@ -73,23 +87,6 @@
         <ul class="ul-interests">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      {{ with $person.education }}
-      <div class="col-md-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
           {{ end }}
         </ul>
       </div>
